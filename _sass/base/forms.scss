@@ -1,0 +1,49 @@
+form {
+  padding-right: 2em;
+  text-align: left;
+
+  label {
+    display: block;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 1em;
+    margin-bottom: .5em;
+  }
+
+  input,
+  select,
+  textarea {
+    padding: 5px;
+    width: 60%;
+  }
+
+  textarea {
+    width: 100%;
+    height: 150px;
+    display: block;
+  }
+
+  input[type="submit"] {
+    border-radius: 10px;
+    border: 1px sold #999;
+    width: 25%;
+  }
+
+  input[type="submit"]:hover {
+    border: 2px solid #cfcfcf;
+  }
+}
+
+@media screen and (max-width: 720px) {
+
+  form {
+    div,
+    label,
+    input,
+    select,
+    textarea,
+    input[type="submit"] {
+      width: 100%;
+    }
+  }
+}
