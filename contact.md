@@ -3,10 +3,8 @@ title: Contact Me
 layout: page
 ---
 
-It's good to talk, and I'd love to hear from you. Reach out by sending a quick message via the form below.
-
-Fancy a coffee or a call? Book a slot in my calendar, being sure to include your contact details and a
-suggested venue. I'll ping you a message to confirm.
+It's good to talk, and I'd love to hear from you. Reach out by sending a quick
+message via the form below. If you want a call back..... be sure to include your number.
 
 <form action="https://formtunnel.herokuapp.com/submissions" method="post">
 

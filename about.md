@@ -2,46 +2,119 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+
+<h1 id="aboutMe">About me</h1>
+
+{::comment}
+
+<button id="jsonButton">JSON Format</button>
+<button id="YAMLButton">YAML Format</button>
+<button id="HumanReadableButton">Human Readable Format</button>
+
+<div id="about-json">
+<pre><code>{
+  "vitalStatistics": {
+    "name": "Tony Edwards",
+    "description": "Coder, Connector, Creator of Awesomeness",
+    "dayJob": "Education Outreach, Software Cornwall",
+    "sideHustle": "Director, Future Sync Events Ltd"
+  },
+  "education": {
+    "degree": "BSc Hons Web Application Development",
+    "institution": "Plymouth University"
+  },
+  "socialNetworkHandle": {
+    "allOfThem": "tonyedwardspz"
+  },
+  "softwareDevelopment":{
+    "programmingPreference": "Full Stack JavaScript (ES6)",
+    "programmingExperience": "JavaScript, Ruby, Swift, Java (Android), HTML, CSS",
+    "currentlyExploring": "WebVR, Speech Recognition",
+    "gitHub": "https://github.com/tonyedwardspz"
+  },
+  "dependencies": {
+    "drinks": "Green Tea",
+    "eats": "Scones (Jam First)",
+    "listensTo": "Hip-Hop, Audio Books and Podcasts"
+  },
+  "devDependencies": {
+    "coffee": "^8oz Latte"
+  }
+}
+</code></pre>
+</div>
 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<div id="about-yaml">
+<pre><code>
+vitalStatistics:
+    name: 'Tony Edwards'
+    description: 'Coder, Connector, Creator of Awesomeness'
+    dayJob: 'Education Outreach, Software Cornwall'
+    sideHustle: 'Director, Future Sync Events Ltd'
+education:
+    degree: 'BSc Hons Web Application Development'
+    institution: 'Plymouth University'
+socialNetworkHandle:
+    allOfThem: tonyedwardspz
+softwareDevelopment:
+    programmingPreference: 'Full Stack JavaScript (ES6)'
+    programmingExperience: 'JavaScript, Ruby, Swift, Java (Android), HTML, CSS'
+    currentlyExploring: 'WebVR, Speech Recognition'
+    gitHub: 'https://github.com/tonyedwardspz'
+dependencies:
+    drinks: 'Green Tea'
+    eats: 'Scones (Jam First)'
+    listensTo: 'Hip-Hop, Audio Books and Podcasts'
+devDependencies:
+    coffee: '^8oz Latte'
+</code></pre>
+</div>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+{:/comment}
 
-<h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<div id="about-human">
+<p>Hey. I'm Tony.</p>
 
-<h2>Projects</h2>
+<p>I'm currently working in Education Outreach for Software Cornwall. I head up the
+delivery of the RIO Game Changer Project in partnership with Cornwall College. The
+project focuses upon engaging with young adults who are not in education, employment
+or training.</p>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>Beyond the day job, I host events under the Future Sync banner. Whilst studying
+for my degree in Web Applications Development, I fell in love with digital communities
+across the South West. This love developed into my own meetup, Kernow DAT and the
+Future Sync conference, hosted at Plymouth University.</p>
+
+<h2>The Back Story</h2>
+
+<p>I created my first website back in 2002. It was a simpler time back then. Learning
+the basics of web development was as easy as viewing source and poaching the good stuff.
+Table layouts….those were the days. Fast forwarding to University, I focused on learning
+modern JavaScript whilst creating standards compliant, cross browser web applications.</p>
+
+<p>There, I added to my front end experience, learning about what it takes
+to make great software. Usability, software design and database development were just some of
+the modules covered as part of my course. As you’d expect from a degree, I’ve been
+exposed to lots of languages including PHP, Java, C#, JavaScript and ASP. As a web
+developer I’ve gravitated to a web stack which includes HTML, CSS, JavaScript, Node.js,
+PHP, Ruby, Jekyll and WordPress.</p>
+
+<p>During the course I did a 15 month placement with Plymouth Software, working on Rails,
+iOS and Android applications. As part of my placement I was encouraged to develop my own
+side projects, the first of which was to re-develop an existing project from PHP to Rails.
+It was at Plymouth Software where I leaned that software development is all about
+choosing the right tool for the job.</p>
+
+<p>Before starting university I had a four year hiatus from web development whilst working
+in retail. I climbed to the dizzying heights of a store manager for a national chain. I
+learned a great deal about the hard work and commitment needed to run a successful
+business and managing a diverse team. After an especially long summer I had a moment
+of clarity and decided to throw myself what I enjoyed doing……web development.</p>
+
+<p>I could go on for hours, but I expect you’re a busy person. If you want to know more,
+get in touch. Perhaps we could grab a coffee.</p>
+
+<p>I’ll bring the cake.</p>
+</div>
