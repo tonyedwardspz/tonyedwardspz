@@ -77,8 +77,9 @@ devDependencies:
 <div id="about-human">
 <p>Hey. I'm Tony.</p>
 
-<p>I'm currently working in Education Outreach for Software Cornwall. I head up the
-delivery of the RIO Game Changer Project in partnership with Cornwall College. The
+<p>I currently working in Education Outreach for Software Cornwall, a network or tech businesses
+spanning the county. I head up Software Cornwall's
+delivery of the Game Changer Project in partnership with Cornwall College and the Real Ideas Organisation. The
 project focuses upon engaging with young adults who are not in education, employment
 or training.</p>
 
@@ -97,13 +98,13 @@ modern JavaScript whilst creating standards compliant, cross browser web applica
 <p>There, I added to my front end experience, learning about what it takes
 to make great software. Usability, software design and database development were just some of
 the modules covered as part of my course. As you’d expect from a degree, I’ve been
-exposed to lots of languages including PHP, Java, C#, JavaScript and ASP. As a web
+exposed to lots of languages including PHP, Java, C#, JavaScript and .NET. As a web
 developer I’ve gravitated to a web stack which includes HTML, CSS, JavaScript, Node.js,
 PHP, Ruby, Jekyll and WordPress.</p>
 
-<p>During the course I did a 15 month placement with Plymouth Software, working on Rails,
+<p>During the course I did a 15 month placement with Plymouth Software, building Ruby on Rails,
 iOS and Android applications. As part of my placement I was encouraged to develop my own
-side projects, the first of which was to re-develop an existing project from PHP to Rails.
+side projects, the first of which was to re-develop an existing project from PHP into Rails.
 It was at Plymouth Software where I leaned that software development is all about
 choosing the right tool for the job.</p>
 
@@ -114,7 +115,7 @@ business and managing a diverse team. After an especially long summer I had a mo
 of clarity and decided to throw myself what I enjoyed doing……web development.</p>
 
 <p>I could go on for hours, but I expect you’re a busy person. If you want to know more,
-get in touch. Perhaps we could grab a coffee.</p>
+[get in touch](https://tonyedwardspz.co.uk/contact/). Perhaps we could grab a coffee.</p>
 
 <p>I’ll bring the cake.</p>
 </div>
