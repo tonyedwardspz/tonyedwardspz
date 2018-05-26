@@ -21,6 +21,12 @@
             </li>
         {% endif %}
 
+        {% if site.speaking == true %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/speaking">Speaking</a>
+            </li>
+        {% endif %}
+
         {% if site.contact == true %}
             <li class="item">
                 <a class="link" href="{{ site.url }}/contact">Contact</a>
