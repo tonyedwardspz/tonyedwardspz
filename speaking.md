@@ -3,12 +3,15 @@ title: Speaking
 layout: page
 ---
 
-I have been known to speak at meetups and conferences for developers, generally
-focusing on modern web technologies. Talks are typically fast paced, entertaining,
-and always a little different from the majority of sessions. One of my
-current talks focuses on how HTMLs speachRecognitionAPI can help write hip-hop songs.
+I really enjoy speaking at meetups and conferences for digital folk.
+Talks are typically fast paced, entertaining (hopefully),
+and generally a little different from the majority of sessions.
 
-Get in touch or check me out on Paper Call if you'd like me to join your event.
+One of my current talks focuses on the HTML5 speechRecognitionAPI and how it helps me
+write hip-hop lyrics. I'd love to find more opportunities to deliver it.
+
+[Get in touch](https://tonyedwardspz.co.uk/contact/) or check me out on
+[Paper Call](https://www.papercall.io/speakers/tonyedwardspz) if you'd like me to speak at your event.
 
 ## Past, present and future speaking experience.
 

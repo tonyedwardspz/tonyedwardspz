@@ -23,14 +23,20 @@ form {
     display: block;
   }
 
-  input[type="submit"] {
+  input[type="submit"],
+  button {
     border-radius: 10px;
     border: 1px sold #999;
     width: 25%;
   }
 
-  input[type="submit"]:hover {
+  input[type="submit"]:hover,
+  button {
     border: 2px solid #cfcfcf;
+  }
+
+  button {
+    margin-top: 1em;
   }
 }
 
@@ -42,7 +48,8 @@ form {
     input,
     select,
     textarea,
-    input[type="submit"] {
+    input[type="submit"],
+    button {
       width: 100%;
     }
   }
