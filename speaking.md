@@ -2,6 +2,7 @@
 title: Speaking
 layout: page
 ---
+# Speaking
 
 I really enjoy speaking at meetups and conferences for digital folk.
 Talks are typically fast paced, entertaining (hopefully),

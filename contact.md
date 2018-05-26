@@ -3,6 +3,8 @@ title: Contact Me
 layout: page
 ---
 
+# Contact
+
 It's good to talk, and I'd love to hear from you. Reach out by sending a quick
 message via the form below. If you want a call back..... be sure to include your number.
 
