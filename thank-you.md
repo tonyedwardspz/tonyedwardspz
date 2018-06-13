@@ -3,4 +3,6 @@ title: Thank you for getting in touch
 layout: page
 ---
 
+# Thank you
+
 Thanks for sending a message. It has been successfully sent and I'll be in touch soon.
