@@ -17,6 +17,7 @@ write hip-hop lyrics. I'd love to find more opportunities to deliver it.
 ## Past, present and future speaking experience.
 
 - Tech Exeter: September 2018
+- Agile on the Beach: July 2018
 - Digital Plymouth: June 2018
 - Mission to Mars - Teams presentations (Host): April 2018
 - Plymouth Web: February 2018
