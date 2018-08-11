@@ -17,7 +17,10 @@ and meetups with a code of conduct in place.
 
 ## Past, present and future speaking experience.
 
+- Bristol JS: October 2018
+- Kernow DAT: September 2018
 - Tech Exeter: September 2018
+- Mission to Mars - Workshop Host / Organiser: July 2018
 - Agile on the Beach: July 2018
 - Mission to Mars - Workshop Host / Organiser: July 2018
 - Digital Plymouth: June 2018
