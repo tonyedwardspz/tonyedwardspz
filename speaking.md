@@ -17,6 +17,7 @@ and meetups with a code of conduct in place.
 
 ## Past, present and future speaking experience.
 
+- HalfStack: November 2018
 - Bristol JS: October 2018
 - Kernow DAT: September 2018
 - Tech Exeter: September 2018
