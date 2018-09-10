@@ -8,7 +8,7 @@ I really enjoy speaking at meetups and conferences for digital folk.
 Talks are typically fast paced, entertaining (hopefully),
 and generally a little different from the majority of sessions.
 
-One of my current talks focuses on the HTML5 speechRecognitionAPI and how it helps
+One of my current talks focuses on the HTML5 speechRecognitionAPI and how it helps me
 write hip-hop lyrics. I'd love to find more opportunities to deliver it at conferences
 and meetups with a code of conduct in place.
 
@@ -18,8 +18,12 @@ and meetups with a code of conduct in place.
 ## Past, present and future speaking experience.
 
 - HalfStack: November 2018
+- Computing at Schools South West Conference - Workshop Host: November 2018
 - Bristol JS: October 2018
+- Web Dev Conf: October 2018
 - Kernow DAT: September 2018
+- Software Cornwall Tech Connect - Workshop Host: September 2018
+- Tech South West - Tech Nation comes to the South West: September 2018
 - Tech Exeter: September 2018
 - Mission to Mars - Workshop Host / Organiser: July 2018
 - Agile on the Beach: July 2018
