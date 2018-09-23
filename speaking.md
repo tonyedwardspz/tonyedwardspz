@@ -22,7 +22,7 @@ and meetups with a code of conduct in place.
 - Bristol JS: October 2018
 - Web Dev Conf: October 2018
 - Kernow DAT: September 2018
-- Software Cornwall Tech Connect - Workshop Host: September 2018
+- Software Cornwall Tech Connect - Organiser / Speaker:  September 2018
 - Tech South West - Tech Nation comes to the South West: September 2018
 - Tech Exeter: September 2018
 - Mission to Mars - Workshop Host / Organiser: July 2018
