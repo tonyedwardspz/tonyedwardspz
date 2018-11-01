@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tonyedwardspz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tonyedwardspz.co.uk
+  * I am tonyedwardspz (https://keybase.io/tonyedwardspz) on keybase.
+  * I have a public key ASA0_Z0UN9j4cIb-2UDxcXqwljwT8CMYeePthl0YcQPc0Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012034fd9d1437d8f87086fed940f1717ab0963c13f0231879e3ed865d187103dcd10a",
+      "host": "keybase.io",
+      "kid": "012034fd9d1437d8f87086fed940f1717ab0963c13f0231879e3ed865d187103dcd10a",
+      "uid": "0314ba1a5af2dd5afe8b327ecf8b7319",
+      "username": "tonyedwardspz"
+    },
+    "merkle_root": {
+      "ctime": 1541101590,
+      "hash": "3eef4df4d16db53a1d806834d614589a7d1c77d0f93586c185e7c209cb7b258f748f766ac4894f9564f0e3483a48ff7225cce2e06de00dea4a29472bfdd1bb0d",
+      "hash_meta": "8340a6bc4254eaf99d0ed12ceb7deb019e07bd060d8628ba6edc086b01ab3846",
+      "seqno": 3883323
+    },
+    "service": {
+      "entropy": "kuDG4ZcxuxIv312RnGeX4JZK",
+      "hostname": "tonyedwardspz.co.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.9.0"
+  },
+  "ctime": 1541101618,
+  "expire_in": 504576000,
+  "prev": "1fca76e0031277d73c167650bdac4b85eb803057a1b95669826e119279a36661",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNP2dFDfY+HCG/tlA8XF6sJY8E/AjGHnj7YZdGHED3NEKp3BheWxvYWTESpcCCcQgH8p24AMSd9c8FnZQvaxLheuAMFehuVZpgm4RknmjZmHEIEtxsZD1fmKBxqZoQJ5jSl29kM2EIvHf2QEgvocW/cvdAgHCo3NpZ8RALBl+AMWiYcV8AWPYr60I2+XOGwPmQ487mb91JzzEmPlfLbJKoYPP87Bf9ScP700blESHbTCEsc/F5Z+wMCiWDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKaiLzZwn7xKpjH9HvfUbN1xv9RsP/GWvw80Q/CsY0i+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tonyedwardspz
+
+==================================================================
