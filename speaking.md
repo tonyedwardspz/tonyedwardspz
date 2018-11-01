@@ -20,7 +20,9 @@ and meetups with a code of conduct in place.
 - HalfStack: November 2018
 - Computing at Schools South West Conference - Workshop Host: November 2018
 - Bristol JS: October 2018
+- Mission to Mars - Workshop Host / Organiser: October 2018
 - Web Dev Conf: October 2018
+- Plymouth University - Guest Lecture: September 2018
 - Kernow DAT: September 2018
 - Software Cornwall Tech Connect - Organiser / Speaker:  September 2018
 - Tech South West - Tech Nation comes to the South West: September 2018
@@ -29,11 +31,11 @@ and meetups with a code of conduct in place.
 - Agile on the Beach: July 2018
 - Mission to Mars - Workshop Host / Organiser: July 2018
 - Digital Plymouth: June 2018
-- Mission to Mars - Teams presentations (Host): April 2018
+- Mission to Mars - Workshop Host / Organiser: April 2018
 - Plymouth Web: February 2018
-- Mission to Mars - Teams presentations (Host): October 2017
+- Mission to Mars - Workshop Host / Organiser: October 2017
 - Pitch up at the Blue: September 2017
-- Future Sync (Conference close / Organiser): June 2017
-- Kernow DAT (Host): April 2017
-- Agile South West (Host): March 2017
+- Future Sync - Conference close / Organiser: June 2017
+- Kernow DAT - Host: April 2017
+- Agile South West - Host: March 2017
 - Plymouth JS: August 2016
