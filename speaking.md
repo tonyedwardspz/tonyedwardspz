@@ -17,14 +17,17 @@ and meetups with a code of conduct in place.
 
 ## Past, present and future speaking experience.
 
-- HalfStack: November 2018
+- HalfStack Vienna: September 2019
+- Digital Plymouth: February 2019
+- Software Cornwall Tech Connect Meetup - Host / Organiser : February 2019
+- HalfStack: November 2018 / [Video](https://halfstackconf.streameventlive.com/archive/33)
 - Computing at Schools South West Conference - Workshop Host: November 2018
-- Bristol JS: October 2018
+- Bristol JS: October 2018 / [Video](https://www.youtube.com/watch?v=IF1kcgWu_fs)
 - Mission to Mars - Workshop Host / Organiser: October 2018
 - Web Dev Conf: October 2018
 - Plymouth University - Guest Lecture: September 2018
 - Kernow DAT: September 2018
-- Software Cornwall Tech Connect - Organiser / Speaker:  September 2018
+- Software Cornwall Tech Connect - Organiser / Speaker: September 2018
 - Tech South West - Tech Nation comes to the South West: September 2018
 - Tech Exeter: September 2018
 - Mission to Mars - Workshop Host / Organiser: July 2018
