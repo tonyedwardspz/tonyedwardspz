@@ -8,9 +8,9 @@ I really enjoy speaking at meetups and conferences for digital folk.
 Talks are typically fast paced, entertaining (hopefully),
 and generally a little different from the majority of sessions.
 
-One of my current talks focuses on the HTML5 speechRecognitionAPI and how it helps me
+One of my current talks focuses on the HTML5 speechRecognitionAPI and how it helps me to
 write hip-hop lyrics. I'd love to find more opportunities to deliver it at conferences
-and meetups with a code of conduct in place.
+and meetups with an enforceable code of conduct in place.
 
 [Get in touch](https://tonyedwardspz.co.uk/contact/) or check me out on
 [Paper Call](https://www.papercall.io/speakers/tonyedwardspz) if you'd like me to speak at your event.
@@ -18,6 +18,8 @@ and meetups with a code of conduct in place.
 ## Past, present and future speaking experience.
 
 - HalfStack Vienna: September 2019
+- ProductTank Exeter: September 2019
+- JSDay Verona: May 2019
 - Digital Plymouth: February 2019
 - Software Cornwall Tech Connect Meetup - Host / Organiser : February 2019
 - HalfStack: November 2018 / [Video](https://halfstackconf.streameventlive.com/archive/33)
