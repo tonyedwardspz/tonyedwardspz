@@ -20,6 +20,7 @@ and meetups with an enforceable code of conduct in place.
 - HalfStack Vienna: September 2019
 - ProductTank Exeter: September 2019
 - JSDay Verona: May 2019
+- Plymouth University Science and Engineering Event: March 2019
 - Digital Plymouth: February 2019
 - Software Cornwall Tech Connect Meetup - Host / Organiser : February 2019
 - HalfStack: November 2018 / [Video](https://halfstackconf.streameventlive.com/archive/33)
