@@ -29,10 +29,10 @@ and meetups with an enforceable code of conduct in place.
 - Mission to Mars - Workshop Host / Organiser: October 2018
 - Web Dev Conf: October 2018
 - Plymouth University - Guest Lecture: September 2018
-- Kernow DAT: September 2018
+- Kernow DAT - Organiser / Speaker: September 2018
 - Software Cornwall Tech Connect - Organiser / Speaker: September 2018
 - Tech South West - Tech Nation comes to the South West: September 2018
-- Tech Exeter: September 2018
+- Tech Exeter Conference: September 2018
 - Mission to Mars - Workshop Host / Organiser: July 2018
 - Agile on the Beach: July 2018
 - Mission to Mars - Workshop Host / Organiser: July 2018
