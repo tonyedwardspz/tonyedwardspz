@@ -19,8 +19,12 @@ and meetups with an enforceable code of conduct in place.
 
 - HalfStack Vienna: September 2019
 - ProductTank Exeter: September 2019
-- JSDay Verona: May 2019
-- Plymouth University Science and Engineering Event: March 2019
+- Mission to Mars - Workshop Host / Organiser: July 2019
+- DAZN Internal Developer Conference - June 2019
+- JSDay Verona: May 2019 [Video](https://www.youtube.com/watch?v=IK62HVzcbyA)
+- YENA Plymouth Fireside Chat: April 2019
+- Future Sync Conference - Host / Organiser: April 2019
+- Plymouth University Science and Engineering Networking Event: March 2019
 - Digital Plymouth: February 2019
 - Software Cornwall Tech Connect Meetup - Host / Organiser : February 2019
 - HalfStack: November 2018 / [Video](https://halfstackconf.streameventlive.com/archive/33)
@@ -34,7 +38,7 @@ and meetups with an enforceable code of conduct in place.
 - Tech South West - Tech Nation comes to the South West: September 2018
 - Tech Exeter Conference: September 2018
 - Mission to Mars - Workshop Host / Organiser: July 2018
-- Agile on the Beach: July 2018
+- Agile on the Beach: July 2018 [Video](https://www.youtube.com/watch?v=2yFkNmgj96c)
 - Mission to Mars - Workshop Host / Organiser: July 2018
 - Digital Plymouth: June 2018
 - Mission to Mars - Workshop Host / Organiser: April 2018
