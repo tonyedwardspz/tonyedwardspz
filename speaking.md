@@ -17,8 +17,17 @@ and meetups with an enforceable code of conduct in place.
 
 ## Past, present and future speaking experience.
 
+### 2020
+
+- TBA: Feb 2020
+
+### 2019
+
+- Digitally Enhanced - Host: October 2019
 - HalfStack Vienna: September 2019
+- South West IoT Network Launch: September 2019
 - ProductTank Exeter: September 2019
+- Pitch Up at the Pad - Host: July 2019
 - Mission to Mars - Workshop Host / Organiser: July 2019
 - DAZN Internal Developer Conference - June 2019
 - JSDay Verona: May 2019 [Video](https://www.youtube.com/watch?v=IK62HVzcbyA)
@@ -27,6 +36,9 @@ and meetups with an enforceable code of conduct in place.
 - Plymouth University Science and Engineering Networking Event: March 2019
 - Digital Plymouth: February 2019
 - Software Cornwall Tech Connect Meetup - Host / Organiser : February 2019
+
+### 2018
+
 - HalfStack: November 2018 / [Video](https://halfstackconf.streameventlive.com/archive/33)
 - Computing at Schools South West Conference - Workshop Host: November 2018
 - Bristol JS: October 2018 / [Video](https://www.youtube.com/watch?v=IF1kcgWu_fs)
@@ -43,9 +55,15 @@ and meetups with an enforceable code of conduct in place.
 - Digital Plymouth: June 2018
 - Mission to Mars - Workshop Host / Organiser: April 2018
 - Plymouth Web: February 2018
+
+### 2017
+
 - Mission to Mars - Workshop Host / Organiser: October 2017
 - Pitch up at the Blue: September 2017
 - Future Sync - Conference close / Organiser: June 2017
 - Kernow DAT - Host: April 2017
 - Agile South West - Host: March 2017
+
+### 2016
+
 - Plymouth JS: August 2016
