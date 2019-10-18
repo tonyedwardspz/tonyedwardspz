@@ -19,14 +19,25 @@ and meetups with an enforceable code of conduct in place.
 
 ### 2020
 
-- TBA: Feb 2020
+- Mission to Mars - Workshop Host / Organiser: July 2020
+- Future Sync Conference - Host / Organiser: April 2020
+- Mission to Mars - Workshop Host / Organiser: March 2020
+- Bristech Meetup - March 2020
+- Mission to Mars - Workshop Host / Organiser: Feb 2020
+- Frontend Developer Love - Feb 2020
 
 ### 2019
 
+- Software Cornwall Tech Connect - Organiser / Host: November 2019
+- Techstars Startup Weekend: Plymouth - Coach: November 2019
+- Open Hack Part 2 - Host: October 2019
 - Digitally Enhanced - Host: October 2019
+- Open Hack Part 1 - Host: October 2019
 - HalfStack Vienna: September 2019
 - South West IoT Network Launch: September 2019
 - ProductTank Exeter: September 2019
+- Software Cornwall GamePlay: Host / Organiser: September 2019
+- Agile Huddle - Mentor: August 2019
 - Pitch Up at the Pad - Host: July 2019
 - Mission to Mars - Workshop Host / Organiser: July 2019
 - DAZN Internal Developer Conference - June 2019
