@@ -28,17 +28,17 @@ and meetups with an enforceable code of conduct in place.
 
 ### 2019
 
-- Software Cornwall Tech Connect - Organiser / Host: November 2019
 - Techstars Startup Weekend: Plymouth - Coach: November 2019
 - Open Hack Part 2 - Host: October 2019
 - Digitally Enhanced - Host: October 2019
 - Open Hack Part 1 - Host: October 2019
-- HalfStack Vienna: September 2019
+- HalfStack Vienna: September 2019 [Video](https://halfstackconf.streameventlive.com/embed/60)
 - South West IoT Network Launch: September 2019
-- ProductTank Exeter: September 2019
+- ProductTank Exeter: September 2019 [Video](https://www.youtube.com/watch?v=YHLJK2dNehs)
 - Software Cornwall GamePlay: Host / Organiser: September 2019
 - Agile Huddle - Mentor: August 2019
 - Pitch Up at the Pad - Host: July 2019
+- Agile on the Beach: July 2019 [Video](https://www.youtube.com/watch?v=oxXgZsADwPM)
 - Mission to Mars - Workshop Host / Organiser: July 2019
 - DAZN Internal Developer Conference - June 2019
 - JSDay Verona: May 2019 [Video](https://www.youtube.com/watch?v=IK62HVzcbyA)
