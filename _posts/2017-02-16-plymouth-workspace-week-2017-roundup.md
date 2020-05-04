@@ -24,7 +24,7 @@ The second event at Regus was a little more subdued, possible because of the Fri
 
 The third event I attended was at the [Formation Zone](http://www.formationzone.co.uk/), Plymouth University&#8217;s very own startup incubator. After a brief tour of the extremely spacious open office, we were given demonstrations of some really interesting projects. First up was the the social engagement game built for the event by [So Good Studios](http://sogoodstudios.com/). While simple in concept, the game proved really popular with attendees. We all battled it out to get a gold medal although I’m not sure if anyone succeeded. Not through lack of trying I might add! It sure was good way to turn brand engagement into fun and games.
 
-![TruVision at the Formation Zone](/assets/images/import/2017/02/IMG_20170209_150039-1100x640.jpg "Tru Vision at the Formation Zone")
+![TruVision at the Formation Zone](/assets/images/import/2017/02/IMG_20170209_150039-1100x640.jpg "Tru Vision at the Formation Zone"){:loading="lazy"}
 
 Next up was [TruVision](http://truvisionvr.com/), a VR company who specialise in creating immersive and interactive models of yet to be completed buildings. It was great seeing people who’ve never used VR put on the headset and get transported to another place. I’ve been lucky enough to experience a variety of VR environments in recent years, from proof of concepts up to multi award-winning games. This was by far the best practical application of the technology I’ve seen to date. As someone currently remodelling a house, I can see the benefits of using this to view the designs before they&#8217;re complete. No more arguing over which color fridge will best match the kitchen tiles!
 

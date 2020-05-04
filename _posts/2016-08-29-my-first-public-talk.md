@@ -15,7 +15,7 @@ tag:
 ---
 <span style="font-weight: 400;">At the </span>[<span style="font-weight: 400;">August 2016 Plymouth JS</span>](http://www.meetup.com/The-THINQTANQ-Events-Meetups-and-More-in-Plymouth/events/231769139/) <span style="font-weight: 400;">meetup I gave my first ever public talk. The twenty minute talk, titled ‘Once…. Twice…. Three times a programmer: A journey through to modern web APIs’ was a brief overview of my path to becoming a web developer. I told it through the lens of the communities I’ve been a part of over the years and how they’ve nudged me along my way. I had great fun preparing and giving the talk, and am proud that I had conquered a personal demon of mine whilst launching my first ever </span>[<span style="font-weight: 400;">Crowdfund</span>](http://www.crowdfunder.co.uk/west-cornwall-photography-expedition)<span style="font-weight: 400;">.</span>
 
-![We are the community](/assets/images/import/2016/08/we-are-the-community-1000x563.jpg)
+![We are the community](/assets/images/import/2016/08/we-are-the-community-1000x563.jpg){:loading="lazy"}
 
 <span style="font-weight: 400;">Over the three years of being a Uni student, the only area that I feel I&#8217;d failed was in public speaking and giving presentations. I had two opportunities for speaking in front of a group students as part of my studies. One of them I ducked out of completely, in part because of the teams disorganisation. The other I feel I didn’t perform all that well. Sure, I stood in front of people and spoke for close to three minutes. However it was rushed, recited and wooden. In essence, I was the typical beginner. I felt at the time that my perceived bad experience meant I was destined to avoid the stage.</span>
 

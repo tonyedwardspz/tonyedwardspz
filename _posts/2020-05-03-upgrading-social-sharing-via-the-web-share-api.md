@@ -15,10 +15,10 @@ One of the projects I’ve released into the world is the [South West Communitie
 
 One of the main ways people find the site is through the sharing of it’s pages, both publicly online and via email / Whatsapp etc. The only share functionality on the site was based around Twitter, where the user could click a link to populate a pre-written tweet.
 
-![Screenshot showing share button](/assets/images/2020/current-share-functionality.jpg "Existing share functionality")
+![Screenshot showing share button](/assets/images/2020/current-share-functionality.jpg "Existing share functionality"){:loading="lazy"}
 
 
-![Screenshot showing pre-populated tweet](/assets/images/2020/pre-populated-tweet.jpg "image_tooltip")
+![Screenshot showing pre-populated tweet](/assets/images/2020/pre-populated-tweet.jpg "image_tooltip"){:loading="lazy"}
 
 Thanks to the relatively new Web Share API, which has now been added to popular mobile browsers, we can extend this functionality progressively. The goal here is to replace the existing button if the browser currently in use has this capability.
 
@@ -80,8 +80,8 @@ A dreaded var has been used so that the variable gets hoisted and is available i
 
 The end result, an progressively enhanced share button on some mobile devices.
 
-![Screenshot of new share button on a mobile device](/assets/images/2020/website-share-screenshot.jpg "Upgraded share button")
+![Screenshot of new share button on a mobile device](/assets/images/2020/website-share-screenshot.jpg "Upgraded share button"){:loading="lazy"}
 
-![Screenshot of Android share screen](/assets/images/2020/share-screen.jpg "Native Android share screen")
+![Screenshot of Android share screen](/assets/images/2020/share-screen.jpg "Native Android share screen"){:loading="lazy"}
 
 There you have it. A simple upgrade of the sharing functionality.

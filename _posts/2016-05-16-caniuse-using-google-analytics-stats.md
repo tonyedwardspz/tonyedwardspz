@@ -16,11 +16,11 @@ tag:
 
 Open up Caniuse and click on settings from the search bar.
 
-![Caniuse settings](/assets/images/import/2016/05/Screen-Shot-2016-05-16-at-14.15.32.png)
+![Caniuse settings](/assets/images/import/2016/05/Screen-Shot-2016-05-16-at-14.15.32.png){:loading="lazy"}
 
 This opens the settings fly out. From there, find and click the button under the heading &#8216;From Google Analytics&#8217;.
 
-![Can I use settings flyout](/assets/images/import/2016/05/Screen-Shot-2016-05-16-at-14.15.59.png)
+![Can I use settings flyout](/assets/images/import/2016/05/Screen-Shot-2016-05-16-at-14.15.59.png){:loading="lazy"}
 
 Once the authentication completes you&#8217;ll be returned to the original page. This time you&#8217;re seeing the device compatibility of  your actual users.
 

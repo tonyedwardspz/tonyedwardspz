@@ -16,7 +16,7 @@ tag:
 
 <span style="font-weight: 400;">This is a live blog. Please excuse any spelling mistakes, grammatical errors and nonsensical sentences.</span>
 
-![Value](/assets/images/import/2016/09/IMG_20160901_160702-1000x750.jpg)
+![Value](/assets/images/import/2016/09/IMG_20160901_160702-1000x750.jpg){:loading="lazy"}
 
 What is the definition of value?
 
@@ -26,13 +26,13 @@ Is it money? Is it what you want? The perceived benefit? Some perspectives are v
 
 Value is based on your values.
 
-![Value](/assets/images/import/2016/09/IMG_20160901_162022-1000x750.jpg)
+![Value](/assets/images/import/2016/09/IMG_20160901_162022-1000x750.jpg){:loading="lazy"}
 
 Deliver what&#8230;to whom&#8230;. and why.
 
 Money and profit is a means to an end. Most companies need to define progress in three-month chunks, however there are very few long-term plans that can be implemented in three months. It&#8217;s important to remember that money is just a store for value.
 
-![Value](/assets/images/import/2016/09/IMG_20160901_162434-1000x750.jpg)
+![Value](/assets/images/import/2016/09/IMG_20160901_162434-1000x750.jpg){:loading="lazy"}
 
 By quantifying goals we can come to a shared understanding of what we are working towards. Having the conversation in key.
 
@@ -40,13 +40,13 @@ Stakeholder are like actors. Some are on stage, some are behind the scenes. They
 
 Every stakeholder has different objectives.
 
-![Value](/assets/images/import/2016/09/IMG_20160901_163030-1000x750.jpg)
+![Value](/assets/images/import/2016/09/IMG_20160901_163030-1000x750.jpg){:loading="lazy"}
 
 How can we talk about value when we can&#8217;t define the value of something.
 
 Every stakeholder has a knock on effect to other stakeholders. Keeping low-level stakeholders happy prevents knock on effect to those higher in the hierarchy.
 
-![Value](/assets/images/import/2016/09/IMG_20160901_163526-1000x750.jpg)
+![Value](/assets/images/import/2016/09/IMG_20160901_163526-1000x750.jpg){:loading="lazy"}
 
 What are values?
 
@@ -54,7 +54,7 @@ Different personas in an organizations have vastly different values&#8230; beyon
 
 A core ideology comes from founders and owners.
 
-![Value](/assets/images/import/2016/09/IMG_20160901_164756-1000x1333.jpg)
+![Value](/assets/images/import/2016/09/IMG_20160901_164756-1000x1333.jpg){:loading="lazy"}
 
 Value cannot be linked directly to a specific user story. Instead it is in results for the end-user that supports the values of the company.
 
@@ -68,7 +68,7 @@ If you want to help your clients, you need to understand the value system with:
 
 Whenever possible, actors and stakeholders should be brought into a common space to discuss values.
 
-![Value](/assets/images/import/2016/09/IMG_20160901_165438-1000x750.jpg)
+![Value](/assets/images/import/2016/09/IMG_20160901_165438-1000x750.jpg){:loading="lazy"}
 
 Don't ask what &#8211; Goals and objectives
 

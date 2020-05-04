@@ -24,7 +24,7 @@ tag:
 
 <span style="font-weight: 400;">Is medicine science. Leeches were used for hundreds of years. In some cases this even caused deaths. Even scientists were not convinced that the evidence was true. This was due to the generations of stories told in the communities.</span>
 
-![Linda Rising - Agile Leadership](/assets/images/import/2016/09/IMG_20160901_095156-1000x750.jpg)
+![Linda Rising - Agile Leadership](/assets/images/import/2016/09/IMG_20160901_095156-1000x750.jpg){:loading="lazy"}
 
 <span style="font-weight: 400;">Linda tells the story of semmelweis trying to convince his peers tha washing hands when moving between autopsies and births was a good thing. Logical arguments did not work for him. He died in an insane asylum and had a pauper&#8217;s burial.</span>
 
@@ -34,7 +34,7 @@ tag:
 
 <span style="font-weight: 400;">Education is an old model, where one person speaks and the rest listen. That’s the issue with stories. We listen, repeat and take it as gospel. But this in not how we get better.</span>
 
-![Linda Rising - Agile Leadership](/assets/images/import/2016/09/IMG_20160901_095829-1100x640.jpg)
+![Linda Rising - Agile Leadership](/assets/images/import/2016/09/IMG_20160901_095829-1100x640.jpg){:loading="lazy"}
 
 <span style="font-weight: 400;">How can we use science in Agile. Laurie Williams used science to demonstrate the benefits of Pair programming (Pair programming illuminated). Thinking fast and slow by Daniel Kahneman is highly recommended.</span>
 
@@ -44,4 +44,4 @@ tag:
 
 <span style="font-weight: 400;">Agile is a trial…. And experiment…. A learning process. Return to the mindset of a learner.</span>
 
-![Linda Rising - Agile Leadership](/assets/images/import/2016/09/IMG_20160901_100816-1100x640.jpg)
+![Linda Rising - Agile Leadership](/assets/images/import/2016/09/IMG_20160901_100816-1100x640.jpg){:loading="lazy"}

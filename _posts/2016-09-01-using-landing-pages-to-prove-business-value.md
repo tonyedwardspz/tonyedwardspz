@@ -22,7 +22,7 @@ Baby&#8217;s are Boolean. Crying or not! The good thing is that you just need t
 
 The most common reason for Tech Startup failure is premature scaling. Caused by moving forward before actually finding out what the user wants. Similar story for products, with 4 in 10 failing.
 
-![Landing Pages](/assets/images/import/2016/09/IMG_20160901_114702-1000x750.jpg)
+![Landing Pages](/assets/images/import/2016/09/IMG_20160901_114702-1000x750.jpg){:loading="lazy"}
 
 When you interact with potential customers they often say what you want to hear. To find out what they want, put them in a situation where they have to take action. This allows user psychology of purchase decisions to come into play.
 
@@ -33,17 +33,17 @@ Things to check before launching
 
 By asking this questions you can make some assumptions about your product, dividing if you should continue to build the MVP.
 
-![Landing Pages](/assets/images/import/2016/09/IMG_20160901_115427-1000x750.jpg)
+![Landing Pages](/assets/images/import/2016/09/IMG_20160901_115427-1000x750.jpg){:loading="lazy"}
 
 Conversions on a landing page of this sort measures latent demand.
 
-![Landing Pages](/assets/images/import/2016/09/IMG_20160901_115727-1000x750.jpg)
+![Landing Pages](/assets/images/import/2016/09/IMG_20160901_115727-1000x750.jpg){:loading="lazy"}
 
 You need to test your assumptions when launching a for profit product. Chances are you are most off in your thinking around your audience and they&#8217;re desire.
 
 Test your assumptions to eliminate the irrelevant.
 
-![Landing Pages](/assets/images/import/2016/09/IMG_20160901_120143-1000x750.jpg)
+![Landing Pages](/assets/images/import/2016/09/IMG_20160901_120143-1000x750.jpg){:loading="lazy"}
 
 Dropbox, in the early days, tested various product variations using landing pages. It cost hundreds of dollars per acquisition, bet they managed to iterate the landing page which led to more conversions in the future. It also led to a lot of product improvement.
 
@@ -53,7 +53,7 @@ Its more than just a landing page though. You need a hypothesis before you can l
 
 You need to be clear about who you&#8217;re addressing. When you describe your value proposition, be clear with what your proposition. As people if what a page says is what you think it does.
 
-![Landing Pages](/assets/images/import/2016/09/IMG_20160901_121226-1000x750.jpg)
+![Landing Pages](/assets/images/import/2016/09/IMG_20160901_121226-1000x750.jpg){:loading="lazy"}
 
 How how can you use landing pages?
 
@@ -64,4 +64,4 @@ How how can you use landing pages?
   * Collect payment details, charge later
   * Letters of intent (B2B)
 
-![Landing Pages](/assets/images/import/2016/09/IMG_20160901_121315-1000x750.jpg)
+![Landing Pages](/assets/images/import/2016/09/IMG_20160901_121315-1000x750.jpg){:loading="lazy"}

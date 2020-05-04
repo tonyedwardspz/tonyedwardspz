@@ -17,7 +17,7 @@ tag:
 
 <span style="font-weight: 400;">This is a live blog. Please excuse any spelling mistakes, grammatical errors and nonsensical sentences.</span>
 
-![Elizabeth Pope - 10% time](/assets/images/import/2016/09/IMG_20160902_103219.jpg)
+![Elizabeth Pope - 10% time](/assets/images/import/2016/09/IMG_20160902_103219.jpg){:loading="lazy"}
 
 10% time should be seen as R&D / Learning and development. An opportunity for the team to spend 10% of their time working on something different.
 
@@ -27,7 +27,7 @@ Holiday Extras has a project long, which is a day where they choose what to work
 
 In 2011, Holiday Extras held a hack day. Instead of working on anything, they put on some funky hats and built a mobile app for counting down to their holiday. Years later this app has been used by hundred of thousands of people and has a dedicated developer in the org.
 
-![Elizabeth Pope - 10% time](/assets/images/import/2016/09/IMG_20160902_103534.jpg)
+![Elizabeth Pope - 10% time](/assets/images/import/2016/09/IMG_20160902_103534.jpg){:loading="lazy"}
 
 Pros of this time:
 
@@ -41,7 +41,7 @@ Pros of this time:
 
 The 10% time also helps attract talent. It can help to set you apart from the competition, especially with companies based on the outskirts of London. Once in the team, it will help retain staff. When you can spend time on something you love as part of your job you&#8217;re a lot less likely to look elsewhere.
 
-![Elizabeth Pope - 10% time](/assets/images/import/2016/09/IMG_20160902_104818.jpg)
+![Elizabeth Pope - 10% time](/assets/images/import/2016/09/IMG_20160902_104818.jpg){:loading="lazy"}
 
 Some of the cons are:
 

@@ -22,6 +22,6 @@ Based in Bristol, It’s great to see this kind of collaborative venture in the 
 
 The event offered the opportunity to catch up with a few faces from 2017’s conference. Unsurprisingly, Future Sync’s entrepreneurship track was well represented. With plans for the 2018 event beginning to come together, reconnecting after university allowed me to discover the next step along our collective paths. With the group producing a fresh batch of prototypes, VR installations, podcasts, and a raft of new businesses…. it’s hoped that competition for a speaker slot is going to be fierce.
 
-![Alex, Hannah and Tony Edwards](/assets/images/2018/01/yena-plymouth-2.jpg)
+![Alex, Hannah and Tony Edwards](/assets/images/2018/01/yena-plymouth-2.jpg){:loading="lazy"}
 
 YENA Plymouths inaugural event proved to be a huge success, with conversations continuing long into the night. I look forward to seeing this community develop, on both a local and international scale. Alex, Hannah and the YENA family did a great job of gathering Plymouth’s young entrepreneurial minds. They’ve set a high bar with the groups first outing, a bar I expect they’ll exceed moving forwards.

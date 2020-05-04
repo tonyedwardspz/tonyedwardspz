@@ -15,7 +15,7 @@ Last week I was invited to give a short talk at the first ever Pitch Up event. W
 
 Working in Education Outreach with Software Cornwall, a large part of the role is helping businesses, education institutions and digital communities connect. Naturally, the talk focused upon this topic, and was an attempt to get the room excited about the programme we are rolling out over the coming years. Part of the talk invited the audience to discuss their interpretation of ‘Innovation in Digital Education’. Whilst I had a few shared with me after the pitches were over, I’m excited to receive more of the audience's ideas in the coming days.
 
-![Pitch Up at the Blue](/assets/images/import/2017/09/pitch-up.jpeg)
+![Pitch Up at the Blue](/assets/images/import/2017/09/pitch-up.jpeg){:loading="lazy"}
 
 By getting the aforementioned partners working together, its hoped that the next generation of digital talent will be more likely to enter the industry. Being an industry experiencing massive growth, it offers a prosperous career for those who take the path. In Cornwall, the current supply of graduating learners is dwarfed by the potential roles for them. Something the organisation is keen to help turn around.
 

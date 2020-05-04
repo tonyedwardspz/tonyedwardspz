@@ -19,11 +19,11 @@ tag:
 
 <span style="font-weight: 400;">This is a live blog. Please excuse any spelling mistakes, grammatical errors and nonsensical sentences.</span>
 
-![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_143525.jpg)
+![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_143525.jpg){:loading="lazy"}
 
 Paul founded Bluefruit seven years ago, and in the years since they&#8217;ve worked mainly in embedded software.
 
-![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_140-1100x640.jpg)
+![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_140-1100x640.jpg){:loading="lazy"}
 
 Researched Agile and selected the Iconix flavor of Agile, which is a blend of upfront planning and Agile sweetness.
 
@@ -43,11 +43,11 @@ By 2010, the team had been introduced to Allan Kelly who provided the gift of pl
 
 Jon Jagger helped with the technical practices of the Agile methodology. With embedded software, quality of code is extremely important, resulting in heavy TDD.
 
-![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_141125.jpg)
+![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_141125.jpg){:loading="lazy"}
 
 In 2010 they made the full leap from Iconix Agile to Lean Agile, which required the adoption of User Stories. At this point the team had reached 11! Crank it up!
 
-![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_141401.jpg)
+![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_141401.jpg){:loading="lazy"}
 
 [Cyber-dojo](http://cyber-dojo.org/) was vital.
 
@@ -71,7 +71,7 @@ The next big project required collaboration with a non Agile team. Bluefruit pro
 
 Agile helped the improvement of user experience, but in embedded software it&#8217;s not always in a user interface. This time&#8230;.. a bike!
 
-![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_142452-1000x750.jpg)
+![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_142452-1000x750.jpg){:loading="lazy"}
 
 Over the next few years the team began to grow&#8230;.. and grow&#8230;. and grow. The team really began to gel all of the various Agile practices together.
 

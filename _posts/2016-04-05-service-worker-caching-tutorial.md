@@ -21,7 +21,7 @@ Whilst this saving is not astronomical, it has the potential to shave a full sec
 
 The site I am working on is a [Jekyll static site](https://jekyllrb.com/ "Jekyll Blog Platform") using [Gulp](http://gulpjs.com/ "Gulp Build Tool") to help with preprocessing and optimising files. As such, both the CSS and JavaScript are concatenated and optimised as part of the deploy process, meaning I have only a couple of versioned files to cache. The build process you’re working with may be different, but the code to cache files will be largely the same.
 
-![Service worker lifecycle](/assets/images/import/2016/04/service-worker-lifecycle.jpg)
+![Service worker lifecycle](/assets/images/import/2016/04/service-worker-lifecycle.jpg){:loading="lazy"}
 
 ## Service Worker Setup
 

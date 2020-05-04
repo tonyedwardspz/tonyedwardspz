@@ -19,4 +19,4 @@ CreateDB can also do some other amazing stuff, but thanks to the rails way of do
 
 Hopefully this will now stick 🙂
 
-![Postgresql](/assets/images/import/2016/05/postgresql_logo-555px.png)
+![Postgresql](/assets/images/import/2016/05/postgresql_logo-555px.png){:loading="lazy"}

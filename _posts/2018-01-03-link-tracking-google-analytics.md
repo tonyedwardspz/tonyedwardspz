@@ -29,20 +29,20 @@ The three parameters shown here are:
 
 Head over to the [Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/). You’ll see a screen like the one pictured below, where the details for a individual post to be shared on twitter under the digital guru campaign has been entered.
 
-![Campaign URL Builder Screenshot ](/assets/images/2018/01/1-url-generator.jpg)
+![Campaign URL Builder Screenshot ](/assets/images/2018/01/1-url-generator.jpg){:loading="lazy"}
 
 Simply copy and paste the resultant campaign url and share on the appropriate platform.
 
-![Generated URL by Campaign URL Builder ](/assets/images/2018/01/2-generated-url.jpg)
+![Generated URL by Campaign URL Builder ](/assets/images/2018/01/2-generated-url.jpg){:loading="lazy"}
 
 ### Viewing the results
 
 Open up google analytics and head for the appropriate properties main dashboard. From there, navigate to Acquisition > Campaigns > All Campaigns. Keep an eye out for your campaign name.
 
-![Campaigns in Google Analytics ](/assets/images/2018/01/4-analytics-campaign.jpg)
+![Campaigns in Google Analytics ](/assets/images/2018/01/4-analytics-campaign.jpg){:loading="lazy"}
 
 Clicking campaign name will allow you to view the source and campaign type in more detail.
 
-![Sources of campaigns in Google Analytics ](/assets/images/2018/01/5-analytics-campaign-source.jpg)
+![Sources of campaigns in Google Analytics ](/assets/images/2018/01/5-analytics-campaign-source.jpg){:loading="lazy"}
 
 Now that posts from different are grouped together, the effectiveness of different traffic sources can be determined.
