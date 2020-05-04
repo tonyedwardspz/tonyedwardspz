@@ -6,24 +6,17 @@ job-description: Education Outreach, Software Cornwall | Creator of Awesomeness,
 # twitter summary info
 description: A blog about technology and stuff related
 
-# if it's an external image, update below for true
-# better with square images
 external-image: true
 picture: //gravatar.com/avatar/4e013db113b5bbace1c7b72916e41b9b?s=500
 
-# If you want to include your resume, set to true
-# and specify source (external or local).
 resume: false
-# resume-external: true
-# resume-url: https://google.com/?q=my+resume
 
 url: https://www.tonyedwardspz.co.uk
-# your url: http://USERNAME.github.io
 
 permalink: /:categories/:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-165285240-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -57,7 +50,7 @@ lanyrd: tonyedwardspz
 authors:
     tonyedwardspz:
         name: Tony Edwards
-        bio: Education Outreach, Software Cornwall
+        bio: Event Organiser and Software Developer
         external-image: true
         picture: //gravatar.com/avatar/4e013db113b5bbace1c7b72916e41b9b?s=500
         twitter: tonyedwardspz
