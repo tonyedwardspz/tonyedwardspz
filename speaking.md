@@ -19,14 +19,15 @@ and meetups with an enforceable code of conduct in place.
 
 ### 2020
 
-- Codemotion Amsterdam: May 2020
-- Young Entrepreneurs - Speaker: April 2020
+- CityJS Conference - Host: September 2020
+- ~~Codemotion Amsterdam: May 2020~~
+- ~~Young Entrepreneurs - Speaker: April 2020~~
 - Future Sync Conference - Host / Organiser: April 2020
-- Tech Exeter - Blockbusters Game host: Feb 2020
-- CityJS Conference - Host: March 2020
+- ~~Tech Exeter - Blockbusters Game host: Feb 2020~~
+- ~~CityJS Conference - Host: March 2020~~
 - Bristech Meetup: March 2020
 - Guest Lecture at Plymouth University: Feb 2020
-- Frontend Developer Love: Feb 2020
+- Frontend Developer Love: Feb 2020 [Video](https://www.youtube.com/watch?v=x_L1eQT6TyA)
 - Digital Plymouth - Blockbusters Game host: Feb 2020
 - Book Penzance - Social Media Basics: Jan 2020
 
