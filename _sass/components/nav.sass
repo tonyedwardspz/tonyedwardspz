@@ -16,15 +16,15 @@
             text-decoration: none
 
 .nav
-    position: absolute
-    right: 0
-    top: 0
+    display: flex
+    justify-content: center
 
     > .list
         padding: 0 13px 0
+        text-align: center
 
         > .item > .link
-            font-size: 1.4rem
+            font-size: 2rem
             padding: 20px 10px
 
 .nav-home
@@ -44,3 +44,8 @@
 
             &:hover
                 color: $alpha
+
+.spacer
+    float: left
+    height: 20px
+    width: 200px
