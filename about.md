@@ -16,8 +16,8 @@ layout: page
   "vitalStatistics": {
     "name": "Tony Edwards",
     "description": "Coder, Connector, Creator of Awesomeness",
-    "dayJob": "Education Outreach, Software Cornwall",
-    "sideHustle": "Director, Future Sync Events Ltd"
+    "dayJob": "Coder, Marketer and Event Organiser",
+    "sideHustle": "South West Communities"
   },
   "education": {
     "degree": "BSc Hons Web Application Development",
@@ -29,7 +29,7 @@ layout: page
   "softwareDevelopment":{
     "programmingPreference": "Full Stack JavaScript (ES6)",
     "programmingExperience": "JavaScript, Ruby, Swift, Java (Android), HTML, CSS",
-    "currentlyExploring": "WebVR, Speech Recognition",
+    "currentlyExploring": "Speech Recognition, Conversational Interfaces",
     "gitHub": "https://github.com/tonyedwardspz"
   },
   "dependencies": {
@@ -50,8 +50,8 @@ layout: page
 vitalStatistics:
     name: 'Tony Edwards'
     description: 'Coder, Connector, Creator of Awesomeness'
-    dayJob: 'Education Outreach, Software Cornwall'
-    sideHustle: 'Director, Future Sync Events Ltd'
+    dayJob: 'Coder, Marketer and Event Organiser'
+    sideHustle: 'South West Communities'
 education:
     degree: 'BSc Hons Web Application Development'
     institution: 'Plymouth University'
@@ -60,7 +60,7 @@ socialNetworkHandle:
 softwareDevelopment:
     programmingPreference: 'Full Stack JavaScript (ES6)'
     programmingExperience: 'JavaScript, Ruby, Swift, Java (Android), HTML, CSS'
-    currentlyExploring: 'WebVR, Speech Recognition'
+    currentlyExploring: 'Speech Recognition, Conversational Interfaces'
     gitHub: 'https://github.com/tonyedwardspz'
 dependencies:
     drinks: 'Green Tea'
@@ -78,15 +78,15 @@ devDependencies:
 <p>Hey. I'm Tony.</p>
 
 <p>I currently working in Education Outreach for Software Cornwall, a network or tech businesses
-spanning the county. I head up Software Cornwall's
-delivery of the Game Changer Project in partnership with Cornwall College and the Real Ideas Organisation. The
-project focuses upon engaging with young adults who are not in education, employment
+spanning the county. I head up Software Cornwall's delivery of the Game Changer Project in partnership 
+with Cornwall College and the Real Ideas Organisation. The project focuses upon engaging with young 
+adults who are not in education, employment
 or training.</p>
 
-<p>Beyond the day job, I host events under the Future Sync banner. Whilst studying
+<p>Beyond the day job, I'm co-organiser of the Future Sync conference. Whilst studying
 for my degree in Web Applications Development, I fell in love with digital communities
-across the South West. This love developed into my own meetup, Kernow DAT and the
-Future Sync conference, hosted at Plymouth University.</p>
+across the South West. This love developed into my own meetup, Kernow DAT, and later the
+Future Sync conference which formed part of my degree and was hosted at Plymouth University.</p>
 
 <h2>The Back Story</h2>
 
