@@ -6,8 +6,8 @@ job-description: Education Outreach, Software Cornwall | Creator of Awesomeness,
 # twitter summary info
 description: A blog about technology and stuff related
 
-external-image: true
-picture: //gravatar.com/avatar/4e013db113b5bbace1c7b72916e41b9b?s=500
+external-image: false
+picture: /assets/images/headshot.jpg
 
 resume: false
 
@@ -51,8 +51,7 @@ authors:
     tonyedwardspz:
         name: Tony Edwards
         bio: Event Organiser and Software Developer
-        external-image: true
-        picture: //gravatar.com/avatar/4e013db113b5bbace1c7b72916e41b9b?s=500
+        external-image: false
         twitter: tonyedwardspz
 
 # do you want a larger site? change the option below
@@ -89,7 +88,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 plugins:
   - jekyll-seo-tag
