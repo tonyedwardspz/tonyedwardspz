@@ -1,5 +1,12 @@
 'use strict';
 
+function iframeResize() {
+    console.log(event);
+    let height = Math.floor(event.target.offsetWidth / (16/9));
+    console.log('resizing', height);
+    event.target.height = height;
+}
+
 // function setupAboutMe() {
 //   // var json = document.getElementById('about-json');
 //   var yaml = document.getElementById('about-yaml');
