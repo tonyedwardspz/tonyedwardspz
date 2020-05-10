@@ -151,19 +151,24 @@ pre
 	text-align: center
 
 .general-button
-	background-color: #FF4C33
-	border: none
+	background-color: #fff
+	border: 2px solid $beta
 	border-radius: 2px
-	color: white
+	color: $beta
 	padding: 10px 20px
 	text-align: center
 	text-decoration: none
 	display: inline-block
 	font-size: 16px
 	margin: 0 5px
-	margin-bottom: 3px
+	margin-bottom: 10px
+
+	&:focus
+		outline: none
 
 	&.active
-		margin-bottom: 0
+		margin-bottom: 5px
 		outline: none
-		border-bottom: 3px solid #811506
+		border-bottom: 5px solid $beta
+		border-bottom-left-radius: 5px
+		border-bottom-right-radius: 5px
