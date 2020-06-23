@@ -28,7 +28,7 @@ disqus:
   categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: tonyedwardspz
+# facebook: tonyedwardspz
 twitter: tonyedwardspz
 # google: mygoogle
 instagram: tonyedwardspz
