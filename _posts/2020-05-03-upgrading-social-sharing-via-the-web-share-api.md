@@ -78,7 +78,7 @@ The `shareDescription` variable is added to the window during the page load cycl
 
 A dreaded var has been used so that the variable gets hoisted and is available in a different scope, which in this case is in a different file.
 
-The end result, an progressively enhanced share button on some mobile devices.
+The end result, a progressively enhanced share button on some mobile devices.
 
 ![Screenshot of new share button on a mobile device](/assets/images/2020/website-share-screenshot.jpg "Upgraded share button"){:loading="lazy"}
 
