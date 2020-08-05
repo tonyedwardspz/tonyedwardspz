@@ -23,10 +23,10 @@ for the crescendo.
 ![The canals of Amsterdam](/assets/images/2020/amsterdam-canal.jpg "The canals of Amsterdam"){:loading="lazy"}
 
 This was my first visit to Amsterdam. It's a stunning city. The one regret of this trip is that there wasn't
-enough time to explore everything. Sure, we wandered around the canals. Ate more pancakes than is sensible. Even
+enough time to explore everything. Sure, we wandered around the canals. Scoffed more pancakes than is probably sensible. Even
 took in a few museums along the way. But in a city with so much to see and so do, a day either side of an event just
-isn't enough. Next years conference will will be nestled at the centre a much longer trip.
+isn't enough. Next years conference will be nestled at the centre a much longer trip.
 
-Interested in catching up with the talk? Check it our on YouTube.
+Interested in catching up with the talk? Check it out on YouTube.
 
 <iframe width="100%" height="auto" src="https://www.youtube.com/embed/x_L1eQT6TyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen onLoad="iframeResize()" loading="lazy"></iframe>
