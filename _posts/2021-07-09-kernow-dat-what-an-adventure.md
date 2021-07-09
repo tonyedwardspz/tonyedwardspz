@@ -6,8 +6,9 @@ author: tonyedwardspz
 category: blog
 headerImage: true
 tag:
-- Web Performance
-- Lazy Loading Images
+- Events
+- Networking
+- Happy Memories
 
 ---
 If you’re reading this, chances are you were a part of the Kernow DAT adventure in some way. Perhaps you attended one of the events, supported them through sponsorship, loaned us a venue, or maybe you cheered on from afar. Wherever you sit on that spectrum, thank you for the support. If this is your first look at the group, you'll never know what you missed out on!
