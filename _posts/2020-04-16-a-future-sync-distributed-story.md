@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Future Sync Distributed Story
-date: 2020-04-06 00:00:00 +0000
+date: 2020-04-16 00:00:00 +0000
 author: tonyedwardspz
 category: blog
 headerImage: false
