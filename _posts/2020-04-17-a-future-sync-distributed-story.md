@@ -26,7 +26,7 @@ Typically, the first thing done after arriving at the hotel room following the a
 
 But this year is a little different. And this is where I’m going to be really honest with you.
 
-For a whole host of reasons I won’t dive deeply into, 2019 was a year to forget. Whether it was my personal physical or mental health, the relationships with those closest to me, the health of my family, my career, or public facing personal brand…… 2019 was tough. There were many moments when I wasn’t sure I’d be around to see in 2020. There were also a few times when I nearly walked away from the tech industry entirely. And there were moments that the goal of hosting another conference was the only thing that kept me going. Certainly on a professional level. I was really looking forward to it.
+For a whole host of reasons I won’t dive deeply into, 2019 was a year to forget. Whether it was my personal physical or mental health, the relationships with those closest to me, the health of my family, my career, or public facing personal brand…… 2019 was tough. There were moments that the goal of hosting another conference was the only thing I was enjoying working towards. Certainly on a professional level. I was really looking forward to it.
 
 Then the global pandemic happened.
 
