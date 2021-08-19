@@ -1,6 +1,6 @@
 # main text of home
 name: Tony Edwards
-bio: Doer of things
+bio: Doer of things with tech
 job-description: Doer of things in the technology industry
 
 # twitter summary info
@@ -46,7 +46,7 @@ lanyrd: tonyedwardspz
 authors:
     tonyedwardspz:
         name: Tony Edwards
-        bio: Doer of things
+        bio: Doer of things with tech
         external-image: false
         picture: assets/images/headshot.jpg
         twitter: tonyedwardspz
