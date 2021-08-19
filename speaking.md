@@ -9,13 +9,34 @@ I really enjoy speaking at meetups and conferences for digital folk. Talks are t
 
 One of my current talks focuses on the HTML5 speechRecognitionAPI and how it helps me to write hip-hop lyrics. I'd love to find more opportunities to deliver it at conferences and meetups with an enforceable code of conduct in place.
 
-[Get in touch](https://tonyedwardspz.co.uk/contact/) or check me out on [Paper Call](https://www.papercall.io/speakers/tonyedwardspz) if you'd like me to speak at your event.
+[Get in touch](https://tonyedwardspz.co.uk/contact/) if you'd like me to speak at your event.
 
 ## Past, present, and future speaking experience.
 
+### 2021
+
+* Techstart Satrtup Weekend (Plymouth) - Coach: November 2021
+* Software Cornwall Tech Connect - Organiser/Host: July 2021
+* Coffee Break Social - Host: July 2021
+* Coffee Break Social - Host: June 2021
+* Coffee Break Social - Host: May 2021
+* Software Cornwall Tech Connect - Organiser/Host: April 2021
+* Coffee Break Social - Host: April 2021
+* City JS Conference - Host/Livestream Manager: March 2021
+* Coffee Break Social - Host: March 2021
+* Pitch Up at the Pad - Organiser/Host: February 2021
+* Coffee Break Social - Host: February 2021
+* Software Cornwall Tech Connect - Organiser/Host: January 2021
+* Coffee Break Social - Host: January 2021
+
 ### 2020
 
+* Software Cornwall Christmas Party - Host: December 2020
+* Coffee Break Social - Host: December 2020
+* Techstars Startup Weekend (Plymouth) - Coach: November 2020
+* Coffee Break Social - Host: November 2020
 * HalfStack Online - Interviewer: November 2020
+* Software Cornwall Tech Connect - Host: October 2020
 * CityJS Conference - Host: September 2020
 * HalfStack Online - Interviewer: May 2020
 * ~~Codemotion Amsterdam: May 2020~~
