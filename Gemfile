@@ -8,3 +8,4 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 
 gem 'jekyll-feed', "0.9.3"
 gem 'jemoji', "0.9.0"
+gem "kramdown-parser-gfm"
