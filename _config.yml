@@ -1,10 +1,10 @@
 # main text of home
 name: Tony Edwards
-bio: Organiser | Connector | Developer
-job-description: Education Outreach, Software Cornwall | Creator of Awesomeness, Future Sync Events
+bio: Doer of things
+job-description: Doer of things in the technology industry
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about my corner of the world
 
 external-image: false
 picture: assets/images/headshot.jpg
@@ -17,10 +17,6 @@ permalink: /:categories/:title/
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-165285240-1'
-
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
@@ -50,7 +46,7 @@ lanyrd: tonyedwardspz
 authors:
     tonyedwardspz:
         name: Tony Edwards
-        bio: Event Organiser and Software Developer
+        bio: Doer of things
         external-image: false
         twitter: tonyedwardspz
 
