@@ -14,16 +14,11 @@ layout: page
 <div id="about-human" class="show-about">
   <p>Hey. I'm Tony.</p>
 
-  <p>I currently working in Education Outreach for Software Cornwall, a network or tech businesses
-  spanning the county. I head up Software Cornwall's delivery of the Game Changer Project in partnership 
-  with Cornwall College and the Real Ideas Organisation. The project focuses upon engaging with young 
-  adults who are not in education, employment
-  or training.</p>
+  <p>I'm taking a little bit of time off work at the moment, recharging the batteries ready for my next professional adventure. That said, I head up <a href="https://thatseagullbob.co.uk">That Seagull Bob</a>. Bob specialises in making online audio and video super simple for it's clients, alongside a smattering of web development and event organising.</p>
 
-  <p>Beyond the day job, I'm co-organiser of the Future Sync conference. Whilst studying
-  for my degree in Web Applications Development, I fell in love with digital communities
-  across the South West. This love developed into my own meetup, Kernow DAT, and later the
-  Future Sync conference which formed part of my degree and was hosted at Plymouth University.</p>
+  <p>In recent years, I've done a few different things. I was part of the education outreach team for <a href="https://softwarecornwall.org">Software Cornwall</a>, a members network in the South West of England. The project I headed up, helping disadvantaged young adults into fulfilling tech careers, won multiple awards including one for being the most inspirational offering in the South West digital industry. A few years on, I'm seeing the people the team and I inspired and coached through this role entering the software industry. It makes me immensely proud!</p>
+
+  <p> Whilst at University, I co-founded the <a href="https://futuresync.co.uk">Future Sync Conference</a>, a multi track event based at Plymouth University with an online offering during the pandemic in 2020 (we were one of the first events in the world to pivot to an online format). Through this event, we brought internationally acclaimed speakers to the South West, standing on the stage alongside established and first time local speakers alike. This event ran for the last time in 2020, but not before offering a springboard for local speakers to step onto bigger stages around the virtual (and one day physical) world.</p>
 
   <h2>The Back Story</h2>
 
@@ -39,7 +34,7 @@ layout: page
   developer I’ve gravitated to a web stack which includes HTML, CSS, JavaScript, Node.js,
   PHP, Ruby, Jekyll and WordPress.</p>
 
-  <p>During the course I did a 15 month placement with Plymouth Software, building Ruby on Rails,
+  <p>During the course I did a 15 month placement with <a href="https://plymouthsoftware.com">Plymouth Software</a>, building Ruby on Rails,
   iOS and Android applications. As part of my placement I was encouraged to develop my own
   side projects, the first of which was to re-develop an existing project from PHP into Rails.
   It was at Plymouth Software where I leaned that software development is all about
@@ -61,7 +56,7 @@ layout: page
   <pre><code>{
     "vitalStatistics": {
         "name": "Tony Edwards",
-        "description": "Coder, Connector, Creator of Awesomeness",
+        "description": "Doer of things with tech",
         "dayJob": "Web Developer, Marketer and Event Organiser",
         "sideHustle": "South West Communities"
     },
@@ -95,7 +90,7 @@ layout: page
   <pre><code>---
 vitalStatistics:
     name: 'Tony Edwards'
-    description: 'Coder, Connector, Creator of Awesomeness'
+    description: 'Doer of things with tech'
     dayJob: 'Web Developer, Marketer and Event Organiser'
     sideHustle: 'South West Communities'
 education:
@@ -117,4 +112,3 @@ devDependencies:
 ---
   </code></pre>
 </div>
-
