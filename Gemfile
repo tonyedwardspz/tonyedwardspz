@@ -9,3 +9,5 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-feed', "~> 0.15.1"
 gem 'jemoji', "~> 0.12.0"
 gem "kramdown-parser-gfm"
+
+gem "webrick", "~> 1.7"
