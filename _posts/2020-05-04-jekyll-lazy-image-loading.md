@@ -4,7 +4,7 @@ title: Adding lazy loading to images in Jekyll
 date: 2020-05-04 00:00:00 +0000
 author: tonyedwardspz
 category: blog
-headerImage: true
+headerImage: false
 tag:
 - Web Performance
 - Lazy Loading Images
