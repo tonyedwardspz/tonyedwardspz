@@ -5,7 +5,7 @@ date: 2022-09-15 00:00:00 +0000
 author: tonyedwardspz
 category: blog
 headerImage: true
-image: /assets/images/2021/language-learning-header.jpg
+image: /assets/images/2022/midi-birds.jpg
 tag:
 - Public Speaking
 - MIDI Birds
