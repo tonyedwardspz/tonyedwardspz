@@ -19,6 +19,8 @@ During the talk, I walk the audience through the curation of a dataset comprisin
 
 This post fills the references gap in the live talk due to the pace of the session. It should provide a jumping off point for exploring the topics contained within it.
 
+Post image courtesy of [Tech Exeter](https://twitter.com/TechExeter/status/1570431280847753216).
+
 [Personal Photos & Videos](https://www.instagram.com/tonyedwardspz/) - Many of the shots used during the talk have appeared on Instagram previously. Follow me for more of the same.
 
 [Photos of Dexter](https://www.instagram.com/explore/tags/dexpz/)
@@ -53,4 +55,4 @@ The MIDI Association - [The History of MIDI](https://www.midi.org/midi-articles/
 
 [At Least It Was Here by The 88](https://www.youtube.com/watch?v=nHbiHcrA18w) (Community Theme Song).
 
-* This is an affiliate link. If you use it to buy something, Tony may earn a small commission at no cost to you. Thank you for supporting independent publishing.
+This post contains affiliate links. If you use it to buy something, Tony may earn a small commission at no cost to you. Thank you for supporting independent publishing.
