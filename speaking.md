@@ -7,15 +7,24 @@ layout: page
 
 I really enjoy speaking at meetups and conferences for digital folk. Talks are typically fast-paced, entertaining (hopefully), and generally a little different from the majority of sessions.
 
-One of my current talks focuses on the HTML5 speechRecognitionAPI and how it helps me to write hip-hop lyrics. I'd love to find more opportunities to deliver it at conferences and meetups with an enforceable code of conduct in place.
+A current favorite talk to deliver is MIDI Birds, another adventure in web browser wonderland. Starting with the 400 item bird song data set recorded during the Covid-19 pandemic, I take the audience on a multimedia journey that includes a history of MIDI, two interactive demos, a body-mounted target, and a rainbow wig.
 
 [Get in touch](https://tonyedwardspz.co.uk/contact/) if you'd like me to speak at your event.
 
 ## Past, present, and future speaking experience.
 
+### 2022
+
+* HalfStack London - Speaker: November 2022
+* Tech Exeter Conference - Speaker: September 2022
+* Agile on the Beach- Speaker: July 2022
+* HalfStack Newquay - Speaker: July 2022
+* Plymouth Web - Speaker: May 2022
+* Tech Connect - Speaker: May 2022
+
 ### 2021
 
-* Techstart Satrtup Weekend (Plymouth) - Coach: November 2021
+* Techstars Satrtup Weekend (Plymouth) - Coach: November 2021
 * Software Cornwall Tech Connect - Organiser/Host: July 2021
 * Coffee Break Social - Host: July 2021
 * Coffee Break Social - Host: June 2021
