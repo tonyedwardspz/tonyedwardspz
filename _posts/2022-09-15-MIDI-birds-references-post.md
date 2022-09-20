@@ -13,11 +13,11 @@ tag:
 
 ---
 
-MIDI birds is a facepaced multimedia talk aimed at developer communities. It’s been great fun unleashing it on unsuspecting audiences. 
+MIDI birds is a fast paced multimedia talk aimed at developer communities, but suitable for anyone who uses computers for work. It’s been great fun unleashing it on unsuspecting audiences. 
 
 During the talk, I walk the audience through the curation of a dataset comprising of 400 birdsong recordings and the creation of a handful of interactive browser based games. This is delivered through the lens of 500 days of isolation during the 2020 - 2022 Covid-19 pandemic.
 
-This post fills the references gap in the live talk due to the pace of the session. It should provide a jumping off point for exploring the topics contained within the talk.
+This post fills the references gap in the live talk due to the pace of the session. It should provide a jumping off point for exploring the topics contained within it.
 
 [Personal Photos & Videos](https://www.instagram.com/tonyedwardspz/) - Many of the shots used during the talk have appeared on Instagram previously. Follow me for more of the same.
 
