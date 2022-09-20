@@ -4,13 +4,16 @@ title: I walked out of my own talk
 date: 2022-07-11 00:00:00 +0000
 author: tonyedwardspz
 category: blog
-headerImage: false
+headerImage: true
+image: /assets/images/2022/agile-on-the-beach.jpg
 tag:
 - Public Speaking
 - Agile on the Beach
 - Lightning talk
 
 ---
+
+*This post originally appeared on [LinkedIn](https://www.linkedin.com/posts/tonyedwardspz_agile-activity-6952149219180732416-ctld).*
 
 I walked out of my own talk.
 
