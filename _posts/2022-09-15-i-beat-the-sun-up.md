@@ -22,6 +22,7 @@ You know the kind of day. Immediately upon waking, you reside yourself to the fa
 To help facilitate a life where this is the focus, I've been using Todoist. Starting with just a handful of repeating habits initially, it's turned into a foundational part of managing a grown-up life. These are the processes that I want to trust.
 
 > “We are what we repeatedly do. Excellence then is not an act but a habit.”
+>
 > Will Durant, summing up Aristotle’s thoughts on excellence in *[The Story of Philosophy](https://amzn.to/3R969aS)*. 
 
 So I set about knocking tasks off the list before the sun had reared its warming head.
