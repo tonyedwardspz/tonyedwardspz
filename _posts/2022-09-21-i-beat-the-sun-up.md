@@ -44,3 +44,5 @@ But it was a success, and a satisfying moment when I knocked off the last item I
 Have a positive day. Check.
 
 It's amazing what you can do from a hospital bed when you trust the process.
+
+*This post contains affiliate links. If you use them to buy something, Tony may earn a small commission at no cost to you. Thank you for supporting independent publishing.*

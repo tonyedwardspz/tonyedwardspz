@@ -55,4 +55,4 @@ The MIDI Association - [The History of MIDI](https://www.midi.org/midi-articles/
 
 [At Least It Was Here by The 88](https://www.youtube.com/watch?v=nHbiHcrA18w) (Community Theme Song).
 
-This post contains affiliate links. If you use them to buy something, Tony may earn a small commission at no cost to you. Thank you for supporting independent publishing.
+*This post contains affiliate links. If you use them to buy something, Tony may earn a small commission at no cost to you. Thank you for supporting independent publishing.*
