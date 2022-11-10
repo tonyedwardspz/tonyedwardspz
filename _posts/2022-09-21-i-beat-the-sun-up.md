@@ -37,7 +37,7 @@ And it went on.
 
 Read a page of a philosophy book. Read a page of non-fiction. Another healthy food choice. Do some german. Daydream. Message a friend. Make a wise input choice. Another healthy food choice. Be bored. Learn something new.
 
-I followed the process over the day. Come the peaceful moment where the sun falls beyond the horizon, it had been whittled down to just those that I simply didn't feel like doing, or were a lower priority than getting myself up to speed with a new job. Which itself is challenging on a day like today.
+I followed the process over the day. Come the peaceful moment where the sun had fallen beneath the horizon, it had been whittled down to just those that I simply didn't feel like doing, or were a lower priority than getting myself up to speed with a new job. Which itself is challenging on a day like today.
 
 But it was a success, and a satisfying moment when I knocked off the last item I would before falling asleep. 
 
