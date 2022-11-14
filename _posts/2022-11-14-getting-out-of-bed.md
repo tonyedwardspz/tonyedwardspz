@@ -25,13 +25,13 @@ Personally, I don’t see the need to have an internet connected device on my wr
 
 Alarms that adapt to your sleep pattern.
 
-It’s well understood that [waking during light sleep](https://aasm.org/awakening-during-rem-sleep-results-in-negative-mood-and-self-appraisal/) is a great way to wake refreshed. The adaptive alarms on FitBit allow for this.
+It’s well understood that [waking during light sleep](https://aasm.org/awakening-during-rem-sleep-results-in-negative-mood-and-self-appraisal/) is a great way to wake refreshed. The adaptive alarms on FitBit allow for this. I strap mine on when I get in to bed and take it off the moment I get out of it.
 
 **Effectiveness - 5/10**
 
 ## 2: Have three alarms
 
-Alongside the FitBit, I have a sequence of alarms set for the same time each day. Starting at 8:30am, I have three alarms over a fifteen minute period. This eliminates the need for me to manage snoozing which goes wrong too often to rely on. Simply dismiss the alarm and there’s another one shortly after.
+Alongside the FitBit, I have a sequence of alarms set for the same time each day. Starting at 8:30am, I have three alarms over a fifteen minute period. This eliminates the need for me to manage snoozing which goes wrong way too often to rely on. Simply dismiss the alarm and there’s another one shortly after.
 
 Why? If I hear the third alarm, I know it really is time to get out of bed. But this is not really effective without step 3. . . 
 
