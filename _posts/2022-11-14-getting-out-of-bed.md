@@ -31,9 +31,11 @@ It’s well understood that [waking during light sleep](https://aasm.org/awakeni
 
 ## 2: Have three alarms
 
-Alongside the FitBit, I have a sequence of alarms set for the same time each day. Starting at 8:30am, I have three alarms over a fifteen minute period. This eliminates the need for me to manage snoozing which goes wrong way too often to rely on. Simply dismiss the alarm and there’s another one shortly after.
+Alongside the FitBit, I have a sequence of three alarms set for the same time each day, starting at 8:30am. This eliminates the need for me to manage snoozing which goes wrong way too often to rely on. Simply dismiss the alarm and there’s another one shortly after.
 
-Why? If I hear the third alarm, I know it really is time to get out of bed. But this is not really effective without step 3. . . 
+Why? 
+
+If I hear the third alarm, I know it really is time to get out of bed. But this is not really effective without step 3. . . 
 
 **Effectiveness - 6/10**
 
@@ -46,14 +48,14 @@ The assistant does the following routine:
 - Set phone volume to 40%
 - Plays a 3-5 minute meditation podcast (for a gentle wake up)
 - Plays a news podcast in German (which supports an [ongoing habit](https://tonyedwardspz.co.uk/blog/language-learning-through-immersion/))
-- Plays a series of long form news-is podcasts including:
+- Plays a series of long form news-ish podcasts including:
 	- Wired Science
 	- The Intelligence
 	- Babbage from Economist Radio
 	- Wired
 	- Wired Business
 	
-This engages my brain in a gentle way initially, before stimulating it with high quality non sensationalist news. Without even thinking about it, this allows me to tick off a couple items from my daily routine:
+This engages my brain in a gentle way initially, before stimulating it with high quality non sensationalist news. Without even thinking about it, this completes a few items from my daily routine:
 
 - Meditate
 - Do some German
