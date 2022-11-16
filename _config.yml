@@ -15,9 +15,6 @@ url: https://tonyedwardspz.co.uk
 
 permalink: /:categories/:title/
 
-# To enable google analytics, supply your token below
-# analytics-google: 'UA-165285240-1'
-
 # if you don't have any of social below, comment the line
 # facebook: tonyedwardspz
 twitter: tonyedwardspz
