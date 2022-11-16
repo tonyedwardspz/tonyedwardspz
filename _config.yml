@@ -18,11 +18,6 @@ permalink: /:categories/:title/
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-165285240-1'
 
-# if you don't want comments in your posts, leave categories empty
-#disqus:
-#  shortname: tonyedwardspz # enter this from your disqus account
-#  categories: [blog] # only show disqus for posts that have these categories
-
 # if you don't have any of social below, comment the line
 # facebook: tonyedwardspz
 twitter: tonyedwardspz
