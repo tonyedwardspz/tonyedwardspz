@@ -1,4 +1,4 @@
-<section class="author{% if site.disqus == false %} no-disqus{% endif %}">
+<section class="author no-disqus">
     <div class="toleft">
         <img class="selfie" src="{{ site.url }}/{{ site.authors[page.author].picture }}" alt="{{ site.authors[page.author].name }} headshot">
     </div>
@@ -8,7 +8,6 @@
         <p class="bio">{{ site.authors[page.author].bio }}</p>
 
         <div class="share">
-            <!-- Note: Only use three share links if your site width is set to large, otherwise use two -->
             <a class="twitter" href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }} - {{ page.title }} by @{{ site.twitter }}">
                 <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg><span class="icon-twitter">Tweet</span>
             </a>
