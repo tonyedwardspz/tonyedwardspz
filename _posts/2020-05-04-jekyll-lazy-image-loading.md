@@ -6,6 +6,7 @@ author: tonyedwardspz
 category: blog
 headerImage: false
 tag:
+- Jekyll
 - Web Performance
 - Lazy Loading Images
 
