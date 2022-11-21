@@ -15,11 +15,13 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ### 2022
 
+* Truro & Penwith College - Guest Lecture: November 2022
+* Tech Connect - 99 Second Speaker: October 2022
 * Tech Exeter Conference - Speaker: September 2022
 * Agile on the Beach- Speaker: July 2022
 * HalfStack Newquay - Speaker: July 2022
 * Plymouth Web - Speaker: May 2022
-* Tech Connect - Speaker: May 2022
+* Tech Connect - 99 Second Speaker: May 2022
 
 ### 2021
 
