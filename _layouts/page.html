@@ -56,14 +56,17 @@ layout: default
 
 <nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
+        {% if page.title == "Home" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/about">About Me</a>
+            </li>
+        {% else %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/">Home</a>
+            </li>
+        {% endif %}
         <li class="item">
-            <a class="link" href="{{ site.url }}/">Home</a>
-        </li>
-        <li class="item">
-            <a class="link" href="{{ site.url }}/blog">Blog</a>
-        </li>
-        <li class="item">
-            <a class="link" href="{{ site.url }}/about">About</a>
+            <a class="link" href="{{ site.url }}/blog">Posts</a>
         </li>
         <li class="item">
             <a class="link" href="{{ site.url }}/speaking">Speaking</a>
@@ -77,9 +80,10 @@ layout: default
 {{content}}
 
 <footer class="footer-main">
-    {{ site.name }} © {{ site.time | date: '%Y' }} <a class="link" href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a>
+    {{ site.name }} © {{ site.time | date: '%Y' }} - <a class="link" href="{{ site.url }}/about">About Me</a>
 
     <p class="extra">
-        Based upon <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a> by <a class="link" href="http://koppl.in">Kopplin</a>
+        View on <a class="link" href="https://github.com/tonyedwardspz/tonyedwardspz">Github</a> - 
+        <a class="link" href="{{ site.url }}/feed.xml" target="_blank">Subscribe via RSS</a>
     </p>
 </footer>
