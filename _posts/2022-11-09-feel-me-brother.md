@@ -9,7 +9,6 @@ image: /assets/images/2022/hogan.gif
 tag:
 - Presentation
 - Teaching
-- Plymouth University
 
 ---
 

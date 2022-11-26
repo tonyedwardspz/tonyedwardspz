@@ -7,9 +7,8 @@ category: blog
 headerImage: true
 image: /assets/images/2022/pay-it-forward.jpg
 tag:
-- Pay it forwards
 - Networking
-- Plymouth University
+- Teaching
 
 ---
 
