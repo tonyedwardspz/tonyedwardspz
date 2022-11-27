@@ -8,7 +8,7 @@ headerImage: true
 image: /assets/images/2022/wake-up.jpg
 tag:
 - Routine
-- Get Up
+- Getting Up
 - Habits
 
 ---
