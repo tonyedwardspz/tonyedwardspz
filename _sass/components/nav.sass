@@ -40,7 +40,7 @@
             margin: 0
             border-radius: 4%
             transition: all .4s ease-in-out
-            width: 100px
+            width: 110px
 
             &:hover
                 color: $alpha
@@ -56,6 +56,11 @@
     height: 20px
     width: 200px
 
+
+.nav > .list > .item.active > .link 
+    font-weight: bold
+    border-bottom: 2px solid $alpha
+
 @media #{$below}
     .nav
         justify-content: start
@@ -69,9 +74,7 @@
         font-size: 1.3rem
         padding: 10px
 
-    .nav > .list > .item.active > .link 
-        font-weight: bold
-        border-bottom: 2px solid $alpha
+
 
     .nav > .list > .item.active > .link
         padding: 8px

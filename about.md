@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-<h1 id="aboutMe">About me</h1>
+<h1 id="aboutMe">Hey. I'm Tony</h1>
 
 <p class="about-buttons">
   <button id="HumanReadableButton" onclick="showHideAbout('human');" class="general-button active">Human Readable Format</button>
@@ -12,8 +12,6 @@ layout: page
 </p>
 
 <div id="about-human" class="show-about">
-  <p>Hey. I'm Tony.</p>
-
   <p>I'm taking a little bit of time off work at the moment, recharging the batteries ready for my next professional adventure. That said, I head up <a href="https://thatseagullbob.co.uk">That Seagull Bob</a>. Bob specialises in making online audio and video super simple for it's clients, alongside a smattering of web development and event organising.</p>
 
   <p>In recent years, I've done a few different things. I was part of the education outreach team for <a href="https://softwarecornwall.org">Software Cornwall</a>, a members network in the South West of England. The project I headed up, helping disadvantaged young adults into fulfilling tech careers, won multiple awards including one for being the most inspirational offering in the South West digital industry. A few years on, I'm seeing the people the team and I inspired and coached through this role entering the software industry. It makes me immensely proud!</p>
