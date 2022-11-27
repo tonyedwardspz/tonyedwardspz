@@ -5,7 +5,11 @@ layout: page
 title: Blog
 ---
 
-<h1>Blog Posts</h1>
+<div class="page-title-wrap">
+	<h1 class="feed-title">Blog Posts</h1>
+	<p>A curation of learnings, musings and similarly captured day dreams.</p>
+	<p><a class="link" href="{{ site.url }}/feed.xml" target="_blank">Subscribe via RSS</a></p>
+</div>
 
 <section class="list">
 	{% if site.posts.size == 0 %}
