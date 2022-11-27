@@ -2,7 +2,6 @@
 layout: default
 ---
 {% if page.title == "Home"
-   or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
 
 {% if showHeader == true %}
@@ -52,7 +51,12 @@ layout: default
             </a>
         </div>
     </header>
+{% else %}
+    <header class="header-not-home">
+        <a href="{{ site.url }}/">{{ site.name }}</a>
+    </header>
 {% endif %}
+
 
 <nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
@@ -60,18 +64,14 @@ layout: default
             <li class="item">
                 <a class="link" href="{{ site.url }}/about">About Me</a>
             </li>
-        {% else %}
-            <li class="item">
-                <a class="link" href="{{ site.url }}/">Home</a>
-            </li>
         {% endif %}
-        <li class="item">
-            <a class="link" href="{{ site.url }}/blog">Posts</a>
+        <li class="item {% if page.title == 'Blog' or page.title == 'Tags' or page.collection == 'posts' %}active{% endif %}">
+            <a class="link" href="{{ site.url }}/blog">Blog Posts</a>
         </li>
-        <li class="item">
+        <li class="item {% if page.title == "Speaking" %}active{% endif %}">
             <a class="link" href="{{ site.url }}/speaking">Speaking</a>
         </li>
-        <li class="item">
+        <li class="item {% if page.title == "Contact Me" %}active{% endif %}">
             <a class="link" href="{{ site.url }}/contact">Contact</a>
         </li>
     </ul>

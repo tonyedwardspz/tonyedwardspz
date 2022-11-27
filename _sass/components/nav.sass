@@ -17,7 +17,7 @@
 
 .nav
     display: flex
-    justify-content: center
+    justify-content: start
 
     > .list
         padding: 0 13px 0
@@ -40,12 +40,44 @@
             margin: 0
             border-radius: 4%
             transition: all .4s ease-in-out
-            width: 85px
+            width: 100px
 
             &:hover
                 color: $alpha
+
+.nav > .list > li.item:first-child > a.link
+        padding-left: 0
+
+.nav > .list
+        padding-left: 0
 
 .spacer
     float: left
     height: 20px
     width: 200px
+
+@media #{$below}
+    .nav
+        justify-content: start
+        margin-bottom: 1rem
+
+    .nav > .list
+        padding-left: 0
+
+    .nav > .list > .item > .link
+        line-height: 1.5rem
+        font-size: 1.3rem
+        padding: 10px
+
+    .nav > .list > .item.active > .link 
+        font-weight: bold
+        border-bottom: 2px solid $alpha
+
+    .nav > .list > .item.active > .link
+        padding: 8px
+
+    .nav > .list > li.item:first-child > a.link
+        padding-left: 0
+
+    .nav > .list > li.item.active:first-child > a.link
+        padding-right: 5px
