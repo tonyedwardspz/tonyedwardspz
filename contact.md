@@ -3,11 +3,13 @@ title: Contact Me
 layout: page
 ---
 
+
 <div class="side-by-side"> 
     <div class="toleft"> 
         <h1>Contact me</h1>
         <p>It's good to talk, and I'd love to hear from you.</p> 
-        <p>Say hi by sending a quick message via the form. If you want a call back. . . be sure to include your number.</p>
+        <p>Say hi by sending a message via the form. If you want a call back, please include your number.</p>
+        <p>I promise to consider replying if your message survives its trip through the filters. Nothing more.</p>
 
     </div> 
     <div class="toright">
