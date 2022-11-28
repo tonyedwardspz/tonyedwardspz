@@ -12,13 +12,13 @@ tag:
 
 ---
 
-Over the last few days, I’ve spent some time tweaking this blog. Nothing major, nothing drastic. The excellent [indigo theme](https://github.com/sergiokopplin/indigo) by [Sérgio A. Kopplin](https://github.com/sergiokopplin) has served me well, but it’s time to put a stamp on it.
+Over the last few days, I’ve spent some time tweaking this blog. Nothing major, nothing drastic. The excellent [indigo theme](https://github.com/sergiokopplin/indigo) by [Sérgio A. Kopplin](https://github.com/sergiokopplin) has served me well, but it’s time to make it my own.
 
 Partly because doing so has been on a mental check list somewhere for a while. Years even, in one or two cases. And we all know how these feel to unburden ourselves from long lived todos.
 
 Partly because of some reflection on my place within the social internet. With a solid 20 years of an internet connected life to date, you can be sure that I’ve call a bunch of platforms home over the years. 
 
-Before the birth of the modern social media juggernaut, you could find me on bulletin boards, moderating forums, building Geo Cities, and even chatting on the odd [WAP](https://en.wikipedia.org/wiki/Wireless_Application_Protocol) chat room. The long deleted bulletin board posts, “my space” which turned out to be someone else’s, the no longer needed scrobbles and constant listening for the MSN notification sound. At that point, every notification corresponded to a welcome message from someone I cared about. Today, notifications are to be avoided at all costs. 
+Before the birth of the modern social media juggernaut, you could find me on bulletin boards, moderating forums, building Geo Cities, and even chatting on the odd [WAP](https://en.wikipedia.org/wiki/Wireless_Application_Protocol) chat room. The long deleted bulletin board posts, “my space” which turned out to be someone else’s, the no longer needed scrobbles and constant listening for the MSN notification sound. At that point, every notification corresponded to a welcome message from someone I cared about. Today, notifications are to be avoided if at all possible. Rarely are they as welcome as the MSN ping had been. 
 
 It amounts to a lot of time. And as each platform fell into the internet abyss, so too has the content that I’d contributed. A lot of it in some cases. In other case I accidentally reset 5 years of scrobble data after one two many coffee’s. 🤷‍♀️
 
