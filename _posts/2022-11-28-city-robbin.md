@@ -20,4 +20,4 @@ During [heatwave of 2022](https://en.wikipedia.org/wiki/2022_United_Kingdom_heat
 
 But that’s a different kind of bird. Tonights was a nicer kind.
 
-This evening song was delivered by a pair of Robbins, singing above the bustling noise of the daily commute. Across the canopy, the duo traded piercing whistles as the sun set. I’d like to think they were wishing each other a good night. Chances are they they were telling each other to piss off. They’re a very territorial bird afterall.
+This evening song was delivered by a pair of Robbins, singing above the bustling noise of the daily commute. Across the canopy, the duo traded piercing whistles as the sun set. I’d like to think they were wishing each other a good night. Chances are that they were telling each other to piss off. They’re a very territorial bird afterall.
