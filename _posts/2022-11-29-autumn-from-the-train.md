@@ -14,7 +14,7 @@ tag:
 
 Hurtling across Cornwall by train is a common occurrence in my life. Something that’s been true ever since a young age when my family moved to the end of the UK.
 
-Back then, journeys might have been to see a football game with my dad and uncle. Perhaps a roast with aunt Non (French family joke. . . Evon was famous for always saying no). Sometimes, both these would be bookended by an evening on the sofa with gramps to watch wrestling. In all cases, it was something I was looking forward to.
+Back then, journeys might have been to see a football game with my dad and uncle. Perhaps a roast with aunt Non (French family joke. . . Evon was famous for always saying no). Sometimes, both these would be bookended by a a morning and evening on the sofa with gramps to watch wrestling. In all cases, it was something I was looking forward to.
 
 Today it’s often to do a job I enjoy doing. Or to attend a social function, many of which are tied to work in someway. . . but filled with friends. 
 
