@@ -22,8 +22,8 @@ The train has become a pseudonym for my office. I’m often head down in a lapto
 
 Today I’ve taken a different tact. Rather than being ‘work’ productive, I’m being ‘Tony’ productive. Instead of hunching over a laptop to relentlessly work with headphones on, I’ve grabbed this pad and pen and set about daydreaming out of the window sans headphones. Watching the countryside relentlessly go past is both boring and restful.
 
-The thing I’m most struck by is the famous Autumn colors. They’re often touted as a suitable replacement for long sunny days, and cooling summer breezes along the coast. Sure, if you’re a fan of orangey brown then this is certainly the season for you. It does look spectacular, especially when the fields are dotted with animals of all kinds. Sheep, Cows, Llamas, and a variety of other birds are all a part of today’s journey. As have a handful of rainbows.
+The thing I’m most struck by is the famous Autumn colors. They’re often touted as a suitable replacement for long sunny days, and cooling summer breezes along the coast. Sure, if you’re a fan of orangey brown then this is certainly the season for you. It does look spectacular, especially when the fields are dotted with animals of all kinds. Sheep, Cows, Llamas, pheasants and a variety of other birds are all a part of today’s journey. As have a handful of rainbows.
 
-This year's Autumn may have started late and happened suddenly, but starring out of this window it’s clear that it’s nearly over and winter is coming. 
+This year's Autumn may have started late and happened suddenly, but starring out of this window it’s clear that it’s nearly over and winter is coming. It’s going to be long, hard and cold.
 
-It’s going to be long, hard and cold. Much like the war we’re about to live through.
+Much like the war we’re about to live through. We're living through history.
