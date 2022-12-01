@@ -12,7 +12,7 @@ tag:
 
 ---
 
-## Have a fancy looking website.
+## . . . have a fancy looking website?
 
 Design is overhead.
 
@@ -20,7 +20,7 @@ Well. . . it is when it comes to this blog at least. Reading [The Design of Ever
 
 That and I'm used to looking at RSS readers.
 
-## Have any analytics on you blog?
+## . . . have any analytics on you blog?
 
 For two primary reasons.
 
@@ -28,7 +28,7 @@ For two primary reasons.
 2. I care about the privacy of whoever reads the things I make more than I care about any numbers.
 3. In the eight years prior to their recent removal, I’d probably looked at the analytics twice. Three times at a stretch. In all cases, it was an accident.
 
-## Have comments on your blog?
+## . . . have comments on your blog?
 
 I don't want comments on the blog. There's a contact form that people can use that drops submissions into a well designed email workflow. 
 
@@ -38,12 +38,12 @@ Chances are that we’ll talk about a content piece one way or another if fortun
 
 ## Run a facebook pixel?
 
-I don't plan to advertise anything at my readers. If that ever changes, it won’t be via Facebook.
+I don't plan to advertise anything at my readers in the way that a pixel powers. If that ever changes, it won’t be via Facebook.
 
 Also, see privacy comment above.
 
-## Have this site broken up into partials
+## . . . have this site broken up into partials?
 
 The Jekyll theme this site is built upon was highly atomic. The includes folder was chock full of partials. . . however. . . many of them were only used once. Knowing that premature optimisation is the root of all evil and that I touch the theme files very infrequently, I decided to lump them together into the main template files. Unless the code is used more than once of course.
 
-Apart from the reduction in cognitive load when making tweaks every few months, it’s also reduced the build time. Only by a couple of seconds, but every second counts! Given this is a blog, the rebuild time when writing is more important that when developing, and with the reduction in `includes` across the them, the writing rebuild is now under a second.
+Apart from the reduction in cognitive load when making tweaks every few months, it’s also reduced the build time. Only by a couple of seconds, but every second counts! Given this is a blog, the rebuild time when writing is more important that when developing, and with the reduction in `includes` across the theme, the writing rebuild is now under a second 💪
