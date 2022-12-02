@@ -10,7 +10,7 @@ tag:
 
 ---
 
-Over the last few months I’ve had [two heart “events”](https://tonyedwardspz.co.uk/blog/i-beat-the-sun-up/). The doctor in A&E called them attacks, but telling someone I’ve had a heart attack leaves an impression that’s removed from reality. But that’s what they were, with the most recent being less than 20 days ago from the time of writing.
+Over the last few months I’ve had [two heart “events”](https://tonyedwardspz.co.uk/blog/i-beat-the-sun-up/). The doctor in A&E called them attacks, but telling someone I’ve had a heart attack leaves an impression that’s removed from reality. But that’s what they were, with the most recent being only a few weeks ago.
 
 The day-to-day effect is that I’m perpetually fatigued, and have been since mid September.
 
@@ -20,7 +20,7 @@ Walking, showering, delivering talks, getting to the office, early mornings. The
 
 Hell. Even the medication I’ve been on since attack number one sucks. It’s caused my kidneys to show the early signs of failure. Whilst this was expected and monitored, they’re still not running at 100%.
 
-None of this would be an issue, and I probably would have recovered fully by now, if I’d had a chance to rest. Both of my new jobs have started since the first attack. I got out of hospital on a Friday and started one of them the next Monday. The combination of immense amounts of travel, early mornings and a lack of decent rest have prevented a proper recovery.
+None of this would be an issue, and I probably would have recovered fully by now, if I’d had a chance to rest. Both of my new jobs have started shortly after the first attack. I got out of hospital on a Friday and started one of them the next Monday. The combination of immense amounts of travel, early mornings and a lack of decent rest have prevented a proper recovery.
 
 Add in the fact that a gradual and unnoticed change in eyesight is leaving me with constant headaches / migraines, you can see why it’s been a rough few months (even if I can't 🧐).
 
