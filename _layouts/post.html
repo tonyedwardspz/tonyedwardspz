@@ -31,6 +31,10 @@ layout: page
 
 {{content}}
 
+{% if page.linkedin %}
+    <a href="{{ page.linkedin }}" class="also-on">Also on LinkedIn</a>
+{% endif %}
+
 
 {% if site.post-advance-links contains page.category %}
     <div class="blog-navigation">
