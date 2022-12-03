@@ -1,15 +1,15 @@
 ---
 layout: post
-title: A Future Sync Distributed Story
+title: A Future Sync ConferenceL Distributed Story
 date: 2020-04-17 00:00:00 +0000
 author: tonyedwardspz
 category: blog
 headerImage: false
 tag:
-- Conference
-- Networking
-- Happy Memories
 - Future Sync
+- Conference
+- Happy Memory
+
 ---
 
 4 hours have passed.

@@ -9,7 +9,6 @@ image: /assets/images/2018/digital-plymouth-selfie.jpg
 tag:
   - Digital Plymouth
   - Public Speaking
-  - Networking
   - Beats, Rhymes & Unit Tests
 ---
 

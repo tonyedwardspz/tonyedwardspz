@@ -5,6 +5,7 @@ date: 2022-12-01 00:00:00 +0000
 author: tonyedwardspz
 category: blog
 headerImage: false
+affiliate: true
 tag:
 - Analytics
 - Comments
@@ -28,6 +29,8 @@ For two primary reasons.
 2. I care about the privacy of whoever reads the things I make more than I care about any numbers.
 3. In the eight years prior to their recent removal, I’d probably looked at the analytics twice. Three times at a stretch. In all cases, it was an accident.
 
+For similar reasons, there's no Meta Pixel.
+
 ## . . . have comments on your blog?
 
 I don't want comments on the blog. There's a contact form that people can use that drops submissions into a well designed email workflow. 
@@ -35,12 +38,6 @@ I don't want comments on the blog. There's a contact form that people can use th
 Comments received this way have resulted in some interesting conversations over the years. Any received via Disqus weren't even noticed.
 
 Chances are that we’ll talk about a content piece one way or another if fortune so wishes..
-
-## Run a facebook pixel?
-
-I don't plan to advertise anything at my readers in the way that a pixel powers. If that ever changes, it won’t be via Facebook.
-
-Also, see privacy comment above.
 
 ## . . . have this site broken up into partials?
 

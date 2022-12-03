@@ -6,10 +6,11 @@ author: tonyedwardspz
 category: blog
 headerImage: true
 image: /assets/images/2022/midi-birds.jpg
+affiliate: true
 tag:
+- Conference
 - Public Speaking
 - MIDI Birds
-- Conference
 
 ---
 
@@ -54,5 +55,3 @@ The MIDI Association - [The History of MIDI](https://www.midi.org/midi-articles/
 [Bird Song Extravenganza](https://www.youtube.com/watch?v=pYmlkBSQHkw) - Second extended sample used. By [Paul Dinning](https://www.youtube.com/c/PaulDinningWildlifeinCornwall).
 
 [At Least It Was Here by The 88](https://www.youtube.com/watch?v=nHbiHcrA18w) (Community Theme Song).
-
-*This post contains affiliate links. If you use them to buy something, Tony may earn a small commission at no cost to you. Thank you for supporting independent publishing.*
