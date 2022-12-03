@@ -1,0 +1,41 @@
+---
+# blog page must be named index.html and in its own folder to support pagination
+# https://jekyllrb.com/docs/pagination/
+layout: page
+title: Notes
+permalink: /notes/
+---
+
+<div class="page-title-wrap">
+	<p>Snippets and notes</p>
+</div>
+
+<section class="list">
+	{% if site.notes.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% elsif site.paginate %}
+		{% for note in paginator.notes %}
+					<h2>Note title</h2>
+		{% endfor %}
+
+		<div class="pagination">
+			{% if paginator.previous_page %}
+				<a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">«</a>
+			{% else %}
+				<span class="previous hidden">«</span>
+			{% endif %}
+		
+			<span class="page_number ">page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+		
+			{% if paginator.next_page %}
+				<a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">»</a>
+			{% else %}
+				<span class="next hidden">»</span>
+			{% endif %}
+		</div>
+	{% else %}
+		{% for post in site.notes %}
+			<h2>Note title</h2>
+		{% endfor %}
+	{% endif %}
+</section>
