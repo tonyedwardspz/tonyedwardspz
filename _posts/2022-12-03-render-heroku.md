@@ -6,11 +6,7 @@ author: tonyedwardspz
 category: blog
 headerImage: true
 image: /assets/images/2022/render-homepage.jpg
-tag: '[
-   South West Communities,
-   Devops,
-   Software Development
-]'
+tag: [South West Communities, Devops, Software Development]
 ---
 
 [Heroku](https://www.heroku.com/) ended their free tier last month. Whilst I had a few legacy projects hosted on their dynos, one of them needed to live on. 
