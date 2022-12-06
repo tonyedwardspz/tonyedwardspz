@@ -16,7 +16,7 @@ A trio of albums that I've particularly enjoyed with each incremental release co
 
 - The War Within ([YouTube](https://music.youtube.com/playlist?list=OLAK5uy_kc9mMCqhzBEAwMD4ustER_kj-nvyPkbEo&feature=share) - [Spotify](https://open.spotify.com/album/0xl5xiUanr36Purw9jhDjJ?si=eRALUQr2SYS5vSYYd5MgGw) - [Amazon](https://amzn.to/3F5EkvR))
 - Into the Further ([YouTube](https://music.youtube.com/playlist?list=OLAK5uy_mmiLXxW79pnKpAE6GafTIPihU1rdz5XmE&feature=share) - [Spotify](https://open.spotify.com/album/3cN2UExrUFkMoFIRK1GnmP?si=rZ3zbAA5RK6AYiH5fjduwQ) - [Amazon](https://amzn.to/3iIXq3C))
-    - Pressure Point ([YouTube](https://music.youtube.com/playlist?list=OLAK5uy_mMx0rCzboaLDh3omY3b5uxZVQBJpfIRCk&feature=share) - [Spotify](https://open.spotify.com/album/51CIc056J7EfzelQqwxQzE?si=4nN09dY1TWqPVhKcxU9Csg) - [Amazon](https://amzn.to/3Fafb3c))
+- Pressure Point ([YouTube](https://music.youtube.com/playlist?list=OLAK5uy_mMx0rCzboaLDh3omY3b5uxZVQBJpfIRCk&feature=share) - [Spotify](https://open.spotify.com/album/51CIc056J7EfzelQqwxQzE?si=4nN09dY1TWqPVhKcxU9Csg) - [Amazon](https://amzn.to/3Fafb3c))
 
 The albums combine to form one sequential story. Wrek is looking at the modern world through the lens of therapy sessions with Dr Chosis. . . but you can call him Psy. Journeying through the tracks, Wrekonize looks at some of the things that are causing problems in the modern world for the modern man with a wonky brain.
 
