@@ -5,7 +5,7 @@ date: 2022-12-05T00:00:00+00:00
 author: tonyedwardspz
 category: blog
 headerImage: false
-tag: [Writing Tools]
+tag: Writing Tools
 ---
 
 10 days into my blogging habit, I've made another addition to the [low friction writing flow](https://tonyedwardspz.co.uk/blog/low-friction-writing-flow/). This one helps once the publish button has been hit.
