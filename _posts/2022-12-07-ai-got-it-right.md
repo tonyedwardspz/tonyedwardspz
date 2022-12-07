@@ -5,8 +5,7 @@ date: 2022-12-07T00:00:00+00:00
 author: tonyedwardspz
 category: blog
 headerImage: true
-image: /assets/images/2022/games-developers.jpg
-affiliate: true
+image: /assets/images/2022/game-developers.jpg
 tag: 
     - AI
 ---
@@ -25,4 +24,4 @@ For today's session, I needed a picture representing "A team of game developers"
 
 This is not the team of hooded male teenagers I was hesitantly expecting!
 
-![Four game developers](/assets/images/2022/games-developers.jpg "four game developers"){:loading="lazy"}
+![Four game developers](/assets/images/2022/game-developers.jpg "four game developers"){:loading="lazy"}
