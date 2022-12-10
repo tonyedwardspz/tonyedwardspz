@@ -5,7 +5,7 @@ date: 2022-12-10T00:00:00+00:00
 author: tonyedwardspz
 category: blog
 headerImage: false
-tag: -Travel
+tag: [Travel]
 ---
 
 There are 34 people in this waiting room.
