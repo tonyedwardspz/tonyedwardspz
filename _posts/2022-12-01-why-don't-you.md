@@ -23,7 +23,7 @@ That and I'm used to looking at RSS readers.
 
 ## . . . have any analytics on you blog?
 
-For two primary reasons.
+For three main reasons.
 
 1. The amount of people reading this blog has no consequence to anything. I post what I want, when I want.
 2. I care about the privacy of whoever reads the things I make more than I care about any numbers.
