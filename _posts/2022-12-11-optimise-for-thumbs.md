@@ -19,7 +19,7 @@ To try to make phone usage productive, or at least educational, I've optimised t
 
 It's easier to open an RSS reader than social media.
 
-It's easier to open a writing tool than a consumption tool.
+It's easier to open a writing tool than a mindless consumption tool.
 
 It's easier to listen to an audio book than to listlessly doom scroll.
 
