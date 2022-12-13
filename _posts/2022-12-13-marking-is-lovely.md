@@ -6,6 +6,7 @@ author: tonyedwardspz
 category: blog
 headerImage: true
 image: /assets/images/2022/marking.jpg
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7008040402033197056/
 tag: 
     - Teaching
 

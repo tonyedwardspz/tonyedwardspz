@@ -5,7 +5,6 @@ date: 2022-11-27 00:00:00 +0000
 author: tonyedwardspz
 category: blog
 headerImage: false
-image: 
 tag:
 - Social Media
 - Internet Gardener
