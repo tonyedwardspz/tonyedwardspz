@@ -21,6 +21,6 @@ The second admittedly half hearted switch came during uni in the mid 20-teens. W
 
 The third, but undoubtedly not final, switch is underway. It's been a gradual move over, starting on mobile as an effort to increase privacy. As a consequence, ads are reduced and speed is increased. The uptick in travel corresponds with a decrease in connectivity whilst moving through a rural area. There's only so much JS a shaky 3g connection can handle.
 
-The ad blocker is a staple of the modern web for anyone in the know. Moves by Apple and similarly large companies are shining an increasingly bright spotlight on user data and the privacy of it. It’s nice to have the relatively ad free experience available via my mobile phone, and the privacy benefits that come with it.
+The ad blocker is a staple of the modern web for anyone in the know. Moves by Apple, similarly large companies an even [governments](https://pluralistic.net/2022/12/07/luck-of-the-irish/#schrems-revenge) are shining an increasingly bright spotlight on user data and the privacy of it. The result is a gradual restriction on the privacy invasive methods. As a user,it’s just nice to have the relatively ad free experience available via my mobile phone. The privacy benefits simply come along with it.
 
 After a month of using Firefox as a daily browser, I absent mindedly opened Chrome to browse some F1 news. The adverts were almost overwhelming, and I quickly became convinced that the choice to switch was the right one.
