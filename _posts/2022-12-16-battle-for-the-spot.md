@@ -17,12 +17,12 @@ This week has provided a welcome step change.
 
 There have been [rail strikes](https://www.bbc.co.uk/news/business-63951354) this week. Given that public transport is my main method of travel, it’s required that I either work from home or spend a not so insignificant amount of time traveling an insignificant distance. Instead of battling the crowds for a seat, I’ve had to fight #DexPZ for the “boss spot” on the sofa.
 
-![Dexter steals my spot.](/assets/images/2022/dexter-boss-spot.jpg “Dexter the tabby cat steals my spot”){:loading="lazy"}
+![Dexter steals my spot.](/assets/images/2022/dexter-boss-spot.jpg "Dexter steals the boss spot."){:loading="lazy"}
 
 A battle I’ll never win.
 
-But the union gods are smiling. The only two days I really need to be somewhere for work are the only two days the strikes aren’t on.
+The union gods are smiling down on me. The only two days I *really* needed to be somewhere for work are the only two days the strikes aren’t on. Winner.
 
-Winner.
+But I did have to miss a team building day. Looser.
 
 Good luck getting what you’re after folks.
