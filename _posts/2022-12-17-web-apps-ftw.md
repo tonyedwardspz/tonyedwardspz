@@ -14,7 +14,7 @@ tag:
 
 Wherever possible, I recommend the use of web apps. The reasons are well established in the developer community as to when and why a web app is a viable choice over something native. We won’t be revisiting that technical conversation here.
 
-Instead, we’ll touch on just one use case. Social media. With the exception of Instagram, there are no social apps installed on my phone. Web installs, which use FireFox under the hood, are the portal of choice for our collective social lives. They're perfectly usable, even if the odd advanced feature aren't implemented.
+Instead, we’ll touch on just one use case. Social media. With the exception of Instagram, there are no social apps installed on my phone. Web installs, which use FireFox under the hood, are the portal of choice for peering into our collective social lives. They're typically perfectly usable, even if the odd advanced feature aren't implemented.
 
 There are three main reasons why I choose them.
 
@@ -26,11 +26,11 @@ Native smartphone apps are not know for their privacy friendly features. It’s 
 
 Access to our data is the price we pay for using these platforms. That data has a value. Elon Musk’s recent acquisition of Twitter priced each active account and the related data at $200. This may or may not cause your eyebrows to raise, but it does provide an elusive concrete example of just how much your eyeballs are worth to #BigTech.
 
-To become a little less of a product and a little more of human, using web apps create a sandbox to contain 3rd party services in a sandbox. As [previously noted](https://tonyedwardspz.co.uk/blog/switching-to-firefox/), FireFox is used for privacy preserving (amongst other) reasons, and extending that privacy into LinkedIn, Twitter, Moodle etc is most welcome.
+To become a little less of a product and a little more of human, using web apps create a sandbox to contain 3rd party services. As [previously noted](https://tonyedwardspz.co.uk/blog/switching-to-firefox/), FireFox is used for privacy preserving (amongst other) reasons, and extending that privacy into LinkedIn, Twitter, Moodle etc is most welcome.
 
 ## Speed
 
-The fewer apps on a smartphone, the better overall speed and battery life of the device you’ll enjoy. As a side effect, you might find yourself getting more done due to fewer distractions. . . increasing the speed of your life.
+The fewer apps on a smartphone, the better overall speed and battery life of the device you’ll get to enjoy. As a side effect, you might find yourself getting more done due to fewer distractions. . . increasing the speed of your life.
 
 ## Updates
 
