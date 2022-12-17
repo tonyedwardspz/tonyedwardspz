@@ -18,7 +18,7 @@ Instead, we’ll touch on just one use case. Social media. With the exception of
 
 There are three main reasons why I choose them.
 
-##Privacy
+## Privacy
 
 Native smartphone apps are not know for their privacy friendly features. It’s fair to say many [simply hoover up personal data](https://www.wired.co.uk/article/tiktok-data-privacy). In many cases, you don’t even need to have the application open for the hoovering to commence.
 
@@ -28,11 +28,11 @@ Access to our data is the price we pay for using these platforms. That data has 
 
 To become a little less of a product and a little more of human, using web apps create a sandbox to contain 3rd party services in a sandbox. As [previously noted](https://tonyedwardspz.co.uk/blog/switching-to-firefox/), FireFox is used for privacy preserving (amongst other) reasons, and extending that privacy into LinkedIn, Twitter, Moodle etc is most welcome.
 
-##Speed
+## Speed
 
 The fewer apps on a smartphone, the better overall speed and battery life of the device you’ll enjoy. As a side effect, you might find yourself getting more done due to fewer distractions. . . increasing the speed of your life.
 
-##Updates
+## Updates
 
 With a plethora of apps on your phone, you introduce buggy software into your live. No app, native or otherwise, is 100% done. 
 
