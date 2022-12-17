@@ -1,7 +1,7 @@
 ---
 title: 'Put social back in social media &#8211; (not so) live blog'
 date: 2015-08-23 11:15
-author: demo
+author: tonyedwardspz
 layout: post
 category: blog
 tag:

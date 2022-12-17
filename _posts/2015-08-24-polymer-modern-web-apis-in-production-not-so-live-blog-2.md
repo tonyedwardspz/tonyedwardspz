@@ -8,8 +8,7 @@ category: blog
 tag:
   - Google I/O
   - Polymer
-  - The Future
-  - Web Apps
+  - Web App
 ---
 ### [Matt McNulty](https://twitter.com/mattsmcnulty) opens the keynote
 
