@@ -7,6 +7,7 @@ category: blog
 headerImage: false
 tag: 
     - Routine
+    - Habits
 
 ---
 
