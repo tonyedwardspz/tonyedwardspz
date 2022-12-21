@@ -8,6 +8,7 @@ headerImage: false
 image: /assets/images/2022/winter-solstice.jpg
 tag: 
     - Solstice
+    - Seasons
 
 ---
 
