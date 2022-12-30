@@ -5,7 +5,6 @@ date: 2022-12-23T00:00:00+00:00
 author: tonyedwardspz
 category: blog
 headerImage: false
-image: /assets/images/2022/winter-solstice.jpg
 tag: 
     - Networking
 
