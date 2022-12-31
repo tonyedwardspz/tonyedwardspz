@@ -10,13 +10,13 @@ tag:
 
 ---
 
-During the “500 days of lockdown, one of the many DIY tasks undertaken was to repair a section of crumbling granite wall. For bonus points, adding in a handful of steps was a requested addition.
+During the 500 days of lockdown, one of the many DIY tasks undertaken was to repair a section of crumbling granite wall. For bonus points, adding in a handful of steps was a requested addition.
 
 It was a throw away comment from my Girlfriend the evening prior that started things off. "It would be so much easier to do x and y if we could move from the front garden to the back garden without going through the house".
 
 This was like a red rag to a bull. Engineers at heart want to optimise everything in any which way possible. I certainly enjoy recouping minutes incrementally. Doing so via a Herculean physical task such as this supports my belief that a good stint in the garden counts as exercise. This was set to be a full body garden workout
 
-Starting at 7am, the resources needed from around the property were gathered together. Shovels. Wheelbarrow. Wire brush. A few bags of cements. Pointing trowel. When he was up, I knocked my neighbor's door to blag some of the breeze blocks he wanted to be rid off. After all, the most eco purchase is the one you never need to make.
+Starting at 7am, the resources needed from around the property were gathered together. Shovels. Wheelbarrow. Wire brush. A few bags of cement. [A Pointing trowel](https://www.instagram.com/p/CBvhivHnw8E/). When he was up, I knocked my neighbor's door to blag some of the breeze blocks he wanted to be rid off. After all, the most eco purchase is the one you never need to make.
 
 The morning saw the existing wall torn down to what was solid whilst the day warmed up to become one of the hottest that year. Within the stretch of wall, a gap was introduced for the small flight of steps. The reclaimed granite chunks were brushed over to remove the last of the baked mud that has been holding the wall together for the past 60 plus years. The 5 metre stretch was ready and prepped for the next phase by lunch time, which is when I first caught myself moaning about the days heat.
 
