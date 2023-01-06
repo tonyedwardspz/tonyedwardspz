@@ -7,7 +7,8 @@ category: blog
 headerImage: true
 image: /assets/images/2022/nvalt-writing-pane.jpg
 tag:
-- Writing Tools
+    - Writing Tools
+    - Writing
 
 ---
 
