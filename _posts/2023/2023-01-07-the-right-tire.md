@@ -7,7 +7,7 @@ category: blog
 headerImage: true
 image: /assets/images/2023/the-right-tire.jpg
 tag: 
-    - Formula 1
+    - F1
 
 ---
 
