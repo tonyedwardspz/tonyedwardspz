@@ -20,11 +20,11 @@ The hunt for teeny-tiny incremental gains never stops in our house. The best kin
 
 This gain fulfils the first two and optionally the third. . .  depending on which dish is being prepped. Plus it only takes a handful of seconds to save up to ten minutes.
 
-**Pre-soak your dried pasta.**
+**Pre-soak dried pasta.**
 
-A couple hours before you plan to eat, drop your pasta of choice into a dish of cold water and leave it to soak. It'll only take a couple of minutes to cook when the moment to eat arrives, saving time and money. If the dish allows, you can even cook the pasta in the sauce which makes it extra tasty.
+A couple hours before you plan to eat, drop your pasta of choice into a dish of cold water and leave it to soak. It'll only take a couple of minutes to cook when the moment to eat arrives, saving both time and money. If the dish allows, you can even cook the pasta in the sauce which makes it extra tasty and generates fewer dishes.
 
-Cooking dried pasta does two main things. Firstly, it rehydrates the food to bring it closer in consistency to its fresh counterpart. Secondly, heats it to make it more palatable plus easier to digest. Pre-soaking fulfils the first need, meaning you only need to do the second.
+Cooking dried pasta does two main things. Firstly, it rehydrates the food to bring it closer in consistency to its fresh counterpart. Secondly, the pasta is heated / cooked to make it more palatable plus easier to digest. Pre-soaking fulfils the first need, meaning you only have to do the second.
 
 As an added bonus, the amount of steam introduced into the home environment is vastly reduced. [As you may recall](https://tonyedwardspz.co.uk/blog/prototypal-damp-solution/), this is a very welcome secondary benefit.
 
