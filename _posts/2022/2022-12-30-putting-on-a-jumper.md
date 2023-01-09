@@ -10,7 +10,7 @@ tag:
 
 ---
 
-During the 500 days of lockdown, one of the many DIY tasks undertaken was to repair a section of crumbling granite wall. For bonus points, adding in a handful of steps was a requested addition.
+During the [500 days of lockdown](https://tonyedwardspz.co.uk/blog/500-days-of-lockdown), one of the many DIY tasks undertaken was to repair a section of crumbling granite wall. For bonus points, adding in a handful of steps was a requested addition.
 
 It was a throw away comment from my Girlfriend the evening prior that started things off. "It would be so much easier to do x and y if we could move from the front garden to the back garden without going through the house".
 
