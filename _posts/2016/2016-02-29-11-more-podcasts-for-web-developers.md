@@ -9,7 +9,7 @@ tag:
   - Podcasts
   - Web Development
 ---
-Following on from my previous [post of podcasts](http://purelywebdesign.co.uk/blog/12-podcasts-for-web-developers/ "12 podcasts for web developers"), here&#8217;s 11 more shows for web developers.
+Following on from my previous [post of podcasts](http://tonyedwardspz.co.uk/blog/12-podcasts-for-web-developers/ "12 podcasts for web developers"), here&#8217;s 11 more shows for web developers.
 
 ![11 podcasts for web developers](/assets/images/import/2016/02/Screen-Shot-2016-02-23-at-18.26.39.png)
 

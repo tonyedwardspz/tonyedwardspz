@@ -8,7 +8,7 @@ tag:
   - JavaScript
   - Tutorial
 ---
-Following on from last weeks one line <a href="http://purelywebdesign.co.uk/tutorial/javascript-mobile-device-detection-the-easy-way/" target="_blank">mobile detection method</a>, here&#8217;s another useful one line method. This time, the method detects the devices orientation. I&#8217;m using this method to swap out images for each orientation.
+Following on from last weeks one line <a href="http://tonyedwardspz.co.uk/blog/javascript-mobile-device-detection-the-easy-way/" target="_blank">mobile detection method</a>, here&#8217;s another useful one line method. This time, the method detects the devices orientation. I&#8217;m using this method to swap out images for each orientation.
 
 <!--more-->
 

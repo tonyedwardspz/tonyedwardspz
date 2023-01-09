@@ -53,7 +53,7 @@ tag:
 
 <span style="font-weight: 400;">The objective of putting your code onto Github has nothing really to do with the quality of the code. Instead, it’s to demonstrate that you’re familiar with the basic concepts of version control. One of the comments I’ve heard the most when asking industry insiders is that students have very little experience of version control.</span>
 
-<span style="font-weight: 400;">I’ve dived a little deeper into GitHub for students in a previous post. If you’re not convinced about the virtues of having a public Git profile I’d highly recommend you take a </span>[<span style="font-weight: 400;">look at this article</span>](http://purelywebdesign.co.uk/tutorial/git-what-and-why-an-introduction-for-students/)<span style="font-weight: 400;">. I’ve had some great feedback from people in the industry about that specific post.</span>
+<span style="font-weight: 400;">I’ve dived a little deeper into GitHub for students in a previous post. If you’re not convinced about the virtues of having a public Git profile I’d highly recommend you take a </span>[<span style="font-weight: 400;">look at this article</span>](http://tonyedwardspz.co.uk/blog/git-what-and-why-an-introduction-for-students/)<span style="font-weight: 400;">. I’ve had some great feedback from people in the industry about that specific post.</span>
 
 ### Summary
 

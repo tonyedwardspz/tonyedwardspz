@@ -22,7 +22,7 @@ Lets get started.
 
 ## Project setup
 
-First things first, we need to set up our project. Create a folder called todo and open this within your text editor. We need three files for this application, index.html, style.css and script.js. Go ahead and create those (or [download the starter files here](http://purelywebdesign.co.uk/wp-content/uploads/2015/01/todo.zip "Todo list start point")), open `index.html` and add the following code.
+First things first, we need to set up our project. Create a folder called todo and open this within your text editor. We need three files for this application, index.html, style.css and script.js. Go ahead and create those, open `index.html` and add the following code.
 
 <pre data-language="html"><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
@@ -292,4 +292,4 @@ Here&#8217;s a few things you can try for yourself:
 
   * Add animation to the list item when they are removed.
   * Add menu to house multiple lists.
-  * Store removed item in a separate completed list.
+  * Store removed items in a separate completed list.

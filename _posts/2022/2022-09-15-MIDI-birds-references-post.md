@@ -8,19 +8,18 @@ headerImage: true
 image: /assets/images/2022/midi-birds.jpg
 affiliate: true
 tag:
-- Conference
-- Public Speaking
-- MIDI Birds
+    - Conference
+    - Public Speaking
+    - MIDI Birds
+    - 500 days of lockdown
 
 ---
 
 MIDI birds is a fast paced multimedia talk aimed at developer communities, but suitable for anyone who uses computers for work. It’s been great fun unleashing it on unsuspecting audiences. 
 
-During the talk, I walk the audience through the curation of a dataset comprising of 400 birdsong recordings and the creation of a handful of interactive browser based games. This is delivered through the lens of 500 days of isolation during the 2020 - 2022 Covid-19 pandemic.
+During the talk, I walk the audience through the curation of a dataset comprising of 400 birdsong recordings and the creation of a handful of interactive browser based games. This is delivered through the lens of my [500 days of lockdown](https://tonyedwardspz.co.uk/blog/500-days-of-lockdown) during the 2020 - 2022 Covid-19 pandemic.
 
 This post fills the references gap in the live talk due to the pace of the session. It should provide a jumping off point for exploring the topics contained within it.
-
-Post image courtesy of [Tech Exeter](https://twitter.com/TechExeter/status/1570431280847753216).
 
 [Personal Photos & Videos](https://www.instagram.com/tonyedwardspz/) - Many of the shots used during the talk have appeared on Instagram previously. Follow me for more of the same.
 
@@ -48,10 +47,12 @@ The MIDI Association - [The History of MIDI](https://www.midi.org/midi-articles/
 
 [Sexy Back](https://www.youtube.com/watch?v=DiIVwdYCJpY) - MIDI Cover.
 
-[Can I Use - Web MIDI](https://caniuse.com/midi) - Browser compatability information for Web MIDI.
+[Can I Use - Web MIDI](https://caniuse.com/midi) - Browser compatibility information for Web MIDI.
 
 [RUSH E](https://www.youtube.com/watch?v=lbubH1FovFc) - Tesla Coil music performance.
 
 [Bird Song Extravenganza](https://www.youtube.com/watch?v=pYmlkBSQHkw) - Second extended sample used. By [Paul Dinning](https://www.youtube.com/c/PaulDinningWildlifeinCornwall).
 
 [At Least It Was Here by The 88](https://www.youtube.com/watch?v=nHbiHcrA18w) (Community Theme Song).
+
+Image courtesy of [Tech Exeter](https://twitter.com/TechExeter/status/1570431280847753216).

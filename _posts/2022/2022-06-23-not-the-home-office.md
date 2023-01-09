@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Not the home office
-date: 2022-05-05 00:00:00 +0000
+date: 2022-06-23 00:00:00 +0000
 author: tonyedwardspz
 category: blog
 headerImage: true
