@@ -18,10 +18,12 @@ I reflected on a decade plus of working long hours as part of long and often phy
 
 Over that time, I spent plenty of time doing projects around the home and garden. Building a handful of veg beds, repairing walls, laying patios, and most importantly reconnecting with my partner after a hectic few years.
 
-Don’t get me wrong, I did a fair whack of work. . . within the rules of furlough of course. We ran one of the first conferences in the western world to pivot online, hosted events for others, launched a couple apps, built (and closed) a successful agency as well as walking away from a career path I’d been stalling along for half a decade. Along side that, I had great swathes of time without having any kind of work in my life. 
+Don’t get me wrong, I did a fair whack of work. . . within the rules of furlough of course. We ran one of the first conferences in the western world to pivot online, hosted events for others, launched a couple apps, built (and closed) a successful agency as well as stepping back from a career path I’d been strolling along for half a decade. To complement that, I had great swathes of time without having any kind of work in my life. 
 
 After more than 20 years of life on line, I disconnected from the web. No social media. No email. No YouTube. No messaging apps. It was bliss. For a shorter stretch, cutting anything more technologically advanced than a kettle and lightbulb out of my life with the exception of our smart speaker system. As an example, I didn’t use the cooker for a while because it has a digital clock.
 
-To highlight how cut off I was, the second lockdown almost passed without realising it was happening. Please don’t get the impression that I didn’t leave the house, see my family or communicate with the people I love. I sure did, just not in the same way as the before times. . . which I guess is true for everyone to some extent.
+To highlight how cut off I was, the second lockdown almost passed without realising it was happening! 
+
+Please don’t get the impression that I didn’t leave the house, see my family or communicate with the people I love. I sure did, just not in the same way as the before times. . . which I guess is true for everyone to some extent.
 
 I’ll likely dive into some of this in future posts and related content. For now, at least you know what I mean by “500 days of lockdown”.

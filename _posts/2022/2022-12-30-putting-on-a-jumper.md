@@ -20,7 +20,7 @@ Starting at 7am, the resources needed from around the property were gathered tog
 
 The morning saw the existing wall torn down to what was solid whilst the day warmed up to become one of the hottest that year. Within the stretch of wall, a gap was introduced for the small flight of steps. The reclaimed granite chunks were brushed over to remove the last of the baked mud that has been holding the wall together for the past 60 plus years. The 5 metre stretch was ready and prepped for the next phase by lunch time, which is when I first caught myself moaning about the days heat.
 
-Sitting in the shade with a corned beef and lettuce sandwich, I stated thinking about how the temperature was affecting the job at hand. “Sure, I’m hot. . . but there are other people in the world doing this kind of labour intensive work in hotter conditions. Why am I grumbling?”
+Sitting in the shade with a corned beef and lettuce sandwich, I started thinking about how the temperature was affecting the job at hand. “Sure, I’m hot. . . but there are other people in the world doing this kind of labour intensive work in hotter conditions. Why am I grumbling?”
 
 Pondering the heat some more, the obvious conclusion was drawn. Putting on a jumper is the logical move.
 
