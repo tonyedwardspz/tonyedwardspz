@@ -1,6 +1,6 @@
 ---
 title: Tracking a Campaign's Inbound Traffic with Google Analytics
-date: 2018-01-03 09:45 +0000
+date: 2018-01-03 09:45 +00:00
  
 headerImage: false
 tag:

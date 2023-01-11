@@ -1,6 +1,6 @@
 ---
 title: Pitch Up at the Blue
-date: 2017-09-19 11:29 +0000
+date: 2017-09-19 11:29 +00:00
  
 headerImage: true
 image: /assets/images/import/2017/09/pitch-up.jpeg

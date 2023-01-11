@@ -1,6 +1,6 @@
 ---
 title: Upgrading social sharing via the Web Share API
-date: 2020-05-03 01:00 +0000
+date: 2020-05-03 01:00 +00:00
  
 headerImage: true
 image: /assets/images/2020/current-share-functionality.jpg

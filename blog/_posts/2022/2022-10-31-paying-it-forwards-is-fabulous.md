@@ -1,6 +1,6 @@
 ---
 title: Paying it forward is fabulous
-date: 2022-10-31 00:00:00+0000
+date: 2022-10-31T00:00:00+00:00
 image: /assets/images/2022/pay-it-forward.jpg
 tag:
 - Networking

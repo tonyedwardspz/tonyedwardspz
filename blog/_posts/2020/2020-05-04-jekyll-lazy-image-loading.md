@@ -1,6 +1,6 @@
 ---
 title: Adding lazy loading to images in Jekyll
-date: 2020-05-04 00:00:00+0000
+date: 2020-05-04T00:00:00+00:00
 headerImage: false
 tag:
 - Jekyll

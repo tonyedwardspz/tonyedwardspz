@@ -1,6 +1,6 @@
 ---
 title: Talking at Halfstack Vienna
-date: 2019-09-24 01:00 +0000
+date: 2019-09-24 01:00 +00:00
  
 headerImage: true
 image: /assets/images/2019/halfstack-vienna-selfie.jpg

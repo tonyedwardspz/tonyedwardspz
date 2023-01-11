@@ -1,6 +1,6 @@
 ---
 title: My Digital Plymouth Talk
-date: 2018-06-13 12:45 +0000
+date: 2018-06-13 12:45 +00:00
  
 headerImage: true
 image: /assets/images/2018/digital-plymouth-selfie.jpg

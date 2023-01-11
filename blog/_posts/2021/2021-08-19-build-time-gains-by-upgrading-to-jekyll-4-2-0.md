@@ -1,6 +1,6 @@
 ---
 title: Build time gains from upgrading Jekyll to 4.2.0
-date: 2021-08-19 16:00:00 +0000
+date: 2021-08-19 16:00:00 +00:00
  
 headerImage: false
 tag:

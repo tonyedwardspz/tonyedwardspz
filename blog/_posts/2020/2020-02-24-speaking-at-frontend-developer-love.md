@@ -1,6 +1,6 @@
 ---
 title: Speaking at Frontend Developer Love
-date: 2020-02-24 01:00 +0000
+date: 2020-02-24 01:00 +00:00
  
 headerImage: true
 image: /assets/images/2020/frontend-love-selfie.jpg

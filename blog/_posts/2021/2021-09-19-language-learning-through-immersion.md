@@ -1,6 +1,6 @@
 ---
 title: Language Learning through immersion
-date: 2021-09-19 00:00:00+0000
+date: 2021-09-19T00:00:00+00:00
 image: /assets/images/2021/language-learning-header.jpg
 tag:
 - Learning

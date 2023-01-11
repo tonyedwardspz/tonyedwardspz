@@ -1,6 +1,6 @@
 ---
 title: Being fatigued sucks 
-date: 2022-12-02 00:00:00+0000
+date: 2022-12-02T00:00:00+00:00
 headerImage: false
 tag:
 - Health
