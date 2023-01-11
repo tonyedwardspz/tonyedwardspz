@@ -1,16 +1,9 @@
-# main text of home
 name: Tony Edwards
 bio: Doer of things
-job-description: Doer of things
-
-# twitter summary info
-description: A blog about my corner of the world
-
-external-image: false
 picture: assets/images/headshot.jpg
+description: A blog about my corner of the world# twitter summary info
 
 url: https://tonyedwardspz.co.uk
-
 permalink: /:categories/:title/
 
 mastodon: https://mastodon.social/@tonyedwardspz
@@ -19,32 +12,12 @@ instagram: tonyedwardspz
 linkedin: tonyedwardspz
 youtube: UCeUTkW7-_b0vbhV04SRb_2A
 github: tonyedwardspz
-tiktok: tonyedwardspz
 stackoverflow: 3194491/tonyedwardspz
 medium: tonyedwardspz
 
-authors:
-    tonyedwardspz:
-        name: Tony Edwards
-        bio: Doer of things
-        external-image: false
-        picture: assets/images/headshot.jpg
-        twitter: tonyedwardspz
-
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: large
-
-# if you don't need pagination, comment the *paginate* configs below
 paginate: 12
 paginate_path: "blog/:num/"
-
-# Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
-
-# do you want some animations?
-animation: false
 
 plugins:
   - jekyll-seo-tag
@@ -55,6 +28,3 @@ plugins:
 
 plugins_dir:
   - jekyll-paginate
-
-jekyll-mentions:
-    base_url: https://github.com

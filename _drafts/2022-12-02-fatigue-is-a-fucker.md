@@ -1,8 +1,7 @@
 ---
 title: Being fatigued sucks 
 date: 2022-12-02 00:00:00 +0000
-author: tonyedwardspz
-category: blog
+ 
 headerImage: false
 tag:
 - Health

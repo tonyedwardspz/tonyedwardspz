@@ -37,6 +37,13 @@ layout: page
 {% endif %}
 
 
+{% if page.affiliate %}
+    <p style="font-weight: 300; font-size: 14px; color: grey; font-style: italic;">This post contains affiliate links.
+        If you click one and buy something, Tony may earn a small commission at no cost to you. Think of it as your way
+        of supporting independent publishing. Thank you 🤗</p>
+{% endif %}
+
+
 {% if site.post-advance-links contains page.category %}
     <div class="blog-navigation">
         {% if page.previous.url %}
@@ -90,12 +97,12 @@ layout: page
 
 <section class="author">
     <div class="toleft">
-        <img class="selfie" src="{{ site.url }}/{{ site.authors[page.author].picture }}" alt="{{ site.authors[page.author].name }} headshot" loading="lazy">
+        <img class="selfie" src="{{ site.url }}/{{ site.picture }}" alt="{{ site.name }} headshot" loading="lazy">
     </div>
 
     <div class="toright">
-        <h4 class="name">{{ site.authors[page.author].name }}</h4>
-        <p class="bio">{{ site.authors[page.author].bio }}</p>
+        <h4 class="name">{{ site.name }}</h4>
+        <p class="bio">{{ site.bio }}</p>
 
         <div class="share">
             <a class="twitter" href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }} - {{ page.title }} by @{{ site.twitter }}"  target="_blank" rel="noopener noreferrer" title="Share to Twitter">

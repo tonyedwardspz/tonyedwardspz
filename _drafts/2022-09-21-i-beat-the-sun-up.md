@@ -1,8 +1,7 @@
 ---
 title: I beat the sun up
 date: 2022-09-21 00:00:00 +0000
-author: tonyedwardspz
-category: blog
+ 
 headerImage: true
 image: /assets/images/2022/beat-the-sun-up.jpg
 affiliate: true
