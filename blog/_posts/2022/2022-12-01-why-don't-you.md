@@ -1,7 +1,6 @@
 ---
 title: Why don't you. . . 
-date: 2022-12-01 00:00:00 +0000
- 
+date: 2022-12-01 00:00:00+0000
 headerImage: false
 affiliate: true
 tag:

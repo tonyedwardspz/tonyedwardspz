@@ -1,8 +1,6 @@
 ---
 title: Low friction writing flow
-date: 2022-11-30 00:00:00 +0000
- 
-headerImage: true
+date: 2022-11-30 00:00:00+0000
 image: /assets/images/2022/nvalt-writing-pane.jpg
 tag:
     - Writing Tools

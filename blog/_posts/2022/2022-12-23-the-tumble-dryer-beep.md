@@ -1,7 +1,6 @@
 ---
 title: The tumble dryer beep
 date: 2022-12-23T00:00:00+00:00
-headerImage: false
 tag: 
     - Networking
 

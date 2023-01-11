@@ -1,7 +1,6 @@
 ---
 title: The battle for the spot
 date: 2022-12-16T00:00:00+00:00
-headerImage: false
 tag: 
     - DexPZ
     - Hybrid Work

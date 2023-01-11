@@ -1,8 +1,6 @@
 ---
 title: Getting out of bed
-date: 2022-11-14 00:00:00 +0000
- 
-headerImage: true
+date: 2022-11-14 00:00:00+0000
 image: /assets/images/2022/wake-up.jpg
 tag:
 - Routine

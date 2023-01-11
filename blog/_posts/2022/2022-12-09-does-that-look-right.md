@@ -1,7 +1,6 @@
 ---
 title: Does that look right? 👇
 date: 2022-12-09T00:00:00+00:00
-headerImage: false
 tag: 
     - Website Development
     - Writing

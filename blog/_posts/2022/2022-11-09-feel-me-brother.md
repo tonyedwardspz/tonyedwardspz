@@ -1,8 +1,6 @@
 ---
 title: Feel me brother (or sister)
-date: 2022-11-09 00:00:00 +0000
- 
-headerImage: true
+date: 2022-11-09 00:00:00+0000
 image: /assets/images/2022/hogan.gif
 tag:
 - Presentation

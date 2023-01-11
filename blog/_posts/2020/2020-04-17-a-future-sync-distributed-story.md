@@ -1,7 +1,6 @@
 ---
 title: A Future Sync ConferenceL Distributed Story
-date: 2020-04-17 00:00:00 +0000
- 
+date: 2020-04-17 00:00:00+0000
 headerImage: false
 tag:
 - Future Sync

@@ -1,7 +1,6 @@
 ---
 title: The Magpie Call
 date: 2022-12-27T00:00:00+00:00
-headerImage: false
 tag: 
     - The garden
     - Bird song

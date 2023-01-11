@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% if page.image and page.headerImage %}
+{% if page.image %}
     <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}" height="250px">
 {% endif %}
 
@@ -33,7 +33,7 @@ layout: page
 
 
 {% if page.linkedin %}
-    <a href="{{ page.linkedin }}" class="also-on">Also on LinkedIn</a>
+    <p style="font-style: italic;">Originally featured on <a href="{{ page.linkedin }}" class="also-on">LinkedIn</a></p>
 {% endif %}
 
 

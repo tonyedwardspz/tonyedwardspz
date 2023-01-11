@@ -1,8 +1,6 @@
 ---
 title: The underdog comes good
-date: 2022-11-26 00:00:00 +0000
- 
-headerImage: true
+date: 2022-11-26 00:00:00+0000
 image: /assets/images/2022/haas-f1.jpg
 tag:
 - F1

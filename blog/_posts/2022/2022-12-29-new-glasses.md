@@ -1,7 +1,6 @@
 ---
 title: New Glasses
 date: 2022-12-29T00:00:00+00:00
-headerImage: false
 tag: 
     - Vision
 

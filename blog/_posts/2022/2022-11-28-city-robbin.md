@@ -1,8 +1,6 @@
 ---
 title: The city Robbin
-date: 2022-11-28 00:00:00 +0000
- 
-headerImage: true
+date: 2022-11-28 00:00:00+0000
 image: /assets/images/2022/plymouth-at-dusk.jpg
 tag:
 - Plymouth

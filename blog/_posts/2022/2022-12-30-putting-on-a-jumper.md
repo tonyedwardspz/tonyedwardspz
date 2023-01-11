@@ -1,7 +1,6 @@
 ---
 title: Putting on a Jumper
 date: 2022-12-30T00:00:00+00:00
-headerImage: false
 tag: 
     - 500 days of lockdown
 

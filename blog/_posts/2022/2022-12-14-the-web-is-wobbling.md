@@ -1,7 +1,6 @@
 ---
 title: The web is wobbling
 date: 2022-12-14T00:00:00+00:00
-headerImage: false
 tag: 
     - The Web
     - Internet Gardener

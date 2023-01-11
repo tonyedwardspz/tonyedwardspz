@@ -1,8 +1,6 @@
 ---
 title: The importance of perspective
-date: 2022-10-17 00:00:00 +0000
- 
-headerImage: true
+date: 2022-10-17 00:00:00+0000
 image: /assets/images/2022/perspective-1.jpg
 tag:
 - Perspective

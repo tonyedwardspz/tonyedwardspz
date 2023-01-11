@@ -1,8 +1,6 @@
 ---
 title: MIDI Birds Talk - References
-date: 2022-09-15 00:00:00 +0000
- 
-headerImage: true
+date: 2022-09-15 00:00:00+0000
 image: /assets/images/2022/midi-birds.jpg
 affiliate: true
 tag:

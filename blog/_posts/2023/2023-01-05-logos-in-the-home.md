@@ -1,7 +1,6 @@
 ---
 title: Logos in the home
 date: 2023-01-05T00:00:00+00:00
-headerImage: false
 tag: 
     - Branding
 

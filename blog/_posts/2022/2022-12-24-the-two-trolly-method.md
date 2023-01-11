@@ -1,7 +1,6 @@
 ---
 title: The two trolly method
 date: 2022-12-24T00:00:00+00:00
-headerImage: false
 tag: 
     - Adulting
 
