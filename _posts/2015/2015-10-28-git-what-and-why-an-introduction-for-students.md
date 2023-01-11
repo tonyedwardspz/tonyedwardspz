@@ -2,7 +2,7 @@
 title: 'Git: What and Why? An introduction for Students'
 date: 2015-10-28 15:21
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Git

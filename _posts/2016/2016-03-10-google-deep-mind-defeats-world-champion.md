@@ -2,7 +2,7 @@
 title: Google Deep Mind Defeats World Champion
 date: 2016-03-10 10:45
 author: tonyedwardspz
-layout: post
+  
 category: blog
 headerImage: true
 image: /assets/images/import/2016/03/Google_DeepMind_Logo.png

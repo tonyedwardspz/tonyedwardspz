@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Our own sprouts
 date: 2022-12-28T00:00:00+00:00
 author: tonyedwardspz

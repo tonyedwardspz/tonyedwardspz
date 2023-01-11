@@ -2,7 +2,7 @@
 title: Software Cornwall Business Connect roundup
 date: 2016-06-20 18:27
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Conference

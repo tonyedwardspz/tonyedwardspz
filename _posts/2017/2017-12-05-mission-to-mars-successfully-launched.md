@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mission to Mars successfully launched
 date: 2017-10-27 21:57 +0000
 author: tonyedwardspz

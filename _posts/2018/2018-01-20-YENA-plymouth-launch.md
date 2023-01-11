@@ -1,5 +1,4 @@
 ---
-layout: post
 title: YENA Plymouth Launch Event
 date: 2018-01-20 18:45 +0000
 author: tonyedwardspz

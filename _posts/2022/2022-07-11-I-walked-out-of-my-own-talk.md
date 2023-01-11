@@ -1,5 +1,4 @@
 ---
-layout: post
 title: I walked out of my own talk
 date: 2022-07-11 00:00:00 +0000
 author: tonyedwardspz

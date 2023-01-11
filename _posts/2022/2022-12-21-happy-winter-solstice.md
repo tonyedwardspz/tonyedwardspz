@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Happy Winter Solstice
 date: 2022-12-21T00:00:00+00:00
 author: tonyedwardspz

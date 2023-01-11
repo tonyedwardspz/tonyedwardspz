@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Getting out of bed
 date: 2022-11-14 00:00:00 +0000
 author: tonyedwardspz

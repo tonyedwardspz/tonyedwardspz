@@ -2,7 +2,7 @@
 title: Polymer element is unregistered
 date: 2015-10-08 22:48
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Bug

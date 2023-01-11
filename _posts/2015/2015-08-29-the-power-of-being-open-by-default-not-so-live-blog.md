@@ -2,7 +2,7 @@
 title: 'Creative Exhaust: The power of being open by default &#8211; (not so) live blog'
 date: 2015-08-29 14:51
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Live Blog

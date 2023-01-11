@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pitch Up at the Blue
 date: 2017-09-19 11:29 +0000
 author: tonyedwardspz

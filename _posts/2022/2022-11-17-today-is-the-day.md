@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Today is the day
 date: 2022-11-17 00:00:00 +0000
 author: tonyedwardspz

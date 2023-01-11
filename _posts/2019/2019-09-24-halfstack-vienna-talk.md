@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Talking at Halfstack Vienna
 date: 2019-09-24 01:00 +0000
 author: tonyedwardspz

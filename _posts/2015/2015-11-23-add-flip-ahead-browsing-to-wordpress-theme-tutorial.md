@@ -4,7 +4,7 @@ date: 2015-11-23 05:26
 author: tonyedwardspz
 headerImage: true
 image: /assets/images/import/2015/11/edge.jpg
-layout: post
+  
 category: blog
 tag:
   - Flip Ahead Browsing

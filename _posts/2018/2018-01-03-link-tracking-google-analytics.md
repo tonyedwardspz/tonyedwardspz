@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tracking a Campaign's Inbound Traffic with Google Analytics
 date: 2018-01-03 09:45 +0000
 author: tonyedwardspz

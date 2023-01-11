@@ -2,7 +2,7 @@
 title: 'Flexbox &#8211; The future is now'
 date: 2015-06-23 12:37
 author: tonyedwardspz
-layout: post
+  
 description: Flexbox is ready for production use. Find out where to learn this new css layout tool.
 category: blog
 tag:

@@ -2,7 +2,7 @@
 title: 'Keynote: Agile Leadership &#038; Teams &#8211; Lynda Rising'
 date: 2016-09-01 09:56
 author: tonyedwardspz
-layout: post
+  
 category: blog
 headerImage: true
 image: /assets/images/import/2016/09/IMG_20160901_095829-1000x750.jpg

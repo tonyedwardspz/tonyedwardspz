@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Forgive me for my synapses
 date: 2023-01-11T00:00:00+00:00
 author: tonyedwardspz
@@ -12,7 +11,7 @@ tag:
 
 ---
 
-Here's the lyrics to an industrial-esque hip-hip song by [Eyedea & Abilities](https://en.wikipedia.org/wiki/Eyedea_%26_Abilities). You can [listen to it here](https://www.youtube.com/watch?v=qP2oVKL3ydQ).
+Here's the lyrics to an industrial-esque hip-hip song by [Eyedea](https://en.wikipedia.org/wiki/Eyedea) & [Abilities](https://en.wikipedia.org/wiki/Eyedea_%26_Abilities). You can [listen to it here](https://www.youtube.com/watch?v=qP2oVKL3ydQ).
 
 I am all that I think\
 I'm the way that my neurons are wired

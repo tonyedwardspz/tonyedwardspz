@@ -1,6 +1,6 @@
 ---
 title: 'Tutorial: Javascript ToDo list web application'
-layout: post
+  
 date: 2015-01-29 17:38
 tag:
   - CSS

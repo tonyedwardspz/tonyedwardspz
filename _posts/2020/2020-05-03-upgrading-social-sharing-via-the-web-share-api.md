@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Upgrading social sharing via the Web Share API
 date: 2020-05-03 01:00 +0000
 author: tonyedwardspz
@@ -36,7 +35,7 @@ function socialShare() {
        const description = document.getElementsByName('description');
        const pageInfo = {
            url: location.href,
-           title: document.title || '',
+         title: document.title || '',
            text: window.shareDescription ? window.shareDescription : description[0].content
        };
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Low friction writing flow
 date: 2022-11-30 00:00:00 +0000
 author: tonyedwardspz

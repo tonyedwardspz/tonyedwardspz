@@ -1,5 +1,4 @@
 ---
-layout: post
 title: AI got it right
 date: 2022-12-07T00:00:00+00:00
 author: tonyedwardspz

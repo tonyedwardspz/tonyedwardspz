@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Magpie Call
 date: 2022-12-27T00:00:00+00:00
 author: tonyedwardspz

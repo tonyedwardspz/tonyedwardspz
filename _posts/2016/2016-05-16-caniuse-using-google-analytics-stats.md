@@ -2,7 +2,7 @@
 title: 'Caniuse: Integrate Google Analytics stats'
 date: 2016-05-16 13:38
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Browser Compatibility

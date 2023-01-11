@@ -2,7 +2,7 @@
 title: Scaffold a phaser.js app with Yeoman
 date: 2015-01-12 22:14
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Bower

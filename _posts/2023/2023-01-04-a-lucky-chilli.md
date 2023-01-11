@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A lucky chilli
 date: 2023-01-04T00:00:00+00:00
 author: tonyedwardspz

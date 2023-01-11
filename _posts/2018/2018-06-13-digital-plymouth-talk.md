@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My Digital Plymouth Talk
 date: 2018-06-13 12:45 +0000
 author: tonyedwardspz

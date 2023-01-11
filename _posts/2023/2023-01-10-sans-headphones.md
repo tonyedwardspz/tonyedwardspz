@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sans headphones
 date: 2023-01-10T00:00:00+00:00
 author: tonyedwardspz
@@ -29,4 +28,3 @@ Even on a train, not being isolated from the environment allows you to drop in o
 Returning to our starting question. When was the last time you walked somewhere without headphones on?
 
 Or rather, when will you next walk somewhere without headphones in?
-

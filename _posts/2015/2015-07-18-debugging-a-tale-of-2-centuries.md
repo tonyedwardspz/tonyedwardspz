@@ -2,7 +2,7 @@
 title: 'Debugging &#8211; A tale of 2 centuries'
 date: 2015-07-18 14:44
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - debugging

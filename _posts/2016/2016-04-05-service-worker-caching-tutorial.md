@@ -2,7 +2,7 @@
 title: 'Caching assets using Service Workers &#8211; Tutorial'
 date: 2016-04-05 13:16
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Caching

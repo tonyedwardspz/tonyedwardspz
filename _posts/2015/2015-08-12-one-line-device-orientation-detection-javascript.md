@@ -2,7 +2,7 @@
 title: 'One line device orientation detection &#8211; JavaScript'
 date: 2015-08-12 13:10
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - JavaScript

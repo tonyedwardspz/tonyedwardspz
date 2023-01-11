@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The underdog comes good
 date: 2022-11-26 00:00:00 +0000
 author: tonyedwardspz

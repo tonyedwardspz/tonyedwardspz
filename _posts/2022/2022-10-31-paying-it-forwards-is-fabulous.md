@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Paying it forward is fabulous
 date: 2022-10-31 00:00:00 +0000
 author: tonyedwardspz

@@ -4,7 +4,7 @@ date: 2015-11-08T16:09:32+00:00
 author: tonyedwardspz
 headerImage: true
 image: /assets/images/import/2015/11/social-profiles.png
-layout: post
+  
 category: blog
 tag:
   - Online presence

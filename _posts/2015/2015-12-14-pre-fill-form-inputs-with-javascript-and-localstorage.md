@@ -4,7 +4,7 @@ date: 2015-12-14 11:38
 author: tonyedwardspz
 headerImage: true
 image: /assets/images/import/2015/12/localstorage.jpg
-layout: post
+  
 category: blog
 tag:
   - JavaScript

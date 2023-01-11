@@ -2,7 +2,7 @@
 title: 'Value &#8211; Andrea Provagilo'
 date: 2016-09-01 15:05
 author: tonyedwardspz
-layout: post
+  
 category: blog
 headerImage: true
 image: /assets/images/import/2016/09/IMG_20160901_160702-1000x750.jpg

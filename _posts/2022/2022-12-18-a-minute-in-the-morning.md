@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A minute in the morning
 date: 2022-12-18T00:00:00+00:00
 author: tonyedwardspz

@@ -2,7 +2,7 @@
 title: '2017: A tale of three projects'
 date: 2017-01-30 09:12
 author: tonyedwardspz
-layout: post
+  
 category: blog
 headerImage: true
 image: /assets/images/import/2017/01/IMG_20161228_135759.jpg

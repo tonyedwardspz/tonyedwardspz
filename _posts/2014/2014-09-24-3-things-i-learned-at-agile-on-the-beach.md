@@ -1,6 +1,6 @@
 ---
 title: 3 things I learned at Agile on the Beach
-layout: post
+  
 date: 2014-09-24 21:48
 author: tonyedwardspz
 description: "I came, I saw, I learned . Here's my 3 biggest take homes of a fantastic trip to the Agile on the Beach 2014 conference."

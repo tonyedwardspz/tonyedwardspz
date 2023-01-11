@@ -2,7 +2,7 @@
 title: Lazy load images in a Rails application
 date: 2015-09-11 13:10
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Lazyload images

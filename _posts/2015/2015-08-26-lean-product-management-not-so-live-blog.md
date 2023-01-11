@@ -2,7 +2,7 @@
 title: 'Lean Product Management &#8211; (not so) live blog'
 date: 2015-08-26 15:17
 author: tonyedwardspz
-layout: post
+  
 description: "In another (not so) live blog, I cover Melissa Perri's talk titled 'Lean Project Management'. This talk was given at Agile on the Beach 2015, an Agile business conference located on the south coast of Cornwall."
 category: blog
 tag:

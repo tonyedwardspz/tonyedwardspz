@@ -2,7 +2,7 @@
 title: 'JavaScript &#8211; Mobile device detection the easy way'
 date: 2015-08-06 11:37
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - JavaScript

@@ -2,7 +2,7 @@
 title: Create a Rails / Postgres Database after generating a new app
 date: 2016-05-10 11:16
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - CreateDB

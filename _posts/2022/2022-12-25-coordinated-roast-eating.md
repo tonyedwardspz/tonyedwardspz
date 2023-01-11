@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Coordinated roast eating
 date: 2022-12-25T00:00:00+00:00
 author: tonyedwardspz

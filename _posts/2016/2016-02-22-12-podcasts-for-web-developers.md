@@ -2,7 +2,7 @@
 title: 12 Podcasts for Web Developers
 date: 2016-02-22 09:41
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Boring Commute

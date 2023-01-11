@@ -2,7 +2,7 @@
 title: Forward with Fibre
 date: 2014-10-24 12:21
 author: tonyedwardspz
-layout: post
+  
 description: A day at the Superfast Cornwall event with Unlocking Potential from a students perspective.
 category: blog
 tag:

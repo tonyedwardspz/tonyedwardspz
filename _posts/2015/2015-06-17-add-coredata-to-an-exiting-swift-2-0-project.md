@@ -2,7 +2,7 @@
 title: Adding Core Data to an existing Swift 2.0 project
 date: 2015-06-17 19:47
 author: tonyedwardspz
-layout: post
+  
 description: A brief guide to adding Core Data to an existing Xcode 7 project with Swift 2.0 for model persistence.
 category: blog
 tag:

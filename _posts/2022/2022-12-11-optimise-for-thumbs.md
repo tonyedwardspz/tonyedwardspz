@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Optimise for thumbs
 date: 2022-12-11T00:00:00+00:00
 author: tonyedwardspz

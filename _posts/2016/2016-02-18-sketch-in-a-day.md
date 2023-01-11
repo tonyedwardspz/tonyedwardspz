@@ -2,7 +2,7 @@
 title: Sketch in a day
 date: 2016-02-18 16:04
 author: tonyedwardspz
-layout: post
+  
 category: blog
 headerImage: true
 image: /assets/images/import/2016/02/sketch-day.png

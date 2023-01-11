@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Marginal pasta gains
 date: 2023-01-08T00:00:00+00:00
 author: tonyedwardspz
@@ -29,4 +28,3 @@ Cooking dried pasta does two main things. Firstly, it rehydrates the food to bri
 As an added bonus, the amount of steam introduced into the home environment is vastly reduced. [As you may recall](https://tonyedwardspz.co.uk/blog/prototypal-damp-solution/), this is a very welcome secondary benefit.
 
 Photo by <a href="https://unsplash.com/@bkaraivanov">Bozhin Karaivanov</a>.
-  

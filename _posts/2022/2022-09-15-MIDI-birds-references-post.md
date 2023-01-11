@@ -1,5 +1,4 @@
 ---
-layout: post
 title: MIDI Birds Talk - References
 date: 2022-09-15 00:00:00 +0000
 author: tonyedwardspz

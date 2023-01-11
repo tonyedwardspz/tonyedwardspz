@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Putting on a Jumper
 date: 2022-12-30T00:00:00+00:00
 author: tonyedwardspz

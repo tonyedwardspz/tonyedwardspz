@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Feel me brother (or sister)
 date: 2022-11-09 00:00:00 +0000
 author: tonyedwardspz

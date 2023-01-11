@@ -51,6 +51,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-paginate
+  - jekyll-default-layout
 
 plugins_dir:
   - jekyll-paginate

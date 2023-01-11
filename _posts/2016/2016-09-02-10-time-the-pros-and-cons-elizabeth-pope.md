@@ -2,7 +2,7 @@
 title: '10% Time: The Pros and Cons &#8211; Elizabeth Pope'
 date: 2016-09-02 09:31
 author: tonyedwardspz
-layout: post
+  
 headerImage: true
 image: /assets/images/import/2016/09/IMG_20160902_103219.jpg
 category: blog

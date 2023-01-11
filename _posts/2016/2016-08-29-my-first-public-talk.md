@@ -2,7 +2,7 @@
 title: My first public talk
 date: 2016-08-29 02:59
 author: tonyedwardspz
-layout: post
+  
 category: blog
 headerImage: true
 image: /assets/images/import/2016/08/we-are-the-community-1000x563.jpg

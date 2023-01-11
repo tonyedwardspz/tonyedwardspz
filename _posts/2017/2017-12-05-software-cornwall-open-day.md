@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Software Cornwall Open Day
 date: 2017-10-12 11:45 +0000
 author: tonyedwardspz

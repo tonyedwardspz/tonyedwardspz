@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tending an internet garden
 date: 2022-11-27 00:00:00 +0000
 author: tonyedwardspz

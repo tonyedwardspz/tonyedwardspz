@@ -2,7 +2,7 @@
 title: Providing the personal touch through software
 date: 2016-03-14 19:40
 author: tonyedwardspz
-layout: post
+  
 category: blog
 headerImage: true
 image: /assets/images/import/2016/03/eden-thumb.jpg

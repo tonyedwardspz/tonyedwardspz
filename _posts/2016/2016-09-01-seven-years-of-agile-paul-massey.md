@@ -2,7 +2,7 @@
 title: 'Seven Years of Agile &#8211; Paul Massey'
 date: 2016-09-01 13:00
 author: tonyedwardspz
-layout: post
+  
 category: blog
 headerImage: true
 image: /assets/images/import/2016/09/IMG_20160901_140128-1100x640.jpg

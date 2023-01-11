@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Water === oil?
 date: 2022-12-04T00:00:00+00:00
 author: tonyedwardspz

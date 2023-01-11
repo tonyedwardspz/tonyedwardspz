@@ -2,7 +2,7 @@
 title: 'Privacy, Data and Democracy &#8211; (not so) Live blog'
 date: 2015-08-21 12:44
 author: tonyedwardspz
-layout: post
+  
 description:
   - "In preparation for an upcoming event, this is a live blog (after the event) for a presentation by Aral Balkan titled 'Privacy, Data, Democracy'."
 category: blog

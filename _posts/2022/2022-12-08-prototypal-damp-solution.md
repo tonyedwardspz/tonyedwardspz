@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Prototypal damp solutions
 date: 2022-12-08T00:00:00+00:00
 author: tonyedwardspz

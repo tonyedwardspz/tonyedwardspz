@@ -2,7 +2,7 @@
 title: 11 more podcasts for web developers
 date: 2016-02-29 08:22
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Commuting

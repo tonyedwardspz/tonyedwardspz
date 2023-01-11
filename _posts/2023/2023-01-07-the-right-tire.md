@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The right tire
 date: 2023-01-07T00:00:00+00:00
 author: tonyedwardspz

@@ -2,7 +2,7 @@
 title: 'Using Landing Pages to Prove Business Value &#8211; Luke Szyrmer'
 date: 2016-09-01 10:34
 author: tonyedwardspz
-layout: post
+  
 category: blog
 headerImage: true
 image: /assets/images/import/2016/09/IMG_20160901_114702-1000x750.jpg

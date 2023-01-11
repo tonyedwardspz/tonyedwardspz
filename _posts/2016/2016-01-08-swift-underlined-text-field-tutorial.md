@@ -4,7 +4,7 @@ date: 2016-01-08 16:31
 author: tonyedwardspz
 headerImage: true
 image: /assets/images/import/2016/01/swift-underline-extension.jpg
-layout: post
+  
 category: blog
 tag:
   - iOS

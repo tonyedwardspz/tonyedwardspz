@@ -2,7 +2,7 @@
 title: 'How users perceive speed of the web &#8211; (not so) live blog'
 date: 2015-08-28 12:53
 author: tonyedwardspz
-layout: post
+  
 category: blog
 tag:
   - Dev Tools

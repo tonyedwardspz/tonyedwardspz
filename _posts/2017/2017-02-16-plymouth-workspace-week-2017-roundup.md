@@ -2,7 +2,7 @@
 title: Plymouth workspace week 2017 roundup
 date: 2017-02-16 01:05
 author: tonyedwardspz
-layout: post
+  
 category: blog
 headerImage: true
 image: /assets/images/import/2017/02/IMG_20170209_180343.jpg
