@@ -5,7 +5,7 @@ date: 2023-01-11T00:00:00+00:00
 author: tonyedwardspz
 category: blog
 headerImage: true
-image: /assets/images/2023/woodland-walk.jpg
+image: /assets/images/2023/synapses.jpg
 tag: 
     - Hip-Hop
     - Lyrics
