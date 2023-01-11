@@ -14,6 +14,10 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ## Past, present, and future speaking experience.
 
+### 2023
+
+. . .
+
 ### 2022
 
 * Truro & Penwith College - Guest Lecture: November 2022
@@ -50,11 +54,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 * Software Cornwall Tech Connect - Host: October 2020
 * CityJS Conference - Host: September 2020
 * HalfStack Online - Interviewer: May 2020
-* ~~Codemotion Amsterdam: May 2020~~
-* ~~Young Entrepreneurs - Speaker: April 2020~~
 * Future Sync Conference - Host / Organiser: April 2020
-* ~~Tech Exeter - Blockbusters Game host: Feb 2020~~
-* ~~CityJS Conference - Host: March 2020~~
 * Bristech Meetup: March 2020
 * Guest Lecture at Plymouth University: Feb 2020
 * Frontend Developer Love: Feb 2020 [Video](https://www.youtube.com/watch?v=x_L1eQT6TyA)
