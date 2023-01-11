@@ -50,7 +50,7 @@ You are all that you think
 You're the way that your neurons are linked
 I bet if you don't let it get a little better
 It will get a lot worse
-All you gotta do is open up and think
+All you gotta do is open up and. . .
 
 Song lyrics to [Forgive me for my synapses](https://www.youtube.com/watch?v=qP2oVKL3ydQ) by [Eyedea & Abilities](https://en.wikipedia.org/wiki/Eyedea_%26_Abilities).
 
