@@ -1,7 +1,6 @@
 ---
 title: The right tire
 date: 2023-01-07T00:00:00+00:00
-headerImage: true
 image: /assets/images/2023/the-right-tire.jpg
 tag: 
     - F1

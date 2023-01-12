@@ -1,7 +1,6 @@
 ---
 title: Marginal pasta gains
 date: 2023-01-08T00:00:00+00:00
-headerImage: true
 image: /assets/images/2023/pasta.jpg
 tag: 
     - Cooking
