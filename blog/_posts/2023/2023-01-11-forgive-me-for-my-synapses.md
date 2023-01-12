@@ -1,6 +1,5 @@
 ---
 title: Forgive me for my synapses
-date: 2023-01-11T00:00:00+00:00
 image: /assets/images/2023/synapses.jpg
 tag: 
     - Hip-Hop

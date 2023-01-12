@@ -1,6 +1,5 @@
 ---
 title: A lucky chilli
-date: 2023-01-04T00:00:00+00:00
 image: /assets/images/2023/chilli.jpg
 tag: 
     - Gardening

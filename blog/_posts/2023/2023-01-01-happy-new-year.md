@@ -1,6 +1,5 @@
 ---
 title: Happy new year
-date: 2023-01-01T00:00:00+00:00
 image: /assets/images/2023/new-year.jpg
 tag: 
     - Seasons

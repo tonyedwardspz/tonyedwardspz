@@ -1,6 +1,5 @@
 ---
 title: Another tweak to the writing flow
-date: 2023-01-06T00:00:00+00:00
 tag: 
     - Writing Tools
     - Blogging

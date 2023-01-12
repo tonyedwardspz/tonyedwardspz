@@ -1,6 +1,5 @@
 ---
 title: 500 days of lockdown
-date: 2023-01-09T00:00:00+00:00
 tag: 
     - 500 days of lockdown
 
