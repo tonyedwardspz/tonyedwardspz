@@ -1,6 +1,5 @@
 ---
 title: Updating the Low Friction Flow
-date: 2022-12-05T00:00:00+00:00
 tag: 
     - Writing Tools
     - Blogging

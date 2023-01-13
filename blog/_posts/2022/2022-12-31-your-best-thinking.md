@@ -1,6 +1,5 @@
 ---
 title: Your best thinking
-date: 2022-12-31T00:00:00+00:00
 affiliate: true
 tag: 
     - Adulting

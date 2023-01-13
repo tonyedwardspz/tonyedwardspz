@@ -1,7 +1,5 @@
 ---
 title: Today is the day
-date: 2022-11-17T00:00:00+00:00
-headerImage: false
 image: /assets/images/2022/wake-up.jpg
 tag:
 - Teaching

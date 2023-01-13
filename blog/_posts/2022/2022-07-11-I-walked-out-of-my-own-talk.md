@@ -1,6 +1,5 @@
 ---
 title: I walked out of my own talk
-date: 2022-07-11T00:00:00+00:00
 image: /assets/images/2022/agile-on-the-beach.jpg
 linkedin: https://www.linkedin.com/posts/tonyedwardspz_agile-activity-6952149219180732416-ctld
 tag:

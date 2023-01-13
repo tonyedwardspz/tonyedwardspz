@@ -1,7 +1,5 @@
 ---
 title: Render > Heroku
-date: 2022-12-03T00:00:00+00:00
-headerImage: true
 image: /assets/images/2022/render-homepage.jpg
 tag: [South West Communities, Devops, Software Development]
 ---

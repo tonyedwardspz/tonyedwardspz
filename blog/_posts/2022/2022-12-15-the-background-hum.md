@@ -1,7 +1,5 @@
 ---
 title: The background hum
-date: 2022-12-15T00:00:00+00:00
-headerImage: true
 image: /assets/images/2022/nature.jpg
 tag: 
     - Civilization

@@ -1,6 +1,5 @@
 ---
 title: Music to ponder to
-date: 2022-12-06T00:00:00+00:00
 affiliate: true
 tag: 
     - music

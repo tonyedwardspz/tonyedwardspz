@@ -6,4 +6,4 @@ tag:
 
 ---
 
-[Pocket](https://getpocket.com)
+Get [Pocket](https://getpocket.com).

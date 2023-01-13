@@ -1,6 +1,5 @@
 ---
 title: Permissive Goals
-date: 2022-12-19T00:00:00+00:00
 tag: 
     - Routine
     - Habits

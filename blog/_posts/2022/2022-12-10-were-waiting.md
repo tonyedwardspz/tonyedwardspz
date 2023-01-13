@@ -1,7 +1,6 @@
 ---
 title: We're waiting. . .
-date: 2022-12-10T00:00:00+00:00
-tag: [Travel]
+tag: Travel
 ---
 
 There are 34 people in this waiting room.

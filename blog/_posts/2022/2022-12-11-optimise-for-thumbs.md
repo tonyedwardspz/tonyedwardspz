@@ -1,7 +1,5 @@
 ---
 title: Optimise for thumbs
-date: 2022-12-11T00:00:00+00:00
-headerImage: true
 image: /assets/images/2022/thumb-first-thumb.jpg
 tag: 
     - Smartphone

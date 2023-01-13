@@ -1,6 +1,5 @@
 ---
 title: Not the home office
-date: 2022-06-23T00:00:00+00:00
 image: /assets/images/2022/paper-prom.jpg
 tag:
 - Software Development

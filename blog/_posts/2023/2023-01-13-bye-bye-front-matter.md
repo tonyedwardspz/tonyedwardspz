@@ -50,6 +50,7 @@ And some are updated/removed depending on each post:
 - LinkedIn
 
 ## Trimming the fat
+There are five items that can be removed if we rely more heavily on convention.
 
 ### Remove layout
 Adding the [jekyll-default-layout](https://github.com/tonyedwardspz/tonyedwardspz/commit/c294e2f8321792aab822c5a49135ebe68e2fec31) gem allows the site to use sensible defaults for layout selection, based upon the location of the post.

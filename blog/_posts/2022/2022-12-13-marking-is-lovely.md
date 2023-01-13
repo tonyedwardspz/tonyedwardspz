@@ -1,7 +1,5 @@
 ---
 title: Marking is lovely
-date: 2022-12-13T00:00:00+00:00
-headerImage: true
 image: /assets/images/2022/marking.jpg
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7008040402033197056/
 tag: 

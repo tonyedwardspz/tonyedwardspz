@@ -1,6 +1,5 @@
 ---
 title: Autumn through a train window
-date: 2022-11-29T00:00:00+00:00
 image: /assets/images/2022/hayle-rainbow.jpg
 tag:
 - The Cycle

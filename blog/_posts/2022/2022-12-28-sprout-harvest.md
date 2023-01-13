@@ -1,7 +1,5 @@
 ---
 title: Our own sprouts
-date: 2022-12-28T00:00:00+00:00
-headerImage: true
 image: /assets/images/2022/sprouts.jpg
 tag: 
     - The garden

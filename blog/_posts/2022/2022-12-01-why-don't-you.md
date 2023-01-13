@@ -1,7 +1,5 @@
 ---
 title: Why don't you. . . 
-date: 2022-12-01T00:00:00+00:00
-headerImage: false
 affiliate: true
 tag:
 - Analytics

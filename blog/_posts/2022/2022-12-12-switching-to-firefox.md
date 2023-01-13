@@ -1,7 +1,5 @@
 ---
 title: Switching to Firefox
-date: 2022-12-12T00:00:00+00:00
-headerImage: true
 image: /assets/images/2022/firefox.jpg
 tag: 
     - Web Browser
