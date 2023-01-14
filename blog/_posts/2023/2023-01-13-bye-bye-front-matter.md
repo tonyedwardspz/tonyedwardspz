@@ -65,7 +65,7 @@ Placing the `_posts` folder [within the](https://github.com/tonyedwardspz/tonyed
 This was used to check wether a header image is needed on the individual post page. When an image url string is present, the header image is always used. Changing the layout logic to depend on the presence of the string means we can remove this item.
 
 ### Date
-Jekyll requires new posts to start with a date string. Whilst not necessarily true for content outside of the blog roll, stepping away from that convention introduces new configuration. Dates in front matter exist to allow more complex display of posts based on the time of posting.
+Jekyll requires the filename for new posts to start with a date string. Whilst not necessarily true for content outside of the blog roll, moving away from that convention introduces new configuration. Dates in front matter exist to allow a more complex display of posts based on the time of posting.
 
 [Removing date completely](https://github.com/tonyedwardspz/tonyedwardspz/commit/f5165d8be117b496040605f072ee0d8478c25a08) pushes Jekyll to use the one found in the filename. . . which is fine when there’s only one new post a day
 
