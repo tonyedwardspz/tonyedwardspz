@@ -5,6 +5,10 @@ layout: page
 
 <h1 id="aboutMe">Hey. I'm Tony</h1>
 
+<a class="link" href="{{ site.url }}/about">
+    <img class="selfie" alt="{{ site.name }}" height="175px" width="175px" src="{{ site.url }}/{{ site.picture }}" />
+</a>
+
 <p class="about-buttons">
   <button id="HumanReadableButton" onclick="showHideAbout('human');" class="general-button active">Human Readable Format</button>
   <button id="jsonButton" onclick="showHideAbout('json');" class="general-button">JSON Format</button>
