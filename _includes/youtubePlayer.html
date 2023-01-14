@@ -7,3 +7,10 @@
         allowfullscreen="true">
     </iframe>
 </div>
+
+<script>
+    function iframeResize(element) {
+        let height = Math.floor(element.target.offsetWidth / (16/9));
+        element.target.height = height;
+    }
+</script>
