@@ -7,9 +7,7 @@ tag:
     - Optimisation
 ---
 
-At the moment of writing, this post would have share buttons immediately after the main body of text.
-
-![Screenshot of share buttons](/assets/images/2023/share-buttons.jpg "Screenshot of share buttons"){:loading="lazy"}
+At the moment of writing, this post would have share buttons immediately after the main body of text, as you can see in the image above.
 
 They’re implemented in a non creepy, privacy mindful way and provide and quick way to share content. Looking back at the analytics from the previous iteration of the site, I’m not sure they were used a whole lot, so their worth is debatable. 
 
