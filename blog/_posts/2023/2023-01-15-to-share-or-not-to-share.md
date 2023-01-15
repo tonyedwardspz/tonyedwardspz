@@ -1,5 +1,6 @@
 ---
 title: To share or not to share
+image: /assets/images/2023/share-buttons.jpg
 tag:
     - Jekyll
     - Social Media
