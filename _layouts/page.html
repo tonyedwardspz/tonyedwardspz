@@ -74,14 +74,17 @@ layout: default
 
 {{content}}
 
-<footer class="footer-main">
-    © <a href="{{site.url}}" class="link">{{ site.name }}</a> - <a class="link" href="{{ site.url }}/about">About Me</a></br> 
-    <a class="link" href="{{ site.url }}/blog">Blog Posts</a>    
-    <a class="link" href="{{ site.url }}/speaking">Speaking</a> - 
-    <a class="link" href="{{ site.url }}/contact">Contact Me</a>
+{% if page.title != "Home" %}
+    <footer class="footer-main">
+        © <a href="{{site.url}}" class="link">{{ site.name }}</a></br> 
+        <a class="link" href="{{ site.url }}/blog">Blog</a>  -  
+        <a class="link" href="{{ site.url }}/speaking">Speaking</a> - 
+        <a class="link" href="{{ site.url }}/about">About</a> -
+        <a class="link" href="{{ site.url }}/contact">Contact</a>
 
-    <p class="extra">
-        View on <a class="link" href="https://github.com/tonyedwardspz/tonyedwardspz">Github</a> - 
-        <a class="link" href="{{ site.url }}/feed.xml" target="_blank">Subscribe via RSS</a>
-    </p>
-</footer>
+        <p class="extra">
+            View on <a class="link" href="https://github.com/tonyedwardspz/tonyedwardspz">Github</a> - 
+            <a class="link" href="{{ site.url }}/feed.xml" target="_blank">Subscribe via RSS</a>
+        </p>
+    </footer>
+{% endif %}
