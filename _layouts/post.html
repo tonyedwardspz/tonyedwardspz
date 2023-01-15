@@ -33,44 +33,26 @@ layout: page
 
 <section class="author">
 
-{% if page.linkedin %}
-    <p style="font-style: italic;">Originally featured on <a href="{{ page.linkedin }}" class="also-on">LinkedIn</a></p>
-{% endif %}
+    {% if page.linkedin %}
+        <p style="font-style: italic;">Originally featured on <a href="{{ page.linkedin }}" class="also-on">LinkedIn</a></p>
+    {% endif %}
 
 
-{% if page.affiliate %}
-    <p style="font-weight: 300; font-size: 14px; color: grey; font-style: italic;">This post contains affiliate links.
-        If you click one and buy something, Tony may earn a small commission at no cost to you. Think of it as your way
-        of supporting independent publishing. Thank you 🤗</p>
-{% endif %}
-
-
-    <div class="share">
-        <a class="twitter" href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }} - {{ page.title }} by @{{ site.twitter }}"  target="_blank" rel="noopener noreferrer" title="Share to Twitter">
-            <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg><span class="icon-twitter">Tweet</span>
-        </a>
-
-        <a class="facebook" href="javascript:void(0)" onclick="window.open('https://facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 'facebook-share-dialog', 'width=626,height=436'); return false;">
-            <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg><span class="icon-facebook-rect">Share</span>
-        </a>
-
-        <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;title={{ page.title }}&amp;summary={{ page.description }}&amp;source={{ site.url }}" target="_blank" rel="noopener noreferrer" title="Share to LinkedIn">
-            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg><span class="icon-linkedin">Share</span>
-        </a>
-    </div>
+    {% if page.affiliate %}
+        <p style="font-weight: 300; font-size: 14px; color: grey; font-style: italic;">This post contains affiliate links.
+            If you click one and buy something, Tony may earn a small commission at no cost to you. Think of it as your way
+            of supporting independent publishing. Thank you 🤗</p>
+    {% endif %}
 
 
     <div class="blog-navigation">
         {% if page.previous.url %}
             <a class="prev" href="{{ site.url }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
-        {% else %}
-            <a class="prev"></a>
         {% endif %}
         {% if page.next.url %}
             <a class="next" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
         {% endif %}
     </div>
-
 
 
     <div class="related">
@@ -101,5 +83,4 @@ layout: page
             </ul>
         {% endif %}
     </div>
-
 </section>
