@@ -4,7 +4,6 @@ tag:
   - Conference
   - Cornwall
   - Software Cornwall
-  - Tech South West
 ---
 <p class="graf--p">
   The recent <a class="markup--anchor markup--p-anchor" href="https://www.softwarecornwall.org" data-href="https://www.softwarecornwall.org">Software Cornwall</a> Business Connect Event, hosted at the <a class="markup--anchor markup--p-anchor" title="Pool innovation centre" href="http://www.cornwallinnovation.co.uk/pool-innovation-centre" data-href="http://www.cornwallinnovation.co.uk/pool-innovation-centre">Pool Innovation Centre</a>, brought together 140 people from across the South West to discuss the future impact of Technology in the region. The varied mix of company owners, developers, designers and media gave the room a great buzz, making it the only place to be on a cloudy June afternoon.

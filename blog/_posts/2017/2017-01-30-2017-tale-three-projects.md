@@ -2,7 +2,7 @@
 title: '2017: A tale of three projects'
 image: /assets/images/import/2017/01/IMG_20161228_135759.jpg
 tag:
-  - University
+  - Plymouth University
   - Final Year Project
   - Future Sync
 ---

@@ -2,9 +2,8 @@
 title: The importance of perspective
 image: /assets/images/2022/perspective-1.jpg
 tag:
-- Remote Work
+- Hybrid Work Life
 - Teaching
-- Plymouth University
 
 ---
 

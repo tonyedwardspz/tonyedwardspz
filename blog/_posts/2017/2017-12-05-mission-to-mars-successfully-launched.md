@@ -3,7 +3,6 @@ title: Mission to Mars successfully launched
 tag:
   - Mission to Mars
   - Software Cornwall
-  - Workshop
 ---
 
 In October Software Cornwall opened its doors to 20 budding software developers for a Mission to Mars. Over four days participants formed startups, each with the goal of winning a contract to develop software for the Mars Rover robots. Using the C programming language, the objective was to get Ada and Alan, the robots, to complete an incrementally difficult set of challenges. Only then can the terraforming of the Martian surface begin.

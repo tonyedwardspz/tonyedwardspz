@@ -1,9 +1,5 @@
 ---
 title: My first public talk
-date: 2016-08-29 02:59
-  
- 
-headerImage: true
 image: /assets/images/import/2016/08/we-are-the-community-1000x563.jpg
 tag:
   - Fears

@@ -4,7 +4,7 @@ tag:
 - Future Sync
 - Conference
 - Happy Memories
-- Remote Work
+- Hybrid Work Life
 
 ---
 

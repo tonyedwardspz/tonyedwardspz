@@ -3,7 +3,7 @@ title: I beat the sun up
 image: /assets/images/2022/beat-the-sun-up.jpg
 affiliate: true
 tag:
-- Trust the process
+- Routine
 - Health
 
 ---

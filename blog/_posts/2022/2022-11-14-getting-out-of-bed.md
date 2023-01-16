@@ -3,7 +3,6 @@ title: Getting out of bed
 image: /assets/images/2022/wake-up.jpg
 tag:
 - Routine
-- Getting Up
 - Habits
 
 ---
