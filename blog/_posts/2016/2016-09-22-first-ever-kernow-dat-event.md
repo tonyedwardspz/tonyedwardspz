@@ -2,7 +2,6 @@
 title: The first ever Kernow DAT community event
 image: /assets/images/import/2016/10/IMG_20160915_195002.jpg
 tag:
-  - Community
   - Event
   - Kernow DAT
   - Meetup
