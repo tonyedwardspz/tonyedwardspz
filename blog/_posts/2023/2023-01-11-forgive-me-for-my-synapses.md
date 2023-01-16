@@ -1,13 +1,16 @@
 ---
 title: Forgive me for my synapses
 image: /assets/images/2023/synapses.jpg
+chatgpt: true
 tag: 
     - Hip-Hop
     - Lyrics
 
 ---
 
-Here's the lyrics to an industrial-esque hip-hip song by [Eyedea](https://en.wikipedia.org/wiki/Eyedea) & [Abilities](https://en.wikipedia.org/wiki/Eyedea_%26_Abilities). You can [listen to it here](https://www.youtube.com/watch?v=qP2oVKL3ydQ).
+[Forgive Me for My Synapses](https://www.youtube.com/watch?v=qP2oVKL3ydQ) is a song by the hip-hop duo [Eyedea & Abilities](https://en.wikipedia.org/wiki/Eyedea_%26_Abilities). The lyrics of the song, written by [Eyedea](https://en.wikipedia.org/wiki/Eyedea), reflect on the nature of human consciousness, memory, and the relationship between the mind and the brain. The song suggests that we are the product of our individual brain's electrical impulses. It argues that we are a product of simple biology and our minds are not fully within our control, meaning our actions and thoughts are not entirely our own, but rather a product of the electrical impulses in our brain.
+
+It features a complex rhyme scheme, with multiple internal rhymes and multisyllabic rhymes. The lyrics are also very dense and packed with wordplay, which adds to the overall complexity of the song's structure. The rhyme scheme in this song is a good example of Eyedea's wordplay and poetry skills, which is a big part of his style. The intricate rhyme patterns and dense, evocative language of the song contribute to its powerful and thought-provoking message about the nature of human consciousness and the brain.
 
 I am all that I think\
 I'm the way that my neurons are wired

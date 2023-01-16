@@ -31,6 +31,10 @@ layout: page
 
 {{content}}
 
+{% if page.youtube %}
+    {% include youtube.html youtube=page.youtube %}
+{% endif %}
+
 <section class="after-post">
 
     {% if page.linkedin %}
