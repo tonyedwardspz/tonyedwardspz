@@ -1,8 +1,7 @@
 ---
 title: Words of wisdom
 tag:
-  - Advice
-  - Motivation
+  - Student
 ---
 Since deciding to switch careers I&#8217;ve kept one ear to the ground for good snippets of advice. Here&#8217;s 12 of the most memorable pieces I&#8217;ve come across through asking people, on YouTube and reading. There&#8217;s a few clichés in here, but that doesn&#8217;t mean that the&#8217;re not good tips.
 

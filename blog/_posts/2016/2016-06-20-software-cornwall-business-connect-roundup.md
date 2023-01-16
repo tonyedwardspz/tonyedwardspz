@@ -2,7 +2,6 @@
 title: Software Cornwall Business Connect roundup
 tag:
   - Conference
-  - Cornwall
   - Software Cornwall
 ---
 <p class="graf--p">

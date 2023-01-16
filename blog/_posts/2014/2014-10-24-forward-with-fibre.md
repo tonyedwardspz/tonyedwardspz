@@ -2,8 +2,6 @@
 title: Forward with Fibre
 tag:
   - Conference
-  - Cornwall
-  - Eden Project
   - Event
   - Networking
 ---

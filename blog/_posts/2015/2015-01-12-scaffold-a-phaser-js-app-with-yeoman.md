@@ -2,7 +2,6 @@
 title: Scaffold a phaser.js app with Yeoman
 tag:
   - Game Development
-  - Phaser.js
   - Tutorial
 ---
 [Yeoman](http://yeoman.io/ "Yeoman web app scaffolder") is a scaffolding tool for creating modern web apps that uses the [npm package manager](https://www.npmjs.com/ "npm package manager"). At the time of writing there are over 1300 [generators](http://yeoman.io/generators/ "Yeoman generators") for various web application stacks. I&#8217;d read allot about it in .Net magazine and in various blog posts, but never felt the need to include it in my workflow.
