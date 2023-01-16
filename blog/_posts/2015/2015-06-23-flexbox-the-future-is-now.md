@@ -1,7 +1,7 @@
 ---
 title: 'Flexbox &#8211; The future is now'
 tag:
-  - CSS
+  - Web Development
   - Tutorial
 ---
 Unless you have been living under a rock you&#8217;ve undoubtedly heard of Flexbox, the hot newness in web page layout. Flexbox promises to remove the need for float hacks, clearing and the use of tables for layouts (we’ve all done it). Some have gone as far as to say “Flexbox is awesome and beyond your wildest, most [perverted CSS layout dreams](http://blog.karenmenezes.com/2014/apr/13/floats-inline-block-or-display-table-or-flexbox/).”

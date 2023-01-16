@@ -1,7 +1,6 @@
 ---
 title: 'Polymer &#038; Modern Web APIs: In production &#8211; (not so) Live Blog'
 tag:
-  - Google I/O
   - Polymer
   - Live Blog
 ---

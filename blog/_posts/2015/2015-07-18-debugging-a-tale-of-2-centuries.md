@@ -1,8 +1,7 @@
 ---
 title: 'Debugging &#8211; A tale of 2 centuries'
 tag:
-  - Debugging
-  - Books
+  - Learning
 ---
 <p class="graf--h3">
   Love it or loathe it, debugging is a large part of software development. Plan code, write code, test, debug code, refactor code, test, debug code, write code…… You get the picture.

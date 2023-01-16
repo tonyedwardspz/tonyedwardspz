@@ -1,8 +1,6 @@
 ---
 title: Adding Core Data to an existing Swift 2.0 project
 tag:
-  - iOS Development
-  - Swift
   - App Development
   - Tutorial
 ---

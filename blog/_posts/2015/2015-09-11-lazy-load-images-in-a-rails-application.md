@@ -2,7 +2,6 @@
 title: Lazy load images in a Rails application
 tag:
   - Tutorial
-  - Performance
   - Ruby on Rails
 ---
 For a recent project I decided to add lazy loading images to improve page load time on mobile devices. It also has the added benefit of reducing calls to the server if the user navigates to another page before all images are loaded. Here&#8217;s a quick guide to adding this feature to a Ruby on Rails application.

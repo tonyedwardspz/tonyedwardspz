@@ -2,8 +2,6 @@
 title: Sketch in a day
 image: /assets/images/import/2016/02/sketch-day.png
 tag:
-  - Design
-  - Sketch
   - Plymouth Software
 ---
 [Sketch](http://www.sketchapp.com/) is a modern design tool, perfect for creating layouts and user interfaces for the web and mobile apps. It’s scaled back interface &#8211; when compared to incumbents like Photoshop &#8211; puts the tools needed for modern layouts at the tip of one’s fingers.

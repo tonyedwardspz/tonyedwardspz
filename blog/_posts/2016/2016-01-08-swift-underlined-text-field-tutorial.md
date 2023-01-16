@@ -2,7 +2,7 @@
 title: 'Swift: Underlined UITextField Tutorial'
 image: /assets/images/import/2016/01/swift-underline-extension.jpg
 tag:
-  - Swift
+  - App Development
   - Tutorial
 ---
 For a recent client project, built using Swift, underlined text fields formed part of the design brief. Whilst this is super simple in CSS (`border-bottom: 1px solid #ddd`), I was unsure of how to do&nbsp;the same with Swift.

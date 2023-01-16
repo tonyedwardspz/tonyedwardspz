@@ -2,7 +2,6 @@
 title: 'Lean Product Management &#8211; (not so) live blog - Melissa Perri'
 tag:
   - Agile on the Beach
-  - Cats
   - Lean
   - Live Blog
 ---
