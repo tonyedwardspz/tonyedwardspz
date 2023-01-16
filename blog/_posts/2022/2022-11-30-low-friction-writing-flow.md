@@ -4,7 +4,7 @@ image: /assets/images/2022/nvalt-writing-pane.jpg
 tag:
     - Writing Tools
     - Writing
-    - Blogginf
+    - Blogging
 
 ---
 
