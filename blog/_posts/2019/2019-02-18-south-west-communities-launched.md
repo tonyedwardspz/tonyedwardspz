@@ -2,7 +2,8 @@
 title: South West Communities Website Launched
 tag:
     - South West Communities
-    - Website Development
+    - Side Project
+    - Final Year Project
 ---
 
 Today I released South West Communities into the wild. It's an aggregator of developer community events that I attend in the South West.

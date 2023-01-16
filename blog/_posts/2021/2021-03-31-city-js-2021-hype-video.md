@@ -4,6 +4,6 @@ tag:
     - YouTube
     - Hype Video
     - Conference
-    - Remote Work Life
+    - Hybrid Work Life
 youtube: C37iw8svhI4
 ---

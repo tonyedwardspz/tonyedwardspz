@@ -4,7 +4,7 @@ image: /assets/images/import/2016/09/IMG_20160901_095829-1000x750.jpg
 tag:
   - Agile Leadership
   - Agile on the Beach
-  - Live blog
+  - Live Blog
 ---
 <span style="font-weight: 400;">Linda Rising is an independent consultant who lives in Nashville, Tennessee. Linda is an internationally known author and presenter on topics related to patterns, retrospectives, influence strategies, agile development, and the change process. With a Ph.D. from Arizona State University, Linda’s background includes university teaching and software development in a number of different domains. You can catch up with Lynda on </span>[<span style="font-weight: 400;">Twitter</span>](https://twitter.com/RisingLinda)<span style="font-weight: 400;">.</span>
 

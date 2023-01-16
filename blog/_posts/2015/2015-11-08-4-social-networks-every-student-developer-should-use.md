@@ -3,7 +3,7 @@ title: 4 Social Networks Every Student Developer Could Use
 image: /assets/images/import/2015/11/social-profiles.png
 tag:
   - Tutorial
-  - Social networking
+  - Social Media
   - Student
 ---
 <span style="font-weight: 400;">Sharing is one of the greatest abilities that the web affords us. It’s the cornerstone of the internet and the reason that it was created in the first place.</span>

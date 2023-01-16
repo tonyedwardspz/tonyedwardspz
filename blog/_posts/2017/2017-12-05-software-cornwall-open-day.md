@@ -2,7 +2,6 @@
 title: Software Cornwall Open Day
 image: /assets/images/import/2017/09/open-day-1.jpeg
 tag:
-  - Open Day
   - Software Cornwall
   - Plymouth University
 ---

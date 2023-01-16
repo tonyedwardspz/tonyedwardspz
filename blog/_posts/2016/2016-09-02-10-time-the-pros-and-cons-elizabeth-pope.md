@@ -4,7 +4,7 @@ image: /assets/images/import/2016/09/IMG_20160902_103219.jpg
 tag:
   - Agile on the Beach
   - Conference
-  - Live blog
+  - Live Blog
 ---
 <span style="font-weight: 400;">Liz started out as a QA Engineer at Holiday Extras in 2010. She’s come a long way since then, after revamping their testing team she had a spell as a Scrum Master before finding herself managing a team of developers. Liz has 3+ years experience in Management, focusing mostly on developing high performance and supporting the changing needs of a growing team. She currently Leads a Web team of 70+ people, and is passionate about having a motivated and empowered team. You can catch up with Liz on </span>[<span style="font-weight: 400;">Twitter</span>](https://twitter.com/Lizzie_Pope)<span style="font-weight: 400;">.</span>
 

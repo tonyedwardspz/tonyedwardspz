@@ -4,6 +4,7 @@ tag:
     - Kernow DAT
     - Meetup
     - Event
+    - Side Project
 ---
 
 I'm gonna do a thing called Kernow DAT. Taking inspiration from Digital Plymouth and Agile on the Beach, I'm to build a meetup in Cornwall. But with a creative flair.

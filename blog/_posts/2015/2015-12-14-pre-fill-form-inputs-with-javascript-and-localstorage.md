@@ -4,7 +4,6 @@ image: /assets/images/import/2015/12/localstorage.jpg
 tag:
   - JavaScript
   - Tutorial
-  - User Experience
 ---
 One of my long-term side projects is a community event website for&nbsp;my hometown of Penzance, called&nbsp;[West Cornwall Events](http://westcornwallevents.co.uk). At the time of writing it&#8217;s been online for almost six years, and over that time has had many regular event submissions&nbsp;from people in the local community. The latest developments on the site have been to the back-end,&nbsp;in an effort&nbsp;to automate as much of the day-to-day administration as possible. This required a ground up redevelopment of the event submission flow.
 

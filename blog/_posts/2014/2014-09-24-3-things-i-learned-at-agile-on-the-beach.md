@@ -3,8 +3,7 @@ title: 3 things I learned at Agile on the Beach
 tag:
   - Agile on the Beach
   - Conference
-  - Falmouth
-  - Student
+  - Plymouth University
 ---
 Towards the end of the summer I was lucky enough to attend the [Agile on the Beach](http://agileonthebeach.com/ "Agile on the beach") conference, courtasy of Plymouth University. Held in Falmouth, on the south coast of Cornwall, it brings people together from all Agile walks of life. This was my first ever dive into the world of professional conferences, it certainly won&#8217;t be the last. Here&#8217;s my three big take homes (plus a few blurry photos) from the experience.
 

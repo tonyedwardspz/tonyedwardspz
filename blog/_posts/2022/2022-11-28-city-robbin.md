@@ -2,7 +2,6 @@
 title: The city Robbin
 image: /assets/images/2022/plymouth-at-dusk.jpg
 tag:
-- Plymouth
 - Wildlife
 - Nature
 - Bird Song
