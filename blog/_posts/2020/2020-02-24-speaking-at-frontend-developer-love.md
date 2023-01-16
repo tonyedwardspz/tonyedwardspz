@@ -4,6 +4,7 @@ image: /assets/images/2020/frontend-love-selfie.jpg
 tag:
   - Conference
   - Public Speaking
+  - Frontend Developer Love
   - Beats, Rhymes & Unit Tests
 ---
 
