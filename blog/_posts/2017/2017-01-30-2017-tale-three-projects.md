@@ -1,15 +1,10 @@
 ---
 title: '2017: A tale of three projects'
-date: 2017-01-30 09:12
-  
- 
-headerImage: true
 image: /assets/images/import/2017/01/IMG_20161228_135759.jpg
 tag:
-  - "2017"
+  - University
   - Final Year Project
-  - FutureSync 2017
-  - Plan
+  - Future Sync
 ---
 Exams are done. Assignments are in. Life as a student is drawing to a close. In the coming weeks and months I&#8217;ll be putting together the final two projects of my time at Plymouth University. These are the culmination of four years of studying towards a degree in Web Application Development and generally trying things out to see what works. If you saw [my talk at the final PlymouthJS of 2016](http://tonyedwardspz.co.uk/blog/my-first-public-talk/), you’ll be familiar with the back story&#8230;.. only 1136&nbsp;hours remaining!
 

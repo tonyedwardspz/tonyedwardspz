@@ -4,6 +4,8 @@ image: /assets/images/2022/plymouth-at-dusk.jpg
 tag:
 - Plymouth
 - Wildlife
+- Nature
+- Hybrid Work Life
 
 ---
 

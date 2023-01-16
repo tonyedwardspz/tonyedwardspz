@@ -3,7 +3,6 @@ title: The underdog comes good
 image: /assets/images/2022/haas-f1.jpg
 tag:
 - F1
-- Haas F1
 
 ---
 

@@ -1,15 +1,10 @@
 ---
-title: 4 Social Networks Every Student Developer Should Use
-date: 2015-11-08T16:09:32+00:00
-author: tonyedwardspz
-headerImage: true
+title: 4 Social Networks Every Student Developer Could Use
 image: /assets/images/import/2015/11/social-profiles.png
-  
- 
 tag:
-  - Online presence
+  - Tutorial
   - Social networking
-  - Student advice
+  - Student
 ---
 <span style="font-weight: 400;">Sharing is one of the greatest abilities that the web affords us. It’s the cornerstone of the internet and the reason that it was created in the first place.</span>
 

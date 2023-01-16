@@ -1,14 +1,13 @@
 ---
 title: Not the home office
 image: /assets/images/2022/paper-prom.jpg
+linkedin: https://www.linkedin.com/posts/tonyedwardspz_work-homeoffice-software-activity-6922952397354876928-0zFw
 tag:
-- Software Development
-- Headspace
-- Fresh Air
+- Web Development
+- Hybrid Work Life
+- Nature
 
 ---
-
-*This post originally appeared on [LinkedIn](https://www.linkedin.com/posts/tonyedwardspz_work-homeoffice-software-activity-6922952397354876928-0zFw).*
 
 Where's your favourite non desk based space to work from?
 

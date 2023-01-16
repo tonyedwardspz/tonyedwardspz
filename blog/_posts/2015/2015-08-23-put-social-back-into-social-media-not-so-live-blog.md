@@ -1,11 +1,6 @@
 ---
-title: 'Put social back in social media &#8211; (not so) live blog'
-date: 2015-08-23 11:15
-  
- 
+title: 'Put social back in social media &#8211; (not so) live blog - Christian Heilmann'
 tag:
-  - Christian Heilmann
-  - Cute Hedgehog
   - Live Blog
   - Social Media
 ---

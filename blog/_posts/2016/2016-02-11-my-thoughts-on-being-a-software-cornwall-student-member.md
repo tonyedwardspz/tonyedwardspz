@@ -1,10 +1,6 @@
 ---
 title: My thoughts on being a Software Cornwall Student member
-date: 2016-02-11 10:07
-  
-headerImage: true
 image: /assets/images/import/2016/02/IMG_2492-1.jpg
- 
 tag:
   - Software Cornwall
   - Student

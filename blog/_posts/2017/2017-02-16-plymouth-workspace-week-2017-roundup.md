@@ -1,17 +1,10 @@
 ---
 title: Plymouth workspace week 2017 roundup
-date: 2017-02-16 01:05
-  
- 
-headerImage: true
 image: /assets/images/import/2017/02/IMG_20170209_180343.jpg
 tag:
-  - Champagne
-  - Games
   - Networking
   - Plymouth
-  - VR
-  - Workspace week
+  - Event
 ---
 Workspaces from across the city recently collaborated to hold the inaugural Plymouth workspace week. The series of events celebrated the diverse range of options on offer by opening the doors for people to have a nose about. Whilst I would&#8217;ve loved to attend them all, a packed week of conferences and other commitments meant only a few were viable. Nonetheless, I signed up and enjoyed a week of knowledge sharing, networking with the occasional tipple thrown in for good measure.
 

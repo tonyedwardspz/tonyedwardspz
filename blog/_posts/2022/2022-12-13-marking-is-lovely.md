@@ -4,7 +4,6 @@ image: /assets/images/2022/marking.jpg
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7008040402033197056/
 tag: 
     - Teaching
-
 ---
 
 Marking a batch of papers is actually quite lovely.

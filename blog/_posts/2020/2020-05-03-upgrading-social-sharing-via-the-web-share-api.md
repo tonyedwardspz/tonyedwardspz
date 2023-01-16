@@ -1,12 +1,11 @@
 ---
 title: Upgrading social sharing via the Web Share API
-date: 2020-05-03 01:00 +00:00
- 
-headerImage: true
 image: /assets/images/2020/current-share-functionality.jpg
 tag:
   - JavaScript
   - Progressive Enhancement
+  - Jekyll
+  - Tutorial
   - South West Communities
 ---
 One of the projects I’ve released into the world is the [South West Communities](https://southwestcommunities.co.uk/) website, a shared events calendar for grassroots tech communities in the region. The past six months working on the [Future Sync Conference](https://futuresync.co.uk/) has resulted in very little development on the project, which I was reminded of when the todo item regarding a beta list update appeared on my schedule. Now the event is over, I’ve got a little more time to spend on this side project.

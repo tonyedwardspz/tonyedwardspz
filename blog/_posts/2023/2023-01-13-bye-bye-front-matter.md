@@ -2,7 +2,10 @@
 title: Bye bye front matter
 tag:
     - Jekyll
+    - Web Development
     - Optimisation
+    - Low Distraction Life
+    - Tutorial
 ---
 
 One of the things I love about the Ruby on Rails framework is its reliance on convention over configuration. Rather than having to find perfect combination of config options, following a handful of conventions will often be enough to ensure fairly smooth running.

@@ -1,15 +1,9 @@
 ---
 title: 'Seven Years of Agile &#8211; Paul Massey'
-date: 2016-09-01 13:00
-  
- 
-headerImage: true
 image: /assets/images/import/2016/09/IMG_20160901_140128-1100x640.jpg
 tag:
   - Agile on the Beach
-  - Cornwall College
-  - Education
-  - IamDigital
+  - Live Blog
   - Mission to Mars
 ---
 <span style="font-weight: 400;">Paul Massey has been programming commercially since his teenage years, and is the leader at the top of the Bluefruit tree. Paul’s embedded software company,, Absolute Software Ltd. enjoyed a 50% growth year on year, thanks to Paul’s “Quality First” vision and innovative use of Agile methodologies. In 2014, the company underwent a complete rebrand, changing its trading name to </span>[<span style="font-weight: 400;">Bluefruit Software</span>](http://www.bluefruit.co.uk/)<span style="font-weight: 400;">, and celebrated its £1mil turnover milestone! You can catch up with Paul on </span>[<span style="font-weight: 400;">Twitter</span>](https://twitter.com/paulgmassey)<span style="font-weight: 400;">.</span>

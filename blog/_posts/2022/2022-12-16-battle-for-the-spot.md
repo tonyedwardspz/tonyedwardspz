@@ -2,7 +2,7 @@
 title: The battle for the spot
 tag: 
     - DexPZ
-    - Hybrid Work
+    - Hybrid Work Life
 
 ---
 

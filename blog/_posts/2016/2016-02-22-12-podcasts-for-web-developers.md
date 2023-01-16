@@ -1,12 +1,9 @@
 ---
 title: 12 Podcasts for Web Developers
-date: 2016-02-22 09:41
-  
- 
 tag:
-  - Boring Commute
+  - Commuting
   - Podcasts
-  - Web Development
+  - Learning
 ---
 Podcasts are the hot thing in broadcasting at the moment, saving millions of people&#8217;s sanity during the daily commute. In recent months I&#8217;ve become a bit of a podcast hoover, listening to episode after episode during my commute and work time. Here&#8217;s 12 of my favourite shows covering the technical, the businessy and the geeky.
 

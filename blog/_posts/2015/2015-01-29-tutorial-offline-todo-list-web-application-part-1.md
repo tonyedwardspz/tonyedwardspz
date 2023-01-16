@@ -1,16 +1,8 @@
 ---
 title: 'Tutorial: Javascript ToDo list web application'
-  
-date: 2015-01-29 17:38
 tag:
-  - CSS
-  - HTML
-  - JavaScript
+  - Web Development
   - Tutorial
-  - Web App
- 
-author: tonyedwardspz
-description: Markdown summary with different options
 ---
 The Todo app has become the hello world of web applications. In this three part tutorial we&#8217;re going to create a simple web&nbsp;app using HTML5, CSS3 and JavaScript.&nbsp;&nbsp;We&#8217;re will utilise LocalStorage and AppCache&nbsp;to create an installable hosted web app that remembers the state of the users list and works offline. As you can probably guess, our app is aimed at mobile devices.
 

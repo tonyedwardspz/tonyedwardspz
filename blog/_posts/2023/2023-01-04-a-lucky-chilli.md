@@ -2,9 +2,9 @@
 title: A lucky chilli
 image: /assets/images/2023/chilli.jpg
 tag: 
-    - Gardening
+    - The Garden
     - Food Preserving
-
+    - Home Grown
 ---
 
 I’m a lucky Chilli.

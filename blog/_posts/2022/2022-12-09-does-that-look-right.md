@@ -1,8 +1,8 @@
 ---
 title: Does that look right? 👇
 tag: 
-    - Website Development
-    - Writing
+    - Writing Tools
+    - Blogging
 ---
 
 So. . . 

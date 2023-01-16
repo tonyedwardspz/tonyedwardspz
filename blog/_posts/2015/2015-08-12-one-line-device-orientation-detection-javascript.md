@@ -1,15 +1,10 @@
 ---
 title: 'One line device orientation detection &#8211; JavaScript'
-date: 2015-08-12 13:10
-  
- 
 tag:
   - JavaScript
   - Tutorial
 ---
 Following on from last weeks one line <a href="http://tonyedwardspz.co.uk/blog/javascript-mobile-device-detection-the-easy-way/" target="_blank">mobile detection method</a>, here&#8217;s another useful one line method. This time, the method detects the devices orientation. I&#8217;m using this method to swap out images for each orientation.
-
-<!--more-->
 
 <pre data-language="javascript"><code>var isPortrait = function() {
     return window.matchMedia("(orientation: portrait)").matches;

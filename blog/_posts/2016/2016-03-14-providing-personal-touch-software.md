@@ -1,13 +1,8 @@
 ---
 title: Providing the personal touch through software
-date: 2016-03-14 19:40
-  
- 
-headerImage: true
 image: /assets/images/import/2016/03/eden-thumb.jpg
 tag:
-  - Personal Touch
-  - Tourism
+  - Plymouth Software
 ---
 It’s fair to say that software will help shape all areas of our lives in the coming years. Whilst the benefits of automating repetitive tasks and providing useful and contextual information are self-explanatory, there is one area that software is greatly under utilised: the personal touch.
 

@@ -1,13 +1,8 @@
 ---
 title: 'Flexbox &#8211; The future is now'
-date: 2015-06-23 12:37
-  
-description: Flexbox is ready for production use. Find out where to learn this new css layout tool.
- 
 tag:
-  - Flexbox
+  - CSS
   - Tutorial
-  - W3 specs
 ---
 Unless you have been living under a rock you&#8217;ve undoubtedly heard of Flexbox, the hot newness in web page layout. Flexbox promises to remove the need for float hacks, clearing and the use of tables for layouts (we’ve all done it). Some have gone as far as to say “Flexbox is awesome and beyond your wildest, most [perverted CSS layout dreams](http://blog.karenmenezes.com/2014/apr/13/floats-inline-block-or-display-table-or-flexbox/).”
 

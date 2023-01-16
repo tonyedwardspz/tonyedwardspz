@@ -3,7 +3,7 @@ title: Switching to Firefox
 image: /assets/images/2022/firefox.jpg
 tag: 
     - Web Browser
-
+    - Low Distraction Life
 ---
 
 At this moment in time, my third switch to the [Firefox](https://www.mozilla.org/en-GB/firefox/new/) web browser is underway. Recent changes in both the organisations focus and browser development are once again making it a compelling choice of window into the web.

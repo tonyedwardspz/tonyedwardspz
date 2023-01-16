@@ -1,12 +1,9 @@
 ---
 title: 'How users perceive speed of the web &#8211; (not so) live blog'
-date: 2015-08-28 12:53
-  
- 
 tag:
-  - Dev Tools
-  - Mobile Performance
-  - Page Speed
+  - Optimisation
+  - Website Performance
+  - Live Blog
 ---
 This is a (not so) live blog of a talk given by Paul Irish at the O&#8217;Reilly Fluent 2015. The talk is about how users perceive speed when browsing the web and a brief look at the new chrome tools we have at our disposal. You can watch the video on [YouTube](https://www.youtube.com/watch?v=2ksXo2_Lfl0) as well as catch up with Paul at his [website](http://www.paulirish.com/) and on [Twitter](https://twitter.com/paul_irish).
 

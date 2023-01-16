@@ -1,11 +1,8 @@
 ---
 title: 'Caniuse: Integrate Google Analytics stats'
-date: 2016-05-16 13:38
-  
- 
 tag:
-  - Browser Compatibility
-  - Conference
+  - Google Analytics
+  - Web Development
   - Progressive Enhancement
   - Tutorial
 ---

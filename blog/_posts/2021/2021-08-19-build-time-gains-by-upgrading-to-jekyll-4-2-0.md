@@ -1,11 +1,9 @@
 ---
 title: Build time gains from upgrading Jekyll to 4.2.0
-date: 2021-08-19 16:00:00 +00:00
- 
-headerImage: false
 tag:
 - Jekyll
-- Coding
+- Web Development
+- Performance
 
 ---
 We’ve all done it. Be honest. It’s really easy to leave a personal project on a version of its dependencies that works for an easy life. We also know that this is ultimately a recipe for disaster. Security vulnerabilities and broken deployments are sure to rear their head at some point.

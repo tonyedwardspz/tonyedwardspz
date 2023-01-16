@@ -1,13 +1,10 @@
 ---
 title: Pitch Up at the Blue
-date: 2017-09-19 11:29 +00:00
- 
-headerImage: true
 image: /assets/images/import/2017/09/pitch-up.jpeg
 tag:
   - Public Speaking
   - Software Cornwall
-  - Events
+  - Event
 ---
 Last week I was invited to give a short talk at the first ever Pitch Up event. With so many amazing organisations in the county, the event was a chance to share ideas amongst the extended Software Cornwall family. Hosted at the Blue Bar in Porthtowan, the rugged coastline offered the perfect back drop to an afternoon of rapid fire presentations.
 

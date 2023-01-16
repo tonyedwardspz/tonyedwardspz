@@ -2,6 +2,7 @@
 title: Today is the day
 image: /assets/images/2022/wake-up.jpg
 tag:
+- Public Speaking
 - Teaching
 
 ---

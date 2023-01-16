@@ -1,10 +1,7 @@
 ---
 title: Lazy load images in a Rails application
-date: 2015-09-11 13:10
-  
- 
 tag:
-  - Lazyload images
+  - Tutorial
   - Performance
   - Ruby on Rails
 ---

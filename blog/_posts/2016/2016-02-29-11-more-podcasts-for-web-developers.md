@@ -1,12 +1,9 @@
 ---
 title: 11 more podcasts for web developers
-date: 2016-02-29 08:22
-  
- 
 tag:
   - Commuting
   - Podcasts
-  - Web Development
+  - Learning
 ---
 Following on from my previous [post of podcasts](http://tonyedwardspz.co.uk/blog/12-podcasts-for-web-developers/ "12 podcasts for web developers"), here&#8217;s 11 more shows for web developers.
 

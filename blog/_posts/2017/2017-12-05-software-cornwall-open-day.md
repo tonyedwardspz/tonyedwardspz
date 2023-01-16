@@ -1,8 +1,5 @@
 ---
 title: Software Cornwall Open Day
-date: 2017-10-12 11:45 +00:00
- 
-headerImage: true
 image: /assets/images/import/2017/09/open-day-1.jpeg
 tag:
   - Open Day

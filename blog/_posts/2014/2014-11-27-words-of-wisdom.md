@@ -1,8 +1,5 @@
 ---
 title: Words of wisdom
-date: 2014-11-27 12:50
-  
- 
 tag:
   - Advice
   - Motivation

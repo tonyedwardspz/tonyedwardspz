@@ -1,12 +1,8 @@
 ---
 title: 'Creative Exhaust: The power of being open by default &#8211; (not so) live blog'
-date: 2015-08-29 14:51
-  
- 
 tag:
   - Live Blog
   - Open Source
-  - Save the World
 ---
 This is a not so live blog of a great talk given at TEDxGrandviewAve titled &#8216;Creative Exhaust &#8211; The power of being open by default&#8217;. You can catch up with Brad on his [website](http://bradfrost.com/) as well as [Twitter](https://twitter.com/brad_frost).
 

@@ -2,8 +2,8 @@
 title: Optimise for thumbs
 image: /assets/images/2022/thumb-first-thumb.jpg
 tag: 
-    - Smartphone
     - Productivity
+    - Distraction Free Life
 ---
 
 Smartphones are time suckers. If you don't agree, then you're one of the lucky folks who didn't get sucked in too far.

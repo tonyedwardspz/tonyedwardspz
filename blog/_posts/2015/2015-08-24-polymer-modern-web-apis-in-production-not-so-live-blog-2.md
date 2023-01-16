@@ -1,13 +1,9 @@
 ---
 title: 'Polymer &#038; Modern Web APIs: In production &#8211; (not so) Live Blog'
-date: 2015-08-24 21:20
-  
-description: This is another live blog in preparation for an upcoming event. Polymer 1.0 was released during Google I/O 15, this was the talk that announced it to the world.
- 
 tag:
   - Google I/O
   - Polymer
-  - Web App
+  - Live Blog
 ---
 ### [Matt McNulty](https://twitter.com/mattsmcnulty) opens the keynote
 

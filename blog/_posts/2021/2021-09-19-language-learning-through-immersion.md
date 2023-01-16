@@ -1,11 +1,8 @@
 ---
 title: Language Learning through immersion
-date: 2021-09-19T00:00:00+00:00
 image: /assets/images/2021/language-learning-header.jpg
 tag:
 - Learning
-- German
-- New Skills
 
 ---
 One of my favourite things to do is learn. During a self reflection session this summer, I realised that it’s been ages since I’ve actively done so. Sure, I’ve learned a few bits and bobs for work. Learned a ton of facts, hacks and tidbits, but these were not really deep dives. Not what you’d call learning. Thinking back to University, the constant flood of new information that had to be absorbed and understood was pretty awesome.

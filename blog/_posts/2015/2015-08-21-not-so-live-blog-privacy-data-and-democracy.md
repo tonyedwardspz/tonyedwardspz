@@ -1,15 +1,7 @@
 ---
-title: 'Privacy, Data and Democracy &#8211; (not so) Live blog'
-date: 2015-08-21 12:44
-  
-description:
-  - "In preparation for an upcoming event, this is a live blog (after the event) for a presentation by Aral Balkan titled 'Privacy, Data, Democracy'."
- 
+title: 'Privacy, Data and Democracy &#8211; (not so) Live blog - Aral Balkan'
 tag:
-  - Aral Balkan
-  - Cloud Computing
-  - Heartbeat messenger
-  - Ind.ie
+  - Live Blog
   - Privacy
 ---
 Aral Balkan is the founder and lead designer of [Ind.ie](http://ind.ie/), a social enterprise creating independent alternatives to [Spyware 2.0](https://aralbalkan.com/notes/spyware-2.0).

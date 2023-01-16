@@ -1,11 +1,8 @@
 ---
 title: Create a Rails / Postgres Database after generating a new app
-date: 2016-05-10 11:16
-  
- 
 tag:
-  - CreateDB
-  - Postgresql
+  - Web Development
+  - Tutorial
   - Ruby on Rails
 ---
 In the excitement of scaffolding a rails project, more often than not I forget to create the database, resulting in a moment or two of confusion. Thankfully, if you have CreateDB installed its as simple as entering one command into a terminal prompt.

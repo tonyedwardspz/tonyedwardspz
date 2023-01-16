@@ -1,12 +1,9 @@
 ---
 title: 'Git: What and Why? An introduction for Students'
-date: 2015-10-28 15:21
-  
- 
 tag:
-  - Git
   - GitHub
-  - Student Developer
+  - Tutorial
+  - Student
 ---
 <span style="font-weight: 400;">Since heading out onto placement, the importance of version control in the world of software development has become clear. This subject was covered only briefly as part of my University course, which on reflection is surprising seeing as it&#8217;s the one thing I’m guaranteed to use each and every day. Here I outline a few of the benefits of source control and how to get started.</span>
 

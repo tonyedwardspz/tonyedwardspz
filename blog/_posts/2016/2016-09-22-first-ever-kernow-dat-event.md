@@ -1,9 +1,5 @@
 ---
 title: The first ever Kernow DAT community event
-date: 2016-09-22 14:47
-  
- 
-headerImage: true
 image: /assets/images/import/2016/10/IMG_20160915_195002.jpg
 tag:
   - Community

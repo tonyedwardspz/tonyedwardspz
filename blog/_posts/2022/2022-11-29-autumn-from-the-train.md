@@ -2,8 +2,9 @@
 title: Autumn through a train window
 image: /assets/images/2022/hayle-rainbow.jpg
 tag:
-- The Cycle
+- Seasons
 - Train Journey
+- Hybrid Work Life
 
 ---
 

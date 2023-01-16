@@ -2,7 +2,7 @@
 title: Feel me brother (or sister)
 image: /assets/images/2022/hogan.gif
 tag:
-- Presentation
+- Public Speaking
 - Teaching
 
 ---

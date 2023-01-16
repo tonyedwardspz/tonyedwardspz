@@ -1,11 +1,10 @@
 ---
-title: A Future Sync ConferenceL Distributed Story
-date: 2020-04-17T00:00:00+00:00
-headerImage: false
+title: A Distributed Future Sync Conference Story
 tag:
 - Future Sync
 - Conference
-- Happy Memory
+- Happy Memories
+- Remote Work
 
 ---
 

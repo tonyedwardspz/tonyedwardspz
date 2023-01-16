@@ -2,9 +2,9 @@
 title: Why don't you. . . 
 affiliate: true
 tag:
-- Analytics
-- Comments
+- Google Analytics
 - Jekyll
+- Blogging
 
 ---
 

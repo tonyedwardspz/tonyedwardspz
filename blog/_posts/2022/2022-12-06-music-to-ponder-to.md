@@ -2,7 +2,7 @@
 title: Music to ponder to
 affiliate: true
 tag: 
-    - music
+    - Music
 ---
 
 I love hip-hop. If you know me, that's probably not a surprise. As an art form, hip-hop has the power to make you think differently about a variety of subjects. . . assuming you don't limit yourself to the offering found in the charts.

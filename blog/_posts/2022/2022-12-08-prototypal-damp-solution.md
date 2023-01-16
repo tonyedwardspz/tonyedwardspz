@@ -2,8 +2,8 @@
 title: Prototypal damp solutions
 image: /assets/images/2022/prototype-fan.jpg
 tag: 
-    - Prototype
-    - Damp house
+    - DIY
+    - Agile
 ---
 
 Cornish houses are naturally damp. It’s the nature of their construction. Whilst everything in the world suffers from entropy, the old housing stock in the far South West UK seemingly trend toward wet rather than decay.

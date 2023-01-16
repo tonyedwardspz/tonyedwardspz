@@ -1,11 +1,9 @@
 ---
 title: Adding lazy loading to images in Jekyll
-date: 2020-05-04T00:00:00+00:00
-headerImage: false
 tag:
 - Jekyll
 - Web Performance
-- Lazy Loading Images
+- tutorial
 
 ---
 Lazy loading images is a quick and simple way to add a little extra performance to your sites by reducing the amount of data sent of the wire to the user. Many browsers now include basic lazy loading out of the box, meaning you no longer need to include any Javascript to do this.

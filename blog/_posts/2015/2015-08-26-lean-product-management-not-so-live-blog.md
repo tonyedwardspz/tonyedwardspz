@@ -1,14 +1,10 @@
 ---
-title: 'Lean Product Management &#8211; (not so) live blog'
-date: 2015-08-26 15:17
-  
-description: "In another (not so) live blog, I cover Melissa Perri's talk titled 'Lean Project Management'. This talk was given at Agile on the Beach 2015, an Agile business conference located on the south coast of Cornwall."
- 
+title: 'Lean Product Management &#8211; (not so) live blog - Melissa Perri'
 tag:
   - Agile on the Beach
   - Cats
-  - Lean Product Management
-  - Melissa Perri
+  - Lean
+  - Live Blog
 ---
 Melissa Perri is a product manager and lean consultant based in New York City. You can catch up with her at her [website](http://melissaperri.com/) or on [twitter](https://twitter.com/lissijean). The video is available on [YouTube](https://www.youtube.com/watch?v=tfoa5OvNDNw), with the slides hosted on [SlideShare](http://www.slideshare.net/MelissaPerri/lean-product-management-38751151).
 

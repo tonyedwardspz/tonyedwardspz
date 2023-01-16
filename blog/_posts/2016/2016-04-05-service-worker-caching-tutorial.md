@@ -1,13 +1,8 @@
 ---
 title: 'Caching assets using Service Workers &#8211; Tutorial'
-date: 2016-04-05 13:16
-  
- 
 tag:
-  - Caching
+  - Web Development
   - JavaScript
-  - Progressive Enhancement
-  - Service Worker
   - Tutorial
 ---
 With more and more of our lives being conducted online, good connectivity to the internet has quickly become a requirement of our daily goings on. Consistent, let alone fast, connectivity is not guaranteed but there are somethings we can do as developers to make a user&#8217;s visit that bit snappier every visit. As an added bonus, we get to play with some of the newer JavaScript features including service workers, promises and fetch.

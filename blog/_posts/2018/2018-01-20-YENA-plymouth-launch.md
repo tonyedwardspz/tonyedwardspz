@@ -1,11 +1,8 @@
 ---
 title: YENA Plymouth Launch Event
-date: 2018-01-20 18:45 +00:00
- 
-headerImage: true
 image: /assets/images/2018/01/yena-plymouth.jpg
 tag:
-  - YENA
+  - Event
   - Networking
   - Future Sync
 ---

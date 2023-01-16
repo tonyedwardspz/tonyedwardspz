@@ -1,12 +1,8 @@
 ---
 title: 'Debugging &#8211; A tale of 2 centuries'
-date: 2015-07-18 14:44
-  
- 
 tag:
-  - debugging
-  - books
-description: Love it or loathe it, debugging is a large part of software development.
+  - Debugging
+  - Books
 ---
 <p class="graf--h3">
   Love it or loathe it, debugging is a large part of software development. Plan code, write code, test, debug code, refactor code, test, debug code, write code…… You get the picture.

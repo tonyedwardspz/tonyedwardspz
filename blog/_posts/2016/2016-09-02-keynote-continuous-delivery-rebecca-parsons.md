@@ -1,9 +1,5 @@
 ---
 title: 'Keynote: Continuous Delivery &#8211; Rebecca Parsons'
-date: 2016-09-02 08:13
-  
- 
-headerImage: true
 image: /assets/images/import/2016/09/IMG_20160902_093539.jpg
 tag:
   - Conferences

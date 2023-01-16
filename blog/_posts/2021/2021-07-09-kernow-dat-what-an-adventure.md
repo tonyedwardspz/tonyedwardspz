@@ -1,10 +1,8 @@
 ---
 title: Kernow DAT. What an adventure!
-date: 2021-07-09T00:00:00+00:00
-headerImage: false
 tag:
-- Events
-- Networking
+- Event
+- Kernow DAT
 - Happy Memories
 
 ---

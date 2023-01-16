@@ -1,15 +1,9 @@
 ---
 title: Adding Core Data to an existing Swift 2.0 project
-date: 2015-06-17 19:47
-  
-description: A brief guide to adding Core Data to an existing Xcode 7 project with Swift 2.0 for model persistence.
- 
 tag:
-  - Apple Development
-  - iPad Development
-  - iPhone Development
+  - App Development
   - Swift 2
-  - Xcode 7
+  - Tutorial
 ---
 Core Data is a really handy library for introducing persistence to a Xcode project. When spinning up a new project to play around with Swift 2.0,&nbsp;I was surprised to find that you cannot include this from the start. Looking at the other app templates included in Xcode 7, it seems that&nbsp;only the Master-Detail Application and Single View Application have the option to include Core Data.
 

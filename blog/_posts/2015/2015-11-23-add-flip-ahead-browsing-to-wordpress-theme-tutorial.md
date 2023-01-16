@@ -1,14 +1,8 @@
 ---
 title: 'Add flip ahead browsing to WordPress theme &#8211; Tutorial'
-date: 2015-11-23 05:26
-author: tonyedwardspz
-headerImage: true
 image: /assets/images/import/2015/11/edge.jpg
-  
- 
 tag:
-  - Flip Ahead Browsing
-  - Internet Explorer
+  - Web Development
   - Tutorial
   - WordPress
 ---

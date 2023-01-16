@@ -1,13 +1,8 @@
 ---
 title: Polymer element is unregistered
-date: 2015-10-08 22:48
-  
- 
 tag:
-  - Bug
-  - Google
   - Polymer
-  - Troubleshooting
+  - Tutorial
   - Web Development
 ---
 [Polymer](http://www.polymer-project.org/) is the hot new library from Google for creating modular websites. The library offers syntactic sugar for creating web components, little bundles of HTML, CSS and JavaScript. Whilst Polymer goes a long way to making web components easy, theres one issue I kept coming across during my early days of working with the library. The dreaded unregistered element.

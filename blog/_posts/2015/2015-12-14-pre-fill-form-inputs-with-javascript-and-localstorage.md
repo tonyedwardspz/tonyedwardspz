@@ -1,14 +1,8 @@
 ---
 title: Pre fill form inputs with JavaScript from LocalStorage
-date: 2015-12-14 11:38
-author: tonyedwardspz
-headerImage: true
 image: /assets/images/import/2015/12/localstorage.jpg
-  
- 
 tag:
   - JavaScript
-  - LocalStorage
   - Tutorial
   - User Experience
 ---

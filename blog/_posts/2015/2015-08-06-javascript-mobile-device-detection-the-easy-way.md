@@ -1,13 +1,8 @@
 ---
 title: 'JavaScript &#8211; Mobile device detection the easy way'
-date: 2015-08-06 11:37
-  
- 
 tag:
   - JavaScript
-  - Mobile Device Detection
   - Tutorial
-description: Detecting if the user is on a mobile device
 ---
 For a recent project I needed to detect if the device currently viewing the website is of the mobile persuasion. The project is for a friends band who wished to use large imagery as a backdrop to the sites content. If the device is mobile, following further tests, we select an appropriate image for the current orientation.
 

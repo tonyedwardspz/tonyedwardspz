@@ -4,5 +4,6 @@ tag:
     - YouTube
     - Web Development
     - WordPress
+    - Tutorial
 youtube: lf3EfMpocTs
 ---

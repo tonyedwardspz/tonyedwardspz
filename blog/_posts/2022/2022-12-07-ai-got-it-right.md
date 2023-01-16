@@ -2,7 +2,7 @@
 title: AI got it right
 image: /assets/images/2022/game-developers.jpg
 tag: 
-    - AI
+    - Artificial Intelligence
 ---
 
 It's easy for #AI to get things wrong.

@@ -5,7 +5,7 @@ linkedin: https://www.linkedin.com/posts/tonyedwardspz_agile-activity-6952149219
 tag:
 - Public Speaking
 - Agile on the Beach
-- Lightning talk
+- Conference
 
 ---
 

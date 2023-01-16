@@ -1,14 +1,9 @@
 ---
 title: Google Deep Mind Defeats World Champion
-date: 2016-03-10 10:45
-  
- 
-headerImage: true
 image: /assets/images/import/2016/03/Google_DeepMind_Logo.png
 tag:
-  - AI
   - Artificial Intelligence
-  - Deepmind
+  - Plymouth Software
 ---
 Yesterday, Google’s Deepmind Artificial Intelligence machine defeated the world’s top ranked Go player in the second round of a five match showdown. Lee Sedol, who had been predicting he would win 5-0, must win the final three games in order to win the $1 million prize.
 

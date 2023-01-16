@@ -1,6 +1,5 @@
 ---
 title: I beat the sun up
-date: 2022-09-21T00:00:00+00:00
 image: /assets/images/2022/beat-the-sun-up.jpg
 affiliate: true
 tag:

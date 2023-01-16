@@ -1,12 +1,9 @@
 ---
 title: 'Value &#8211; Andrea Provagilo'
-date: 2016-09-01 15:05
-  
- 
-headerImage: true
 image: /assets/images/import/2016/09/IMG_20160901_160702-1000x750.jpg
 tag:
-  - Conferences
+  - Conference
+  - Agile on the Beach
   - Live Blog
 ---
 <span style="font-weight: 400;">Andrea Provagilo helps IT organizations to implement better ways of doing business. He coaches executives, managers and teams who want to improve technically and relationally. His main focus is on helping companies to transition to organizational and cultural models that are better suited to the kind of knowledge work that’s so typical of software development — which includes, but is not limited to, Agile and Lean. You can find Andrea on </span>[<span style="font-weight: 400;">Twitter</span>](https://twitter.com/andreaprovaglio)<span style="font-weight: 400;">.</span>

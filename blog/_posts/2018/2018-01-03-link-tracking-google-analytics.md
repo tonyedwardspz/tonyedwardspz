@@ -1,12 +1,8 @@
 ---
 title: Tracking a Campaign's Inbound Traffic with Google Analytics
-date: 2018-01-03 09:45 +00:00
- 
-headerImage: false
 tag:
   - Google Analytics
-  - Inbound Traffic
-  - Campaign Analytics
+  - Web Development
 ---
 
 Testing assumptions is key to an effective, iterative cross platform marketing campaign. Understanding how users are navigating their way through the website and interacting with content. The starting point of the journey is often a social media or newsletter campaign, and the numbers of users coming through different platforms and campaigns is a key indicator of the success of both individual posts and the wider campaigns.
