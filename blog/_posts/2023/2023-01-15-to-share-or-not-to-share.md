@@ -32,7 +32,7 @@ Me too now I come to think about it. Checking the RSS app, it has a share functi
 
 > We shouldn’t be here to feed the platform. The platform needs to be here for us. - [Seth Godin](https://seths.blog/2023/01/the-platform-and-the-curator/)
 
-Encouraging others to post on these platforms defiantly counts as feeding them. What other reasons for removing them are there?
+Encouraging others to post on these platforms Definitely counts as feeding them. What other reasons for removing them are there?
 
 - People posting links onto social isn’t the “conversion goal” come the end of a post. Reading another post is.
 - It’d offload functionality onto the browser (which is well handled on Firefox) as good web sites / apps do.
