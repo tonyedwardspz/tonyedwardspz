@@ -3,7 +3,6 @@ title: Your best thinking
 affiliate: true
 tag: 
     - Adulting
-    - Goals
 
 ---
 
