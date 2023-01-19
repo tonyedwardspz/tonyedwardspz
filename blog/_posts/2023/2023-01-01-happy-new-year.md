@@ -3,6 +3,7 @@ title: Happy new year
 image: /assets/images/2023/new-year.jpg
 tag: 
     - Seasons
+    - Celebration
 
 ---
 

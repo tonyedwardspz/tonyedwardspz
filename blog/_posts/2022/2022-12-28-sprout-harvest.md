@@ -4,7 +4,7 @@ image: /assets/images/2022/sprouts.jpg
 tag: 
     - The Garden
     - Home Grown
-    - Cooking
+    - Food
 ---
 
 It was lovely to enjoy our home grown spouts this year. They’re always relegated to a supporting side dish role on the dinner table, but nonetheless are a key part of the seasonal feast. For the first time ever, we managed to grow and keep them going through to meaningful harvest.

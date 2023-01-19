@@ -4,7 +4,6 @@ image: /assets/images/import/2016/09/IMG_20160901_114702-1000x750.jpg
 tag:
   - Agile on the Beach
   - Landing Page
-  - Lean
   - Live Blog
 ---
 <span style="font-weight: 400;">Luke Szyrmer is the author of the bestselling book “Launch Tomorrow”. He is a Lean Startup community activist in London, and runs regular meetups to help founders apply Lean Startup principles such as testing to their business. Luke mentors startup founders and has previously spoken at Google Campus, Launch22, and LeanCamp. He enjoys the challenge of distilling complex technical and organizational ideas down to their essence, so others can benefit from his research. You can find Luke on </span>[<span style="font-weight: 400;">Twitter</span>](about:blank)<span style="font-weight: 400;">.</span>

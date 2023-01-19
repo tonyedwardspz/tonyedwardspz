@@ -4,6 +4,5 @@ tag:
     - YouTube
     - Hype Video
     - Conference
-    - Hybrid Work Life
 youtube: hhJluhi6PPE
 ---

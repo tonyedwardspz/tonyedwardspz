@@ -2,10 +2,9 @@
 title: 'Keynote: Continuous Delivery &#8211; Rebecca Parsons'
 image: /assets/images/import/2016/09/IMG_20160902_093539.jpg
 tag:
-  - Conferences
+  - Conference
   - Live Blog
   - Agile on the Beach
-  - Change
 ---
 <span style="font-weight: 400;">Before joining </span>[<span style="font-weight: 400;">ThoughtWorks</span>](https://www.thoughtworks.com/)<span style="font-weight: 400;">, Rebecca Parsons worked as an assistant professor of computer science at the University of Central Florida where she taught courses in compilers, program optimization, distributed computation, theory of computation and computational biology. She also worked as Director’s Post Doctoral Fellow at the Los Alamos National Laboratory researching parallel and distributed computation, genetic algorithms, computational biology and nonlinear dynamical systems. Rebecca received a Masters of Science in Computer Science from Rice University and her Ph.D. in Computer Science from Rice University. You can find Rebecca on </span>[<span style="font-weight: 400;">Twitter</span>](https://twitter.com/rebeccaparsons)<span style="font-weight: 400;">.</span>
 

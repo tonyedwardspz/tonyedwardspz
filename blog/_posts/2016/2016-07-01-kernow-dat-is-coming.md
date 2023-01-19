@@ -3,7 +3,6 @@ title: Kernow DAT is coming. . .
 tag:
     - Kernow DAT
     - Meetup
-    - Event
     - Side Project
 ---
 

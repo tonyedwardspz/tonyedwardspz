@@ -4,7 +4,6 @@ image: /assets/images/2018/01/yena-plymouth.jpg
 tag:
   - Event
   - Networking
-  - Future Sync
 ---
 
 A new networking group, [YENA Plymouth](https://twitter.com/YENAPlymouth), held their inaugural event for young entrepreneurs on the 15th January 2018. Hosted at the [Hutong cafe](http://www.facebook.com/TheHutongCafe/) in the historic Royal William Yard, the group saw over 30 professionals gather for an evening spent discussing world changing ideas and the next step on an entrepreneurial journey.
