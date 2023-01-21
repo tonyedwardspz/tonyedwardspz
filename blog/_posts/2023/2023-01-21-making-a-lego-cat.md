@@ -1,5 +1,5 @@
 ---
-title: Making a Leog Cat
+title: Making a Lego Cat
 tag:
     - YouTube
 youtube: tV7GuRQ1Vsw
