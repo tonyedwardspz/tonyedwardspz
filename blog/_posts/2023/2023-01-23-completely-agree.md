@@ -19,4 +19,4 @@ From the perspective of running a personal blog, I wholeheartedly agree with thi
 
 But. 
 
-If you're paying me to make a website, I appreciate minimalism might not be your jam.
+If you're paying me to make a website, I appreciate minimalism might not be your jam. There are other ways to cut the crap from the web.
