@@ -4,8 +4,6 @@ tag:
     - Blogging
 ---
 
-I couldn't have said it better myself. . .
-
 > I want to share with you my simple two-step secret to improving the performance of any website.
 >
 > - Make sure that the most important elements of the page download and render first.
