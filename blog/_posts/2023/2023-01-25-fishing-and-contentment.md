@@ -4,6 +4,7 @@ tag:
     - Stoicism
 chatgpt: true
 ---
+
 Fishing by a still lake offers a peaceful escape from the hustle and bustle of everyday life. The serenity of the water and the natural beauty that surrounds it can provide a sense of calm and tranquility. Stoicism encourages us to find contentment in the present moment and to focus on what we have rather than what we lack.
 
 "It is not the man who has too little, but the man who craves more, that is poor." - Seneca (4 BCE - 65 CE)
