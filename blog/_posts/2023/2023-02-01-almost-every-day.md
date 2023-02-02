@@ -1,5 +1,5 @@
 ---
-title: Almost every day. Thanks kinda ok.
+title: Almost every day. That's kinda ok.
 tag: 
     - Six word story
 ---
