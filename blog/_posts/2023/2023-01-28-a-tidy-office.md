@@ -17,6 +17,6 @@ The boxes get packed. The piles of books get stowed. The desk get’s wiped down
 
 It’s tidy. But there’s one out of place mess that’s left. 
 
-The four neat stacks of books for the month ahead. Their collective knowledge awaiting absorbsion between spurts of highly productive work in this freshly tidied space. 
+The four neat stacks of books for the month ahead. Their collective knowledge awaiting absorption between spurts of highly productive work in this freshly tidied space. 
 
 Their teachings form the foundations for the month beyond.
