@@ -4,9 +4,9 @@ tag:
     - The Web
 ---
 
-It's always been about access to information. The only true evolution has been in the direction of exchange.
+The web has always been centered around the exchange of information. The only true evolution has been in the direction.
 
-Web 1.0: A one way exchange of information between a webmaster and a surfer.
+Web 1.0: A one way exchange of information between a webmaster and a web surfer.
 
 Web 2.0: A two way exchange of information between people.
 
