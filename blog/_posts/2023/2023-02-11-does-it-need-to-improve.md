@@ -2,6 +2,7 @@
 title: Does it need to improve?
 tag:
     - Web Development
+    - Jekyll
 ---
 
 A recent conversation about static site generators (SSG) left me pondering. Do things always need to improve?
@@ -28,7 +29,7 @@ Seriously. What needs to change? Where is there for it to go?
 
 ## Speed
 
-Jekyll's build times are orders of magnitude larger than other comparable tools. This site (which is Jekyll based) takes ~12 seconds to build from a cold start. Build time is about a quarter that during a dev session. Another site I've been building recently, based on Hugo, is comparable in size and complexity. It builds in 25ms. Which is astonishingly fast. 
+Jekyll's build times are orders of magnitude larger than other comparable tools. This site (which is Jekyll based) takes ~12 seconds to build from a cold start. Build time is about a quarter that during a dev session. [Another site I've been building recently](https://tonyedwardspz.co.uk/blog/hugo-is-nice/), based on Hugo, is comparable in size and complexity. It builds in 25ms. Which is astonishingly fast. 
 
 But is a handful of seconds longer really that much of an issue? Does it even matter? How many 3 second re-builds need to be endured before it's worth spending days converting a site?
 
@@ -40,39 +41,16 @@ Developers who use Jekyll, generally speaking, love it. This includes the develo
 
 These biases might not fit perfectly at a glance, but I'd argue there is at least a hint of them present (on both sides of the conversation), along with a handful of others not mentioned here.
 
-### Confirmation Bias
+- [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias)
+- [Sammelweis reflex](https://en.wikipedia.org/wiki/Semmelweis_reflex) Very similar to the above, but from a different perspective.
+- [Pro-innovation](https://en.wikipedia.org/wiki/Pro-innovation_bias)
 
-> Confirmation bias is the tendency to search for, interpret, favour, and recall information in a way that confirms or supports one's prior beliefs or values.
-- [source](https://en.wikipedia.org/wiki/Confirmation_bias)
-
-In this instance, we could say:
-
-"I've already decided Jekyll is dead. Despite new evidence to the contrary, I'm only interested in information that supports my existing opinion, so I'll dismiss the new evidence out of hand without realising I'm doing so."
-
-Somehow, they forget to recall the new information when stating their opinion. We all fall prey to this one (and all the others) on a nearly day-to-day basis.
-
-### Sammelweis reflex
-
-> The Semmelweis reflex or "Semmelweis effect" is a metaphor for the reflex-like tendency to reject new evidence or new knowledge because it contradicts established norms, beliefs, or paradigms.
-- [source](https://en.wikipedia.org/wiki/Semmelweis_reflex)
-
-The new evidence, in this instance, is the community drive to improve Jekyll that is ongoing, including improvements that have vastly improved development build times. This "evidence" has been rejected without much thought or investigation, primarily because they have an existing belief.
-
-### Pro-innovation
-
-> Pro-innovation bias is the belief that an innovation should be adopted by whole society. The innovation's "champion" has such strong bias in favour of the innovation, that they may not see its limitations or weaknesses and continue to promote it nonetheless.
-- [source](https://en.wikipedia.org/wiki/Pro-innovation_bias)
-
-AKA, there is a shiny new thing that everyone should use for everything. Society, in this instance, is the developer community.
-
-We see it time and time again, particularly in the front end developer world, and are currently living through the AI version of the same. ChatGPT can be used for everything!
-
-## My biases
-
-Of course, biases go both ways. I'm well aware that my opinion around this is shaped by more than a few of my own.
+Of course, biases go both ways. I'm well aware that my opinion around this is shaped by more than a few of my own, including those mentioned above.
 
 The difference?
 
 I'm actively pushing back against the biases that shape my opinion. 
 
-I feel it's important to do so. Dismissing others opinions without proper evaluation of your own is easy to do. Particularly, when there are new minds to the tech industry listening in on the conversation.
+I feel it's important to do so. Dismissing others opinions without proper evaluation of your own is easy to do. Particularly when there are new minds to the tech industry listening in on the conversation.
+
+Of course, I may just be an SSG [laggard](https://www.interaction-design.org/literature/article/understanding-early-adopters-and-customer-adoption-patterns)!

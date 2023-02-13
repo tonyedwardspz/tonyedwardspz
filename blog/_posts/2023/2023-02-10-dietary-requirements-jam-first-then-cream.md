@@ -1,5 +1,5 @@
 ---
-title: Dietary Requirements. Jam First, then cream.
+title: Dietary Requirements. Jam first, then cream.
 tag:
     - Six Word Story
 ---
