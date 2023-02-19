@@ -2,6 +2,7 @@
 title: The next batch
 tag:
     - Networking
+    - Plymouth Web
 ---
 
 Last night I attended the Plymouth Web meetup. Hosted at [Twist](https://twistbgc.co.uk/), a board game cafe in Plymouth, the evening was the usual mix of techie chat and friendly catch-ups. After the pandemic, people are still floating back into networking. It's always lovely to see old faces passing through.

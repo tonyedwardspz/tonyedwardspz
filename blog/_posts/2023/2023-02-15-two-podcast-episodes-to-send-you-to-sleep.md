@@ -1,7 +1,7 @@
 ---
 title: Two podcast episodes to send you to sleep
 tag:
-    - Podcast
+    - Podcasts
 ---
 
 Tim Ferriss has a solid podcast. Like many of us, I've been through extended Ferriss binges in the past. Today, his podcast is one I tune into if a topic captures my interest. There have been a couple of such episodes recently.

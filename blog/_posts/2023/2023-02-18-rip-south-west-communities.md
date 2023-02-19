@@ -3,7 +3,6 @@ title: RIP South West Communities
 tag:
     - Side Project
     - Web Development
-    - Static Website
     - South West Communities
 image: /assets/images/2023/south-west-communities.jpg
 ---
