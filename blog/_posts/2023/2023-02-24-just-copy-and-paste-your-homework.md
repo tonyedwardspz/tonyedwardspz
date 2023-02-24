@@ -3,13 +3,14 @@ title: Just copy and paste your homework
 tag:
     - Teaching
     - ChatGPT
+hackernews: https://news.ycombinator.com/item?id=34928719
 ---
 
-A recently attended event focused on introducing educators to AI tooling. Naturally, much of the content focused was on ChatGPT. My interest was piqued as a lecturer teaching prompting to final-stage university undergraduates studying computing.
+A recently attended event focused on introducing educators to AI tooling. Naturally, much of the content focused was on [ChatGPT](https://chat.openai.com/). My interest was originally piqued given I'm a lecturer teaching prompting to final-stage university undergraduates studying computing.
 
 I was astounded by the ignorance of education that was on display.
 
-Education is in for a shakeup caused, in part, by this type of tech. The pedagogical paradigm must adapt to the exciting new tools at students' fingertips. The jobs people do might be vastly different in a few years, let alone a decade when they start earning a living. These points were made very well.
+Education is in for a shakeup. Sure. Caused in part by this type of tech. The pedagogical paradigm must adapt to the exciting new tools at students' fingertips. The jobs people do might be vastly different in a few years, let alone a decade when they start earning a living. These points were made very well.
 
 And rightly so. A shakeup has been due for a fair while, certainly at a secondary and primary level. Colleges start shaping students for the workplace, installing the foundations of a specific skill set. University equips people with the tools and context for their industry of choice, prepping minds for further learning once they enter the workforce. It's possible to see how AI tooling can help students at this level.
 
