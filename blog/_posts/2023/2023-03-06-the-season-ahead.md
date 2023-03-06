@@ -6,8 +6,6 @@ tag:
 image: "/assets/images/2023/garden-plan-header.jpg"
 ---
 
-Prepping for the coming season 
-
 Spring is officially here. Perhaps not quite if you go by the sun cycles, but if you're one of the billions living in a gregorian manor, the next season has ticked over into action. With it comes a whole host of prep work around the plot, readying for nature's start.
 
 The garden is waking up, regardless of your outlook on calendars. Slowly but surely, the birds are chirping just that little bit louder, and temperatures are tolerable in full sun, assuming you're wearing three jumpers. Knowing that we want to crop far more calories from the garden this coming year, imagination has run wild considering the variety's rotation schedule the individuals need to slot into.
