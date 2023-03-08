@@ -14,7 +14,8 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ### 2023
 
-. . .
+* Tech Connect - 99 Second Speaker: March 2022
+* Cornwall College - Guest Lecture: March 2022
 
 ### 2022
 

@@ -1,7 +1,7 @@
 ---
 title: Google for finding. Pocket for remembering.
 tag: 
-    - Six word story
+    - Six Word Story
     - Productivity
 
 ---

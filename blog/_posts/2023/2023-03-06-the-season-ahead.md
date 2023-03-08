@@ -24,7 +24,7 @@ This is our primary bed and the first to be added. This one gets endless amounts
 
 Bed 2 was made from the same job lot of wood, but constructed at the tail end of Bed 1's first season. . .  just in time for planting some onions. Today it stands almost empty, after gradually emptying over winter bar a few straggling brassicas. This raised veg bed doesn't get direct sunlight over winter, meaning it's not great for all veggies through the colder months but perfect for many. This last year we dedicated this bed to leafy greens, giving up some of its sprouty goodness for the Christmas dinner table.
 
-*2022 highlight:* Sprouts
+*2022 highlight:* [Sprouts](https://tonyedwardspz.co.uk/blog/sprout-harvest/)
 
 ![The garlic and onion bed](/assets/images/2023/garlic-and-onion-bed.jpg "The garlic and onion bed"){:loading="lazy"}
 
