@@ -4,4 +4,4 @@ tag:
     - Six Word Story
 ---
 
-[https://www.youtube.com/watch?v=fpbQGzGOffc](Listen to the song).
+[Listen to the song](https://www.youtube.com/watch?v=fpbQGzGOffc).
