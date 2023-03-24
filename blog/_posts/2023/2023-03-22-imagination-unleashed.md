@@ -5,7 +5,7 @@ tag:
 image: /assets/images/2023/imagination-unleashed.jpg
 ---
 
-Today I attended [Screen Cornwall's](https://www.screencornwall.com/) Imagination unleashed event, hosted at the Hall for Cornwall. It promised to bring together the CreaTech industry in the county for a day of shared insights, splitting the day between schools in the morning and grown-ups in the afternoon. It was a huge success.
+Today I attended the Imagination unleashed event after being pointed towards it by [Screen Cornwall](https://www.screencornwall.com/), hosted at the Hall for Cornwall. It promised to bring together the CreaTech industry in the county for a day of shared insights, splitting the day between schools in the morning and grown-ups in the afternoon. It was a huge success.
 
 > CreaTech is a term broadly used to characterise the role of technology-driven innovation in the creative industries.
 
