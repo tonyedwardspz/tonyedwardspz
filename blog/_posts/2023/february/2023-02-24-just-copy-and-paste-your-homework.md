@@ -3,7 +3,7 @@ title: Just copy and paste your homework
 tag:
     - Teaching
     - ChatGPT
-hackernews: https://news.ycombinator.com/item?id=34928719
+hackerNews: https://news.ycombinator.com/item?id=34928719
 ---
 
 A recently attended event focused on introducing educators to AI tooling. Naturally, much of the content focused was on [ChatGPT](https://chat.openai.com/). My interest was originally piqued given I'm a lecturer teaching prompting to final-stage university undergraduates studying computing.
