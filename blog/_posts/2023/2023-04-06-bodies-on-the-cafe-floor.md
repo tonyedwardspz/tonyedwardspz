@@ -38,9 +38,9 @@ And you know what. They were correct.
 
 Doing things that others don't is a part of everyday life. Most people don't lie on a cafe floor. These kids did. Most people don't stand in front of a room filled with faces to give a presentation. These kids did, acing the last in a series of confidence building activities to help get them up on stage along the way. 
 
-It wasn't all fun and games. When we weren't lolling around, the kids were on a Mission to Mars as part of a Software Cornwall #WorkExperience week. The objective: #develop an instruction set using C++ to allow a Rover to navigate the Martian terrain. The result. Bedlam.
+It wasn't all fun and games. When we weren't lolling around, the kids were on a [Mission to Mars](https://tonyedwardspz.co.uk/blog/peering-into-the-past/) as part of a Software Cornwall Work Experience week. The objective: develop an instruction set using C++ to allow a Rover to navigate the Martian terrain. The result. Bedlam.
 
-#Robots were breaking left and right by the end of day three. The dashboard, used to track team progress throughout, gave up after day two. By the end of day one, exhaustion had already set in. But it was OK. Tiredness was kept at bay thanks to the cafe's excellent coffee, coupled with the group's infectious enthusiasm. 
+Robots were breaking left and right by the end of day three. The dashboard, used to track team progress throughout, gave up after day two. By the end of day one, exhaustion had already set in. But it was OK. Tiredness was kept at bay thanks to the cafe's excellent coffee, coupled with the group's infectious enthusiasm. 
 
 That. . . and the occasional lie-down!
 
