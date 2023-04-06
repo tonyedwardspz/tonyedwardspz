@@ -58,3 +58,23 @@ form {
     }
   }
 }
+
+a.hn-comment {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  padding: 0.5rem 1rem;
+  font-size: 1.4rem;
+  text-align: center;
+  text-decoration: none;
+  color: #FFFFFF;
+  background-color: #FF6600;
+  border-radius: 0.25rem;
+  border: none;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+a.hn-comment:hover {
+  background-color: #FF5500;
+}

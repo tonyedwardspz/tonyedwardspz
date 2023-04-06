@@ -37,10 +37,13 @@ layout: page
 
 <section class="after-post">
 
+    {% if page.hackerNews %}
+        <p><a href="{{ page.hackerNews }}" title="Comment on Hacker News" class="hn-comment">Comment</a></p>
+    {% endif %}
+
     {% if page.linkedin %}
         <p style="font-style: italic;">Originally featured on <a href="{{ page.linkedin }}" class="also-on">LinkedIn</a></p>
     {% endif %}
-
 
     {% if page.affiliate %}
         <p style="font-weight: 300; font-size: 14px; color: grey; font-style: italic;">This post contains affiliate links.
