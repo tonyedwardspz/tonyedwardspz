@@ -7,9 +7,7 @@ image: /assets/images/2023/cafe-floor.jpg
 linkedin: https://www.linkedin.com/posts/tonyedwardspz_workexperience-develop-robots-activity-7049621900964044800-da8M
 ---
 
-They were lying on the cafe floor. Still and lifeless.
-
-The silence was deafening, pierced only by a single question.
+Still and lifeless. The silence was deafening, pierced momentarily by a single question.
 
 "How many people do you think have laid down on this floor?", I ask.
 
