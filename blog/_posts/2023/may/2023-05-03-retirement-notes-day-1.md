@@ -23,6 +23,6 @@ The decking has been cleared back to assess any damage. Some of the boards have 
 
 In the evening, when you want to sit around and maybe have a BBQ, the only part of our existing garden that receives sunlight is heavily congested with veg beds, sheds, greenhouses and other detritus a gardener might deem worth having around. Consequently, there's only a little room to do anything but sit down. The deck is bathed with the sun at this time.
 
-![Dilapidated decking](/assets/images/2023/veg-patch.jpg "The deck needs some love"){:loading="lazy"}
+![Dilapidated decking](/assets/images/2023/deck.jpg "The deck needs some love"){:loading="lazy"}
 
 We don't know if the hot tub works as yet. That's something to investigate another day!
