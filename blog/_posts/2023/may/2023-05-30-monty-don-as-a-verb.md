@@ -16,9 +16,9 @@ Or, to put it another way:
 
 "We should Monty Don that."
 
-**Monty Don**  
-*Verb* - To prune a plant within an inch of its life as if it's your worst enemy.  
-"She Monty Donned that bush, leaving only a few sticks remaining."
+> **Monty Don**  
+> *Verb* - To prune a plant within an inch of its life as if it's your worst enemy.  
+> "She Monty Donned that bush, leaving only a few sticks remaining."
 
 It's a phrase that entered the household lexicon after one of his programs a few years ago. Monty, the show's host, visited a viewer's garden to help them do it up on a budget. At the centre of the garden was a really well-established Apple tree. The kind of tree that everyone who plants an apple dreams of. Clearly in need of a prune, but a beast nonetheless.
 
