@@ -1,5 +1,5 @@
 ---
-title: The lsst day of term
+title: The last day of term
 tag:
   - Teaching
 ---
