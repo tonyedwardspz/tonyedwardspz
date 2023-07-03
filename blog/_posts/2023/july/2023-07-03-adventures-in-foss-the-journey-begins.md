@@ -1,6 +1,9 @@
 ---
 title: Adventures in FOSS - The Journey Begins
-image: /assets/images/2023/sprouts.jpg
+image: /assets/images/2023/raspberry-pi-in-argon-one-case.jpg
+tag:
+    - Adventures in FOSS
+    - Self-hosting
 ---
 
 The jump is about to happen.
@@ -116,6 +119,8 @@ As the server will be under significant load at times, it's key to keep it cool.
 To store everything, I have a bunch of large-capacity hard drives left over from my time running a video company. They're platter-based, so they consume more energy and are slower than modern storage devices, but they'll do fine for now. Given how little they've been used, they're essentially brand new and can be upgraded as they show signs of wear. Longer term, SSDs will be used, with the current ones acting as backup media.
 
 Something to consider is the cost of electricity the setup will devour. Back-of-a-napkin maths brings me to a top-end estimate of £2.50 a month at current UK rates. It's not a huge amount, but it represents a shifted cost. It'd be unfair to measure this during the setup phase as there will be a lot of one-time tasks the software will perform in setting up the libraries. Much of this predicted energy cost comes from the HDD setup, which is less than optimal at this point.
+
+![HDD Setup](/assets/images/2023/hdd-caddy.jpg "A photo of a hard drive bay"){:loading="lazy"}
 
 ### The Software
 
