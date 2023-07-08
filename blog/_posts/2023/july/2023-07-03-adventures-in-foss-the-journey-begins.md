@@ -150,8 +150,8 @@ Beyond entertainment, there are other services I'd like to implement:
 
 These, though, are for future Tony to consider.
 
-## The next task
+## The next tasks
 
-Get backups and libraries from various places onto one hard drive, implementing a solid folder structure and naming convention.
+First up, [setting up some software on the Pi](https://tonyedwardspz.co.uk/blog/pre-heating-the-pi/) so that its safely accessible on the home network. Then, get backups and libraries from various places onto one hard drive, implementing a solid folder structure and naming convention.
 
 Fun.

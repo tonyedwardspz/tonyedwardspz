@@ -7,7 +7,7 @@ tag:
 affiliate: true
 ---
 
-To host all of the FOSS things, this little Pi is going to be sitting quietly in the corner of the living room for the foreseeable. To do that, we need to tinker with getting the software setup.
+To host [all of the FOSS things](https://tonyedwardspz.co.uk/blog/adventures-in-foss-the-journey-begins/), this little Pi is going to be sitting quietly in the corner of the living room for the foreseeable. To do that, we need to tinker with getting the software setup.
 
 The following setup is working in a Pi 4 well for an internal network facing server. Be sure to do a full update, backup and cross your fingers before starting. This is also a good moment to check the settings on your router. Be sure your firewall is switched on. Many would recommend [switching off UPnP](https://nordvpn.com/blog/what-is-upnp/) to make your network a tad bit more secure, however prepare for the potential inconvenience.
 
@@ -51,7 +51,7 @@ dtparam=act_led_activelow=on
 
 ## Overclock the processor
 
-The processor is going to be idling a lot of the time, but a snappy response would be nice in the heat of the moment. Because the [Argon ONE] case both actively and passively cools the CPU, a healthy dose of overclocking is achievable.
+The processor is going to be idling a lot of the time, but a snappy response would be nice in the heat of the moment. Because the [Argon ONE](https://amzn.to/3JKj8yP) case both actively and passively cools the CPU, a healthy dose of overclocking is achievable.
 
 ```bash
 sudo nano /boot/config
