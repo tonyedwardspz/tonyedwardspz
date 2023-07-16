@@ -1,5 +1,5 @@
 ---
-title: Updating mounted external drive permissions to allow sshd and rsync
+title: How to allow sshd / rsync to copy files to network drive on a Raspberry Pi
 tag:
     - Adventures in FOSS
     - Self-hosting
