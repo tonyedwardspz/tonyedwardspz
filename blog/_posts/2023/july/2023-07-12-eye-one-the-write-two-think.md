@@ -1,5 +1,5 @@
 ---
-title: Eye one the write two think
+title: Eye one the write too think
 tag:
     - Six Word Story
 ---

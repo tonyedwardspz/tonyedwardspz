@@ -14,6 +14,6 @@ So what's the problem?
 
 `sudo pkill -f fsck`
 
-From there, you can repair the drive via Macs built in tools before mounting and carrying on with the file movement mission.
+From there, you can perform 'first aid' on the drive using Macs built in Disk Utility before mounting and carrying on with the file movement mission.
 
 Well. . . I can at least :)
