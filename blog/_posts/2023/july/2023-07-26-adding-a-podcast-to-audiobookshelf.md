@@ -1,8 +1,8 @@
 ---
 title: How to subscribe to podcasts with Audiobookshelf
 tag:
-    - FOSS
     - Self-Hosting
+    - Adventures in FOSS
 ---
 
 Audiobookshelf is an open-source application for self-hosting an audio book collection. As well as audio books, the platform is a great podcast server and archiver. You can add your favourite podcasts via a simple search interface, opting to keep a complete archive or a rolling collection of the latest episodes. 

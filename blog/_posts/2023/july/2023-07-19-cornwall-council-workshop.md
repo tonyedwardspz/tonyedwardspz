@@ -1,7 +1,7 @@
 ---
 title: Hosting a workshop for Cornwall Council
 tag:
-    - Work
+    - Workshop
 image: /assets/images/2023/cornwall-council-workshop.jpg
 ---
 

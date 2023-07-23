@@ -1,7 +1,8 @@
 ---
-title:
+title: Audiobookshelf - Self hosted audio book server
 tag:
     - Adventures in FOSS
+    - Self Hosted
 ---
 
 [Audiobookshelf](https://www.audiobookshelf.org) is a self-hosted server for your audio book library, perfect for the everyday FOSS fan. As an avid Audible listener, I have quite a collection of purchased books. A few even make it into my daily routines. As a result, Audible is one of my most used cloud services for entertainment purposes. 

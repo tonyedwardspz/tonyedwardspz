@@ -4,7 +4,9 @@ layout: page
 
 ---
 
-I really enjoy speaking at meetups and conferences for digital folk. Talks are typically fast-paced, entertaining (hopefully), and generally a little different from the majority of sessions.
+I really enjoy speaking at meetups and conferences for digital folk as well as hosting workshops. 
+
+Meetup talks are typically fast-paced, entertaining (hopefully), and generally a little different from the majority of sessions.
 
 A current favorite talk to deliver is MIDI Birds, another adventure in web browser wonderland. Starting with the 400 item bird song data set recorded during the Covid-19 pandemic, I take the audience on a multimedia journey that includes a history of MIDI, two interactive demos, a body-mounted target, and a rainbow wig.
 
@@ -14,8 +16,12 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ### 2023
 
-* Tech Connect - 99 Second Speaker: March 2022
-* Cornwall College - Guest Lecture: March 2022
+* Cornwall Council Recruitment Workshop: July 2023
+* Mission to Mars - Work Experience Week Host: April 2023
+* Cornwall Council Recruitment Workshop: April 2023
+* Plymouth Web - Project demo: March 2023
+* Tech Connect - 99 Second Speaker: March 2023
+* Cornwall College - Guest Lecture: March 2023
 
 ### 2022
 
