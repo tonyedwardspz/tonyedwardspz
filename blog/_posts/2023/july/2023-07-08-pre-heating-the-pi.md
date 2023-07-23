@@ -9,7 +9,7 @@ affiliate: true
 
 To host [all of the FOSS things](https://tonyedwardspz.co.uk/blog/adventures-in-foss-the-journey-begins/), this little Pi is going to be sitting quietly in the corner of the living room for the foreseeable. To do that, we need to tinker with getting the software setup.
 
-The following setup is working well on a Pi 4 well for an internal network facing server. Be sure to do a full update, backup and cross your fingers before starting. This is also a good moment to check the settings on your router. Be sure your firewall is switched on. Many would recommend [switching off UPnP](https://nordvpn.com/blog/what-is-upnp/) to make your network a tad bit more secure, however prepare for the potential inconvenience.
+The following setup is working well on a Pi 4 well as a foundation for an internal network facing server with an internet connection. Be sure to do a full update, backup and cross your fingers before starting. This is also a good moment to check the settings on your router. Be sure your firewall is switched on. Many would recommend [switching off UPnP](https://nordvpn.com/blog/what-is-upnp/) to make your network a tad bit more secure, however prepare for the potential inconvenience.
 
 ## Use the 64bit OS
 
@@ -119,7 +119,7 @@ There is some duplication in the rules above, but UFW will sort that out. Then w
 sudo ufw enable
 ```
 
-We'll add some more shortly, but there's plenty of options to play with [in the docs](https://help.ubuntu.com/community/UFW).
+We'll add some more shas we setup other software, but there's plenty of options to play with [in the docs](https://help.ubuntu.com/community/UFW) if you want to get ahead of class.
 
 ## Install Fail2ban
 
@@ -129,7 +129,7 @@ You'll find the instructions [here](https://pimylifeup.com/raspberry-pi-fail2ban
 
 ## IP4 filtering
 
-Buried in the Raspberry Pi system config are settings that enhance security at a relatively low level. Switching this filtering on improves the robustness of the Pi to attack and is one of the simplest ways to enhance the network security of the device.
+Buried in the Raspberry Pi system config are settings that enhance security at a relatively low level. Switching on this filtering improves the robustness of the Pi to attack and is one of the simplest ways to enhance the network security of the device.
 
 To enable this functionality, open up the `sysctl.conf file:
 
@@ -148,13 +148,13 @@ net.ipv6.conf.all.accept_source_route = 0
 
 ## Setup SSH
 
-For the moment, the intention is to keep this as an internal facing service. This means SSH access can be limited to the home network.. Edit / create a local ssh config file via:
+For the moment, the intention is to keep this as an internal facing service. This means SSH access can be limited to the home network. Edit / create a local ssh config file via:
 
 ```bash
 sudo nano /etc/ssh/sshd_config.d/local_network_only.conf
 ```
 
-The separate file to the rest of the config prevents conflicts when upgrading your pi. Add the following to the file. If you're on a fresh installation, it will likely be a new file.
+The separate file to the rest of the config prevents conflicts when upgrading your Pi. If you're on a fresh installation, it will likely be a new file. Add the following to the file. 
 
 ```bash
 # Disable all auth by default
@@ -168,7 +168,7 @@ Match Address  192.168.1.*
     AllowUsers tony
 ```
 
-This disables authentication completely, then re-enabling it for a specific user on the internal network only.
+This disables authentication completely, then re-enabling it for a specific user on the internal network only. Note that the password authentication will get switched off totally once the server is operating as intended.
 
 We should now grant access to SSH to specific IP addresses.
 
@@ -183,7 +183,7 @@ sudo systemctl enable ssh
 sudo systemctl start ssh
 ```
 
-Terminal is perfectly adequate from a Mac, and [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client&hl=en&gl=US) is nice for Android.
+Terminal is perfectly adequate from a Mac, and [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client&hl=en&gl=US) is a nice option for Android.
 
 ## Use a European time server
 

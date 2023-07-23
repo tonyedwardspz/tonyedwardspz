@@ -41,7 +41,7 @@ You'll find the instructions [here](https://pimylifeup.com/raspberry-pi-fail2ban
 
 Buried in the Raspberry Pi system config are settings that enhance security at a relatively low level. Switching this filtering on improves the robustness of the Pi to attack and is one of the simplest ways to enhance the network security of the device.
 
-To enable this functionality, open up the `sysctl.conf file:
+To enable this functionality, open up the `sysctl` conf file:
 
 `sudo nano /etc/sysctl.conf`
 

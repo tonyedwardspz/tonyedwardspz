@@ -14,7 +14,7 @@ It was a special moment for both the sport and the fans when [Kevin Magnussen qu
 
 Whilst [Schumacher is moving on from the team](https://www.autosport.com/f1/news/haas-f1-confirms-schumacher-exit-at-end-of-2022-season/10400878/#:~:text=Haas%20has%20formally%20confirmed%20that,weekend's%20Abu%20Dhabi%20Grand%20Prix.), it's been nice to see a new generation of the family take part in the sport. Even if only to hear the name leave the commentators lips once again for a short few years.
 
-With roughly 100 days until the 2023 season (which is set to be the longest ever), time will tell whether Has will be able to put up a sustained battle amongst the mid field teams.
+With roughly 100 days until the 2023 season (which is set to be the longest ever), time will tell whether Hass will be able to put up a sustained battle amongst the mid field teams.
 
 Myself and fellow underdog lovers don't have long to wait.
 

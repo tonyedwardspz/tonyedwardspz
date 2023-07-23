@@ -18,5 +18,3 @@ Before the birth of the modern social media juggernaut, you could find me on bul
 It amounts to a lot of time. And as each platform fell into the internet abyss, so too has the content that I’d contributed. A lot of it in some cases. In other case I accidentally reset 5 years of scrobble data after one two many coffee’s. 🤷‍♀️
 
 With the recent uptick in time dedicated to writing that I’ve been doing more recently, I’ve decided to tend my corner of the internet as a gardener might tend a flower bed. It feels less icky than helping to grow an engagement driven platform. . . but I’ll be doing some of that too. By no means am I “leaving” social media or anything so cliché, but I will be increasingly sharing content on my own site, as well as trying to make is a central place for all your Tony needs.
-
-I don’t like social media, but social media likes me.
