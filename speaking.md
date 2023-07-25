@@ -17,6 +17,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 ### 2023
 
 * Cornwall Council Recruitment Workshop: July 2023
+* Work Experience Week - Guest Lecture: July 2023
 * Mission to Mars - Work Experience Week Host: April 2023
 * Cornwall Council Recruitment Workshop: April 2023
 * Plymouth Web - Project demo: March 2023
