@@ -21,7 +21,7 @@ post-advance-links: [blog]
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-paginate
   - jekyll-default-layout
