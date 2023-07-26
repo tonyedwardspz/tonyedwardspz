@@ -21,6 +21,7 @@ Beginning as a technical exercise in progressive web applications, the site was 
 There were also the usual social media profiles, a mailing list, and a beta tester mailing list. The app was picked up by a few larger communities in the South West and nearly became adopted by a region-wide organisation. Unfortunately, paying a nominal fee for an API that would save them tons of effort wasn't something they wanted to do ☹️
 
 ##Why is it closing now
+
 Meetup has shut down the V2 API, which the ecosystem was built upon. In fact, they did so more than a year ago. Knowing this, I'm surprised the data was available for so long past the sunset date. I want to think a Meetup engineer was smiling down on this community project from afar, letting it limp along a tad longer than it should have. 
 
 There is a replacement. . . but a pro account is needed. As I'm not organising events anymore, it doesn't make sense to pay for a meetup account. I considered some good old-fashioned web scraping and even looked into some fancy 3rd party services for data curation. 
@@ -44,11 +45,13 @@ I've loved tinkering with this project. The next version of the site is even hal
 Great learnings.
 
 ##The downside
+
 The ecosystem around South West Communities has kept my hand in the nitty gritty of software engineering for a few years. It's only been a small part of my professional mix. But it's a skill set I worked hard to build over four years, spending ~£50K on student loans to do so. I certainly don't want those skills to disappear.
 
 On the plus side, static websites using Jekyll. . . even at the complexity that I build them. . . isn't necessarily the most in-demand skillset.
 
 ##The upside
+
 All of this leads me to an interesting question. . . 
 
 Where will I get my code fix from?

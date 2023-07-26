@@ -11,7 +11,7 @@ Still and lifeless. The silence was deafening, pierced momentarily by a single q
 
 "How many people do you think have laid down on this floor?", I ask.
 
-// A slight pause
+// A slight pause  
 delay(100);
 
 "No one", they called back, almost in unison.
@@ -20,7 +20,7 @@ Probably true.
 
 "How many of these people think we're odd right now?"
 
-// They hesitate.
+// They hesitate.  
 delay(1000);
 
 "All of them!"
@@ -29,7 +29,7 @@ Glancing around, it was clear they were right. All eyes were on us. With a cheek
 
 "Does it matter?"
 
-// A wait that is almost painful
+// A wait that is almost painful  
 delay(2048);
 
 "No!"
