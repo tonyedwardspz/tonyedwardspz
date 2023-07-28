@@ -3,17 +3,18 @@ title: Keystone Porridge
 tag:
     - Health
     - Habits
+image: /assets/images/2023/travel-porridge.jpg
 ---
 
 Making breakfast has become a part of my morning routine. . . obvs. Listening to a daily podcast whilst making coffee and breakfast is a blissful warmup for sitting outside to write a journal. If it's raining, the greenhouse is a suitable substitute to the open air. Interestingly, the porridge adds practically no time to my morning.
 
 It starts with the prep. Every (well. . . most) Sunday afternoons, the porridge pots are filled for the week ahead. Measuring everything out for just one meal takes a few minutes and a ton of faff. With only marginally more effort, the entire week can be prepped for in one go, and 9 containers don't need to be opened to make breakfast each morning.
 
-![Bagged up porridge ingredients](/assets/images/2023/porridge-ingredients.jpg.jpg "Photo of porridge ingredients in bags and tubs."){:loading="lazy"}
+![Bagged up porridge ingredients](/assets/images/2023/porridge-ingredients.jpg "Photo of porridge ingredients in bags and tubs."){:loading="lazy"}
 
 All of the ingredients come from the scoop shop in town. Wandering in and bagging breakfast booty has become a common occurrence and part of the our shopping routine. They sell a whole load of other dried goods, so we tend to buy less canned goods from supermarkets.
 
-![The scoop shop](/assets/images/2023/scoop-shop.jpg.jpg "Rows of large tubs with food in them."){:loading="lazy"}
+![The scoop shop](/assets/images/2023/scoop-shop.jpg "Rows of large tubs with food in them."){:loading="lazy"}
 
 The greengrocers are across the road from the scoop shop. As a result, we're eating more locally produced whole foods with far less packaging than other sources provide. Seeing a local farmer drop the food off that the town will be eating in the coming days is wonderful.
 
