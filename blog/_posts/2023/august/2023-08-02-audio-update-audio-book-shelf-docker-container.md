@@ -3,7 +3,7 @@ title: Update Audiobookshelf Docker Container
 tag:
     - Self Hosted
     - FOSS
-image: /assets/images/2023/audionbookshelf-version-number.jpg
+image: /assets/images/2023/audiobookshelf-version-number.jpg
 ---
 
 Audiobookshelf is very [actively maintained](https://github.com/advplyr/audiobookshelf) by the developer at the time of writing. It's great seeing new features and community contributions landing in the app regularly, even if this means more frequent updates are needed. By the developers' own admission, there may be trouble ahead if the app and server get too out of sync.

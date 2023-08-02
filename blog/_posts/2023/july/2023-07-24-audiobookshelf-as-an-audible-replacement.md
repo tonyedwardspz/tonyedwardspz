@@ -43,7 +43,7 @@ done
 
 You could [go further](https://www.audiobookshelf.org/docs#book-directory-structure) in organising your collection, but this is enough to be getting on with. Premature optimisation is the root of all evil after all.
 
-# Installing Audiobookshelf
+## Installing Audiobookshelf
 
 The [documentation is pretty solid](https://www.audiobookshelf.org/docs#docker-compose-install), so I won't repeat it here, only for it to go out of date. `docker-compose` is the method of choice for installation and managing the running of the app on a Raspberry Pi. . . with silky smooth results. If you're familiar with docker, you'll be up and running quickly.
 

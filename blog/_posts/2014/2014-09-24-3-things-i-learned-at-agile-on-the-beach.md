@@ -27,8 +27,6 @@ In order to learn it&#8217;s not enough to have the skills or theory in isolatio
 
 And enjoy the pits of despair&#8230;.it&#8217;s part of the journey!
 
-[resp_image id=&#8217;145&#8242;]
-
 ## Agile is awesome
 
 As expected there were a number of talks on Agile and it seems pretty awesome. Until this conference Agile was simply a diagram in a text book alongside a little theory. This conference really brought the concepts to life, especially the benefits of having a good agile methodology.
@@ -36,8 +34,6 @@ As expected there were a number of talks on Agile and it seems pretty awesome. U
 [Meri Williams](https://twitter.com/Geek_Manager "Meri Williams") compared traditional management styles to those found in an Agile environment. She argued that there is a gap between what good management theory is and what is being practised in reality. She says that by allowing teams to be self organising, members will naturally feel they can be themselves and, as a consequence, will want to be more awesome.
 
 She found that the greatest predictor of staff retention is whether people feel they can thrive and succeed on a personal level. It seems from this presentation, and the conference in general, that motivation of staff is an important part of working within an agile structure. This sounds great. My time in retail left me with the impression that staff happiness is low on the list of priorities for most businesses. I&#8217;m so happy to find it&#8217;s not always the case.
-
-[resp_image id=&#8217;131&#8242;]
 
 ## Networking, Networking, Networking.
 
