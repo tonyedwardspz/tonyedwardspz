@@ -1,7 +1,7 @@
 ---
 title: Process a Google Photo's Takeout
 tag:
-    - Self Hosting
+    - Self Hosted
 ---
 
 Processing a Google Takeout of photographs and videos can be an arduous task. It's a necessity when taking steps to reduce reliance on big tech through self-hosting. This is particularly true when moving away from Google Photos and towards having a single source of backed-up, content-based truth. Luckily, I made a bunch of mistakes on your behalf.

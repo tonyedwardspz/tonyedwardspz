@@ -3,7 +3,7 @@ title: Pre-heating the Pi
 image: /assets/images/2023/raspberry-pi-in-argon-one-case.jpg
 tag:
     - Adventures in FOSS
-    - Self-hosting
+    - Self Hosted
 affiliate: true
 ---
 

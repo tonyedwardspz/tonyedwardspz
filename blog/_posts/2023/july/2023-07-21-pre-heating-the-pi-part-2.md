@@ -3,7 +3,7 @@ title: Pre-heating the Pi - Part 2
 image: /assets/images/2023/raspberry-pi-in-argon-one-case.jpg
 tag:
     - Adventures in FOSS
-    - Self-hosting
+    - Self Hosted
 ---
 
 As is inevitable with any project involving a Raspberry Pi, at some point you need to restart again from fresh. The reason in this case was because I had the wrong OS variant installed. . . but this didn't become apparent until the fancy features of the photo library were switched on. Unfortunately, this was the VERY LAST THING for the project. Or so I thought.

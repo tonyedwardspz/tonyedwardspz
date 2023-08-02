@@ -1,7 +1,7 @@
 ---
 title: How to subscribe to podcasts with Audiobookshelf
 tag:
-    - Self-Hosting
+    - Self Hosted
     - Adventures in FOSS
 ---
 

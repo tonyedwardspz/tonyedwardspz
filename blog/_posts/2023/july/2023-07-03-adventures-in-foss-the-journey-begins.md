@@ -3,7 +3,7 @@ title: Adventures in FOSS - The Journey Begins
 image: /assets/images/2023/raspberry-pi-in-argon-one-case.jpg
 tag:
     - Adventures in FOSS
-    - Self-hosting
+    - Self Hosted
 ---
 
 The jump is about to happen.
