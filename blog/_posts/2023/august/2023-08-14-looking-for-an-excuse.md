@@ -6,7 +6,7 @@ tag:
 image: /assets/images/2023/macbook-thermal-paste.jpg
 ---
 
-In search of an excuse to invest in a new Laptop, I thought I’d try to repair my main device.
+In search of an excuse to invest in a new Laptop, I thought I’d try to repair my current one.
 
 A MacBook Pro of a certain age tends to spin up its fans at the faintest whiff of computation. Especially when you use [Macs Fan Control](https://crystalidea.com/macs-fan-control) to compensate for suspected thermal paste degradation through preventative cooling. That is doubly true if you live within a workflow infused with Electron apps.
 
