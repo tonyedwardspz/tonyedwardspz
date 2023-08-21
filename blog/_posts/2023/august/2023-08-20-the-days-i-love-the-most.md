@@ -3,7 +3,7 @@ title: The Days I Love the Most
 tag:
     - Adulting
     - Life
-image: /assets/images/2023ice-cream.jpg
+image: /assets/images/2023/ice-cream.jpg
 ---
 
 Saw dark turn into light.
