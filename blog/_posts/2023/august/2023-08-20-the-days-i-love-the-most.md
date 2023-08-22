@@ -1,5 +1,5 @@
 ---
-title: The Days I Love the Most
+title: The days I love the most
 tag:
     - Adulting
     - Life
@@ -19,6 +19,8 @@ Made my partner a coffee in bed.
 Wrote a blog post.
 
 Hung out the washing.
+
+Stroked the free range cat.
 
 Went for a walk.
 
