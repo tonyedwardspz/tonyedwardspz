@@ -3,6 +3,7 @@ title: Lots of butterflies with us today
 tag:
     - The Garden
     - Wildlife
+    - Six Word Story
 image: /assets/images/2023/butterflies-of-cornwall.jpg
 ---
 

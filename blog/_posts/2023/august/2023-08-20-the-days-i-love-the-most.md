@@ -70,6 +70,6 @@ Outlined a blog post.
 
 Wrote a todo list for tomorrow.
 
-Fell asleep on each other after hanging out with my best friend, waking up dazed and confused at in the early hours of tomorrow.
+Fell asleep on each other after hanging out with my best friend for the whole day, waking up dazed and confused in the early hours of tomorrow.
 
 These are the days I love the most.

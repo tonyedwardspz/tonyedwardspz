@@ -1,7 +1,6 @@
 ---
 title: End of week update
 tag: 
-    - Retirement 2023
     - Gardening
 image: /assets/images/2023/painted-wood.jpg
 ---

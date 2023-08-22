@@ -1,7 +1,7 @@
 ---
 title: Archive any podcast using Audiobookshelf
 tag:
-    - Self Hosting
+    - Self Hosted
     - Audiobookshelf
 youtube: LVwo8rRRjEk
 image: /assets/images/2023/archive-any-podcast.jpg
