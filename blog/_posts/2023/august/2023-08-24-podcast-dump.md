@@ -4,8 +4,6 @@ tag:
     - Podcasts
 ---
 
-Podcast dump
-
 In the 7 years since the last [couple of](https://tonyedwardspz.co.uk/blog/12-podcasts-for-web-developers/) [podcast posts](https://tonyedwardspz.co.uk/blog/11-more-podcasts-for-web-developers/), my listening tastes have vastly changed. At the time, most of the day was spent in front of a computer learning to become a software engineer with podcasts acting as a passive input that could be tuned into and out of.
 
 Whilst podcasts are still a significant part of my daily listening habits, Audiobooks account for far more of the listening schedule. When podcasts are listened too, I tend to work through a handful of series at a time, a couple episodes a session as opposed to living at the whim of a feed (allthough there is a tightly controlled feed that is dipped into).
