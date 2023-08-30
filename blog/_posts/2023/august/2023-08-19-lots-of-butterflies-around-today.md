@@ -37,7 +37,7 @@ My favourite bit is the sightings distribution chart.
 
 ![Butterfly of Cornwall sightings distribution](/assets/images/2023/butterflies-of-cornwall-sightings.jpg "Butterflies of cornwall sightings distribution chart"){:loading="lazy"}
 
-It was also nice to start to see [signs of life](https://tonyedwardspz.co.uk/blog/the-kale-is-still-standing/) on the giant Kale in the platinum patio. This was an area created during the 2022 heatwave to give us a shady spot. We propped the up to better let the air, light and parent butterflies get in. . . whilst keeping the slugs away.
+It was also nice to start to see [signs of life](https://tonyedwardspz.co.uk/blog/the-kale-is-still-standing/) on the giant Kale in the platinum patio. This was an area created during the 2022 heatwave to give us a shady spot. We propped up the giant veg to better let the air, light and parent butterflies get in. . . whilst keeping the slugs at bay.
 
 ![Giant Kale](/assets/images/2023/giant-kale.jpg "Giant Kale towers above"){:loading="lazy"}
 
