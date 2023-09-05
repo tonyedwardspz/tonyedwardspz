@@ -12,7 +12,7 @@ When a topic clicks, the spark in someone's eyes is one of my favourites in the 
 
 ## There's more to good teaching than it looks
 
-Even at its most basic, simply keeping the attention of 25 students of different ages, abilities, attention spans, and personal needs is tricky enough. And that's before you teach them anything useful!
+Even at its most basic, simply keeping the attention of 25 students of different ages, knowledge levels, attention spans, and personal needs is tricky enough. And that's before you teach them anything useful!
 
 After the first few sessions, I quickly adopted the approach of breaking the timeline of each class up. A team building game here, a retrospective there, drop in the occasional video and [a roll around on the carpet](https://tonyedwardspz.co.uk/blog/bodies-on-the-cafe-floor/). Everyone's happy.
 
