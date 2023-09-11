@@ -30,4 +30,4 @@ Pixel Buds -> Bluetooth Headphones with ANC
 
 Whilst the scale of personal data Google are harvesting is sure to still be astronomical, I do wonder what the above does to reduce the amount in quantifiable terms. Is it even a double digit percentage change?
 
-Going one step further, what is the impact of individual changes on the amount ( or even shape ) of data.
+Going one step further, what is the impact of individual changes on the amount ( or even shape ) of data?
