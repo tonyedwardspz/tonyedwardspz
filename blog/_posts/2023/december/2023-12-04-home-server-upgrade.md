@@ -14,7 +14,7 @@ This line of machine are a popular choice amongst home server enthusiasts. For g
 Spec wise, it trounces the Pi as is expected:
 
 - Intel i7 9700 (8 Core, upto 4.7Ghz)
-- 256GB NvMe dive
+- 256GB NVMe dive
 - 16 GB DDR4 ram
 - DVD Writer
 - A soundcard that doesn't butcher audio quality
