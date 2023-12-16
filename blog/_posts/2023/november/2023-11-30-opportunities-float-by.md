@@ -1,5 +1,5 @@
 ---
-title: Oppotrunities float by
+title: Opportunities floating by
 tag:
     - Work life
 ---
