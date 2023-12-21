@@ -4,7 +4,7 @@ tag:
     - Life
 ---
 
-**_For posterity, here's the best man speech I gave at my baby brother wedding. People kept telling me it was the best they'd ever seen. Naturally._**
+**_For posterity, here's the best man speech I gave at my baby brother's wedding. People kept telling me it was the best they'd ever seen. Naturally._**
 
 Ladies and gentlemen, boys and girls, and any friends from beyond the binary.
 
