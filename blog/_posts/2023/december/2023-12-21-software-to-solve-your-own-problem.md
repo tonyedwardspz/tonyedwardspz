@@ -9,7 +9,7 @@ The desktop PC/server is home to the Raspberry Pi backup drive. That means the P
 
 One drawback of an offline first media setup is the inconvenience. Currently, the Pi must be on to find fresh listening material. Downloading ahead is fine, but batching is most effective for a series you're working through or regularly listen to.
 
-Switching on the Pi solely to listen to a podcast seems a shame when everything is already on the device. A quick search didn't uncover a file-based podcast player, so I threw one together.
+Switching on the Pi solely to listen to a podcast seems a shame when everything is already on the device. A quick search didn't uncover a file-based podcast player, [so I threw one together](https://github.com/tonyedwardspz/podcast-console-app).
 
 It's super basic, but for 20 minutes of work with co-pilot it does the job. From the console, it allows me to navigate through the library folders, select a file and open it in the default mp3 player.
 
