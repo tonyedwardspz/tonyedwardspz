@@ -21,7 +21,7 @@ I'm still hosting a similar set of services, just in a different way. Through Po
 
 I'm still keeping consumption patterns offline first. Being deliberate in my choice of media has been refreshing. The result has been a syntopical journey through periods of history, learning about notable figures, tracing the origins of a few legends and myths, and curating a perfect morning podcast playlist.
 
-I'll still poke at AI and how it can be incorporated into local workflows. Some intriguing options exist between llamafile and LM Studio for making the technology useful in everyday computing tasks.
+I'll still poke at AI and how it can be incorporated into local workflows. Some intriguing options exist between [llamafile](https://github.com/Mozilla-Ocho/llamafile) and [LM Studio](https://lmstudio.ai/) for making the technology useful in everyday computing tasks.
 
 ## Lasting changes
 
@@ -33,7 +33,7 @@ The terminal isn't a scary place anymore. Whilst I've travelled through the land
 
 There's a newfound appreciation for open-source software in the household. Where possible, I'll choose open-source rather than proprietary and accept the trade-offs that come with it. 
 
-My first contribution to open source, a side effect of this journey, is a career benchmark and the moment when the value of it clicked for my partner. We chatted about a foible with the podcast app app we used. I'd fixed it on my phone by the time she awoke the next day, and it landed on hers a couple weeks later.
+My [first contribution to open source](https://tonyedwardspz.co.uk/blog/implementing-good-advice/), a side effect of this journey, is a career benchmark and the moment when the value of it clicked for my partner. We chatted about a foible with the podcast app app we used. I'd fixed it on my phone by the time she awoke the next day, and it landed on hers a couple weeks later.
 
 ## Conclusion
 
