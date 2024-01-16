@@ -7,6 +7,7 @@ tag:
 Really diggin' [this song by Snak The Ripper](https://www.youtube.com/watch?v=JdR7RjdK7sE) at the moment:
 
 **Verse 1**
+
 If you want to be a leader gotta follow your heart
 Don’t tell em every move you making leave em all in the dark
 
@@ -33,6 +34,7 @@ If you feeling lost in this life, I hope you take my advice
 
 
 **Hook**
+
 Stop stressing over nothing
 Try to control your mind
 Then learn to trust the process
@@ -44,6 +46,7 @@ Do that and you’ll be fine
 
 
 **Verse 2**
+
 Gotta Believe when others doubt, and work when others refuse
 Stay when others quit, and you’ll win when others lose
 
