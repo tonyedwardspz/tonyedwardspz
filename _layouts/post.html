@@ -42,7 +42,7 @@ layout: page
     {% endif %}
 
     {% if page.linkedin %}
-        <p style="font-style: italic;">Originally featured on <a href="{{ page.linkedin }}" class="also-on">LinkedIn</a></p>
+        <p style="font-style: italic;">Originally featured on <a href="{{ page.linkedin }}" class="also-on">LinkedIn</a>.</p>
     {% endif %}
 
     {% if page.affiliate %}
@@ -51,6 +51,9 @@ layout: page
             of supporting independent publishing. Thank you 🤗</p>
     {% endif %}
 
+    {% if page.reddit %}
+        <p style="font-style: italic;">This post strated life a comment on <a href="{{ page.reddit }}" class="also-on">Reddit</a>.</p>
+    {% endif %}
 
     <div class="blog-navigation">
         {% if page.previous.url %}
