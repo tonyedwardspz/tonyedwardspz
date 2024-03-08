@@ -1,8 +1,9 @@
 ---
 title: Meet your future team mates
-tags:
+tag:
     - Networking
     - Digital Plymouth
+linkedin: https://www.linkedin.com/posts/tonyedwardspz_meet-your-future-team-mates-last-night-activity-7171897355598839808-0y4u
 ---
 
 Last night, the Digital Plymouth Meetup was taken over by students from the comp-sci discipline at Plymouth Uni! For many, it was their first foray into professional networking. . . something that strikes fear into the heart of people from all walks of life, let alone new entrants to the industry. Thankfully, the friendly community that has gathered around the group made them welcome to the world of meet-ups. 
