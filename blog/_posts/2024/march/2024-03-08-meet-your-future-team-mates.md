@@ -14,4 +14,4 @@ As a lecturer, it was great to see so many students mingling with the community,
 
 Who knows. . . you might just meet your next team mate.
 
-![Students go networking at Digital Plymouth](/assets/images/2024/digital-plymouth-march-24.jpg.jpg "Comp-sci students go networking at Digital Plymouth"){:loading="lazy"}
+![Students go networking at Digital Plymouth](/assets/images/2024/digital-plymouth-march-24.jpg "Comp-sci students go networking at Digital Plymouth"){:loading="lazy"}
