@@ -2,6 +2,7 @@
 title: Set current shell item from anywhere in a MAUI app
 tag:
     - MAUI
+stackoverflow: https://stackoverflow.com/questions/78076733/set-or-highlight-a-specific-shell-tabbar-item-after-navigation
 ---
 
 In the development of mobile applications, ensuring a seamless user experience is key. A common feature in many apps is the use of notifications. When a user interacts with one of these notifications, they expect to be directed to the relevant part of the app and for the navigation to reflect their current context. 
