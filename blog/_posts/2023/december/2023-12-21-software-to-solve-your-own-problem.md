@@ -2,7 +2,7 @@
 title: Software to solve you own problem
 tag:
     - Programming
-    - dotnet
+    - dotnet MAUI
 ---
 
 The desktop PC/server is home to the Raspberry Pi backup drive. That means the PC has an out-of-sync copy of every podcast/audiobook/picture/movie at its disposal to support its part-time transition to the home server, used in a read-only way.

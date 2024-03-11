@@ -1,7 +1,7 @@
 ---
 title: Set current shell item from anywhere in a MAUI app
 tag:
-    - MAUI
+    - dotnet MAUI
 stackoverflow: https://stackoverflow.com/questions/78076733/set-or-highlight-a-specific-shell-tabbar-item-after-navigation
 ---
 

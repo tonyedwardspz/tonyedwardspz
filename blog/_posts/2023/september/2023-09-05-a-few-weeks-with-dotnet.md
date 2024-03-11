@@ -2,7 +2,7 @@
 title: A few weeks playing with dotnet
 tag:
     - Programming
-    - Dotnet
+    - dotnet MAUI
 ---
 
 To prepare for the next work adventure, I've been diving into the dotnet ecosystem. It's a completely different software paradigm to the web first, JAMStack vibes I've been diggin in recent years, but a pleasant one nonetheless. 
