@@ -16,8 +16,6 @@ tag:
 
 Paul founded Bluefruit seven years ago, and in the years since they&#8217;ve worked mainly in embedded software.
 
-![Paul Massey - 7 Years of Agile](/assets/images/import/2016/09/IMG_20160901_140-1100x640.jpg){:loading="lazy"}
-
 Researched Agile and selected the Iconix flavor of Agile, which is a blend of upfront planning and Agile sweetness.
 
 They won a contract for making software for water purifiers, with a client who were awesome at providing up front requirements.
