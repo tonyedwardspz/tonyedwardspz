@@ -31,7 +31,7 @@ In a recent [TED talk](https://www.youtube.com/watch?v=gnbLLQwZxeA "Put the soci
 
 ### If someone tells you it can&#8217;t be done, it usually means they don&#8217;t know how to do it.
 
-&#8211; [Chris Sturley](https://www.plymouth.ac.uk/staff/chris-sturley "Chris Sturley Plymouth University")
+&#8211; Chris Sturley
 
 I&#8217;ve been told a couple of times that something can&#8217;t be done, mainly by my class mates. I remember one occasion when I was told you can&#8217;t make things move around on a web page using just CSS. The next day I came in with a CSS only [animation of the solar system](https://github.com/tonyedwardspz/SolarSystem "SASS solar system animation").
 
@@ -43,7 +43,7 @@ As a developer it&#8217;s tempting to dive straight into code, but a little bit 
 
 ### Don&#8217;t be afraid to fail.
 
-&#8211; [Arnold Schwarzenegger](http://www.livingggood.com/motivation/6-secrets-success-arnold-schwarzenegger-video/ "Arnies 6 tips for sucess")
+&#8211; Arnold Schwarzenegger
 
 Fear of failure can paralyse you into not starting and you&#8217;ll never achieve anything if you don&#8217;t make a start. Chances are that you will learn more from failure&#8230;.. providing that you reflect on why you failed, and importantly how to avoid it next time.
 

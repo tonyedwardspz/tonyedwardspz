@@ -99,4 +99,4 @@ You also need to add the following method call to the&nbsp;`applicationWillTermi
 
 There you have it. Your project is ready to use core data. If it&#8217;s your first time using Core Data I&#8217;d highly recommend the tutorial at&nbsp;[raywenderlich.com](http://www.raywenderlich.com/85578/first-core-data-app-using-swift).
 
-Inspired by a post at [www.craig24.com](http://craig24.com/2014/12/how-to-add-core-data-to-an-existing-swift-project-in-xcode/#comment-52158)
+Inspired by a post at www.craig24.com.

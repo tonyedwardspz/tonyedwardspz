@@ -21,5 +21,5 @@ Every time my partner and I use the app, we benefit from the code I wrote. So do
 
 For bonus learns, I'm now [maintaining a personal fork of the project](https://github.com/tonyedwardspz/audiobookshelf-app). I'm an edge case in terms of how I use the app, when considering the wider user base. The original request was to support that usage pattern by prioritising offline media in a connected state. The changes made the app painful to use.
 
-Thankfully, I have the skills to [shape the app to suit my needs](https://github.com/tonyedwardspz/audiobookshelf-app/tree/te-personal-buildxdk), whilst still contributing upstream where it's welcome. I guess I'm a smart Cookie too.
+Thankfully, I have the skills to [shape the app to suit my needs](https://github.com/tonyedwardspz/audiobookshelf-app/tree/te-personal-build), whilst still contributing upstream where it's welcome. I guess I'm a smart Cookie too.
 

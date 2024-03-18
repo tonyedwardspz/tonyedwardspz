@@ -10,7 +10,7 @@ Many of us switched wholesale to Google Photos shortly after its launch, uploadi
 
 This was great whilst it was free. . . but then it isn't everything. It was tolerable when original quality uploads from Pixel phones were included, but that's disappearing soon. Today, without really noticing, I've been paying Google a few pounds a month to keep hold of photos I rarely look at but don't count as a freebie. It's only a little money, but a bill that will only ever get bigger without action.
 
-[Google Takeout](takeout.google.com/) is the simplest way to get a copy of your personal photos and videos from Google's servers. You can select which part of the ecosystem you'd like to download with a few clicks. Choose one area at a time, e.g. photos, if you too are knee-deep in the ecosystem.
+[Google Takeout](https://takeout.google.com/) is the simplest way to get a copy of your personal photos and videos from Google's servers. You can select which part of the ecosystem you'd like to download with a few clicks. Choose one area at a time, e.g. photos, if you too are knee-deep in the ecosystem.
 
 ![Google Photos Takeout Screenshot](/assets/images/2023/google-takeout.jpg "Google Photos Takeout Screenshot"){:loading="lazy"}
 

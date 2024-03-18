@@ -7,7 +7,7 @@ tag:
 ---
 [Forward with fibre](https://twitter.com/search?q=%23fwdfibre&src=typd "Forward with fibre") is a networking conference bringing together businesses and organizations from across Cornwall with a vested interest in the future of the county&#8217;s fibre network.
 
-I was lucky enough to attend as a guest of [Unlocking Potential](https://twitter.com/UP_Cornwall "Unlocking South West Potential") via [Plymouth University](https://www.plymouth.ac.uktower "University of Plymouth"). I met lots of like minded individuals from a range of industries in Cornwall, all of whom have an interest in what software can do for them. There was also the added bonus of unlimited coffee and the chewiest cookies I&#8217;ve ever had.
+I was lucky enough to attend as a guest of [Unlocking Potential](https://twitter.com/UP_Cornwall "Unlocking South West Potential") via [Plymouth University](https://www.plymouth.ac.uk "University of Plymouth"). I met lots of like minded individuals from a range of industries in Cornwall, all of whom have an interest in what software can do for them. There was also the added bonus of unlimited coffee and the chewiest cookies I&#8217;ve ever had.
 
 [The Eden project](http://www.edenproject.com/ "The Eden Project, Cornwall"), in the heart of Cornwall, was the perfect venue. It acted as a metaphor for the event, setting something almost space age against a rural backdrop. I took the long route during the switch between sessions, and had a good look around. I&#8217;m looking forward to going back next summer to explore the Bio Domes fully.
 

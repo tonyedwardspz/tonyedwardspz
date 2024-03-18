@@ -31,13 +31,11 @@ This is a weekly show that deep dives into the world of the Angular Framework. W
 
 **Ruby on Rails Podcast**
 
-&#8211; <http://5by5.tv/rubyonrails>
-
 A weekly conversation about Ruby on Rails, Ember.js, open source software, and the programming profession.
 
 **The Web Ahead**
 
-&#8211; <http://thewebahead.net/>
+&#8211; [http://thewebahead.net](http://thewebahead.net)
 
 The Web Ahead is a deep dive into the world of web. Jen Simmons and guests give a great overview of individual web technologies and ideas, discussing their real world implications. The show is very user focused, as web development should be.
 
@@ -51,7 +49,7 @@ A Weekly discussion by freelancers and professionals about running a business, f
 
 **The Art of Value**
 
-&#8211; <http://artofvalue.com/>
+&#8211; [http://artofvalue.com/](http://artofvalue.com/)
 
 If you are into value pricing your software development, this is the show for you. Kirk Bowman chats with guests who have successfully switched to a value priced structure, sharing lessons learned along the way.
 

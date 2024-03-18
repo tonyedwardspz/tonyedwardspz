@@ -32,7 +32,7 @@ Platinum elements offer new web features such as offline caching and push notifi
 
 Gold Elements offers E-commerce solutions including many fancy Credit card niceties.
 
-You can view more details of the elements at [elements.polymer-project.org](http://elements.polymer-project.org).
+You can view more details of the elements at elements.polymer-project.org.
 
 Google uses polymer, some of the applications include:
 

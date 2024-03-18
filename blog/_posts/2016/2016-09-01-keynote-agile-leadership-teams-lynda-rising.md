@@ -1,6 +1,6 @@
 ---
 title: 'Keynote: Agile Leadership &#038; Teams &#8211; Lynda Rising'
-image: /assets/images/import/2016/09/IMG_20160901_095829-1000x750.jpg
+image: /assets/images/import/2016/09/IMG_20160901_095829-1100x640.jpg
 tag:
   - Agile on the Beach
   - Live Blog

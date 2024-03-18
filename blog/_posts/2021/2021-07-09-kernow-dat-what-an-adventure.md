@@ -18,4 +18,4 @@ If you were one the speakers, sponsors, attendees or a supporter in any other wa
 
 With the next adventure that life has in store on the horizon, it’s time to draw a line under Kernow DAT. We might not have another gathering to look forward to under this brand name again, but we have some sweet collective memories. One thing is for certain. My better half is glad she doesn't have to make 100+ pasties for us all any more!
 
-Thank you for being a part of this little life adventure. It was fun. I hope we’ll cross paths at a [future event across the South West](https://southwestcommunities.co.uk/ "Tech Events Calendar for South West UK") and beyond.
+Thank you for being a part of this little life adventure. It was fun. I hope we’ll cross paths at a future event across the South West and beyond.

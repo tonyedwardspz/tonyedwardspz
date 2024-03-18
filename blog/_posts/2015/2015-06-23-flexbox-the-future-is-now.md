@@ -12,4 +12,4 @@ You’re now probably looking around the web seeing MILF (Markup I’d Layout in
 
 I recently came across a email course by [@landonschroop](https://twitter.com/landonschropp) that I can highly recommend. Over a few weeks you build up a strong understanding of Flexbox through simple to follow tutorials, before moving onto cross browser compatibility and prefixing. The course is great when combined with a service like CodePen, allowing you to write code and view results instantly. To get you started I’ve [created a pen](http://codepen.io/tonyedwardspz/pen/VLrado) that you can use during the first part of the course.
 
-Sign up for the course at [unravelingflexbox.com/subscribe](https://unravelingflexbox.com/subscribe)
+~~Sign up for the course at https://unravelingflexbox.com/subscribe~~
