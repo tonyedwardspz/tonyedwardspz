@@ -39,7 +39,7 @@ Get an insight into the world of hacking and web security. Although I knew about
 
 A podcast about the business of design and the design of business, hosted by Jason Blumer and  Dan Mall. Contains lots of down to earth business ideas and advice.
 
-<span style="font-weight: 400;"><strong>Entreprogrammers</strong><br /> &#8211; </span>[<span style="font-weight: 400;">http://entreprogrammers.com/</span>](http://entreprogrammers.com/ "Entreprogrammers")
+<span style="font-weight: 400;"><strong>Entreprogrammers</strong></span>
 
 Entreprogrammers is a weekly mastermind call between a group of entrepreneurs from the world of software development and copywriting. The show gives lots of insight into the hard work and dedication needed to get a SAAS or information product off the ground.
 
@@ -53,7 +53,7 @@ This is a podcast about&#8230;well&#8230;a start up. Season one was all about s
 
 <span style="font-weight: 400;"><strong>Mystery Show</strong><br /> &#8211; </span>[<span style="font-weight: 400;">https://gimletmedia.com/show/mystery-show/</span>](https://gimletmedia.com/show/mystery-show/ "Mystery Show")
 
-Each episode, Starlee Kine attempts to solve a seemingly benign mystery. Favourite episode, &#8216;[Belt Buckle](https://gimletmedia.com/episode/case-3-belt-buckle/)&#8216;.
+Each episode, Starlee Kine attempts to solve a seemingly benign mystery. Favourite episode is called Belt Buckle.
 
 <span style="font-weight: 400;"><strong>Surprisingly Awesome</strong><br /> &#8211; </span>[<span style="font-weight: 400;">https://gimletmedia.com/show/surprisingly-awesome/</span>](https://gimletmedia.com/show/surprisingly-awesome/ "Suprisingly Awesome")
 

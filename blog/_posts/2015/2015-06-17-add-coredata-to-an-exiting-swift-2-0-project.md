@@ -97,6 +97,6 @@ You also need to add the following method call to the&nbsp;`applicationWillTermi
 
 <pre data-language="javascript"><code>self.saveContext()</code></pre>
 
-There you have it. Your project is ready to use core data. If it&#8217;s your first time using Core Data I&#8217;d highly recommend the tutorial at&nbsp;[raywenderlich.com](http://www.raywenderlich.com/85578/first-core-data-app-using-swift).
+There you have it. Your project is ready to use core data. If it&#8217;s your first time using Core Data I'd highly recommend reading a little further into the subject.
 
 Inspired by a post at www.craig24.com.

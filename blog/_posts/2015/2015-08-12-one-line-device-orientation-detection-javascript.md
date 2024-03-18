@@ -16,6 +16,6 @@ This method returns true if the device has an orientation of portrait. You can u
     // Do some fancy upright stuff
 }</code></pre>
 
-Whilst this theoretically works in any browser that <a href="http://caniuse.com/#feat=matchmedia" target="_blank">supports match media</a>, there are some edge cases where <a href="http://www.matthewgifford.com/blog/2011/12/22/a-misconception-about-window-orientation/" target="_blank">unexpected&nbsp;results</a> are returned.
+Whilst this theoretically works in any browser that <a href="http://caniuse.com/#feat=matchmedia" target="_blank">supports match media</a>, there are some edge cases where unexpected results are returned.
 
 If&nbsp;know any useful one line JS methods, let me know by <a href="https://twitter.com/tonyedwardspz" target="_blank">dropping me a tweet</a>.
