@@ -11,7 +11,7 @@ During a catch up with a friend earlier this year, a sage piece of advice was gi
 
 Releasing and maintaining a piece of software is a hard and often thankless task. APIs change over time. Issues get submitted. Intended uses morph as industries shift. All of these create unpaid work for the maintainer.
 
-FOSS is intended to alleviate this strain on yhe individual, although often falls short. Anyone can, in theory, contribute to any project to introduce features, improve the UI, and squash bugs. 
+FOSS is intended to alleviate this strain on the individual, although often falls short. Anyone can, in theory, contribute to any project to introduce features, improve the UI, and squash bugs. 
 
 When a feature in the [Audiobookshelf android app](https://play.google.com/store/apps/details?id=com.audiobookshelf.app) moved away from my usage pattern, I decided to take the advice and make a contribution. Whist my [original request](https://github.com/advplyr/audiobookshelf-app/issues/954) was turned down because of longer term plans, I did manage to help shape the UI within a section of the app.
 
