@@ -18,7 +18,7 @@ A whole load of sites that were linked to from here have closed down in the year
 
 ## Updating
 
-This week, Software Cornwall rebranded to Tech Cornwall as part of a broader refresh. With a bunch of blog posts on this site from the past decade about interactions with the org, there are a fair number of links to their site. Whilst the domain is forwarding for the moment, and probably will for some time yet, entropy is inevitable.
+This week, Software Cornwall rebranded to [Tech Cornwall](https://techcornwall.co.uk/) as part of a broader refresh. With a bunch of blog posts on this site from the past decade about interactions with the org, there are a fair number of links to their site. Whilst the domain is forwarding for the moment, and probably will for some time yet, entropy is inevitable.
 
 Updating references to the organisation will insure against future link rot, and send them some SEO love. A few quick find and replace commands later, and the markdown that backs the site is brought in line with the current reality.
 
