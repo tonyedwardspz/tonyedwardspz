@@ -2,10 +2,10 @@
 title: Peering in to the past
 tag:
     - Teaching
-    - Software Cornwall
+    - Tech Cornwall
 ---
 
-This week, I've been helping Software Cornwall to run their Mission to Mars work experience program, filling a gap due to illness.
+This week, I've been helping Tech Cornwall to run their Mission to Mars work experience program, filling a gap due to illness.
 
 It's been great fun!
 

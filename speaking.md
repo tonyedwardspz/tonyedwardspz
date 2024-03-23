@@ -37,27 +37,27 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 ### 2021
 
 * Techstars Satrtup Weekend (Plymouth) - Coach: November 2021
-* Software Cornwall Tech Connect - Organiser/Host: July 2021
+* Tech Cornwall Tech Connect - Organiser/Host: July 2021
 * Coffee Break Social - Host: July 2021
 * Coffee Break Social - Host: June 2021
 * Coffee Break Social - Host: May 2021
-* Software Cornwall Tech Connect - Organiser/Host: April 2021
+* Tech Cornwall Tech Connect - Organiser/Host: April 2021
 * Coffee Break Social - Host: April 2021
 * City JS Conference - Host/Livestream Manager: March 2021
 * Coffee Break Social - Host: March 2021
 * Pitch Up at the Pad - Organiser/Host: February 2021
 * Coffee Break Social - Host: February 2021
-* Software Cornwall Tech Connect - Organiser/Host: January 2021
+* Tech Cornwall Tech Connect - Organiser/Host: January 2021
 * Coffee Break Social - Host: January 2021
 
 ### 2020
 
-* Software Cornwall Christmas Party - Host: December 2020
+* Tech Cornwall Christmas Party - Host: December 2020
 * Coffee Break Social - Host: December 2020
 * Techstars Startup Weekend (Plymouth) - Coach: November 2020
 * Coffee Break Social - Host: November 2020
 * HalfStack Online - Interviewer: November 2020
-* Software Cornwall Tech Connect - Host: October 2020
+* Tech Cornwall Tech Connect - Host: October 2020
 * CityJS Conference - Host: September 2020
 * HalfStack Online - Interviewer: May 2020
 * Future Sync Conference - Host / Organiser: April 2020
@@ -76,7 +76,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 * HalfStack Vienna: September 2019 [Video](https://halfstackconf.streameventlive.com/embed/60)
 * South West IoT Network Launch: September 2019
 * ProductTank Exeter: September 2019 [Video](https://www.youtube.com/watch?v=YHLJK2dNehs)
-* Software Cornwall GamePlay: Host / Organiser: September 2019
+* Tech Cornwall GamePlay: Host / Organiser: September 2019
 * Agile Huddle - Mentor: August 2019
 * Pitch Up at the Pad - Host: July 2019
 * Agile on the Beach: July 2019 [Video](https://www.youtube.com/watch?v=oxXgZsADwPM)
@@ -87,7 +87,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 * Future Sync Conference - Host / Organiser: April 2019
 * Plymouth University Science and Engineering Networking Event: March 2019
 * Digital Plymouth: February 2019
-* Software Cornwall Tech Connect Meetup - Host / Organiser : February 2019
+* Tech Cornwall Tech Connect Meetup - Host / Organiser : February 2019
 
 ### 2018
 
@@ -98,7 +98,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 * Web Dev Conf: October 2018
 * Plymouth University - Guest Lecture: September 2018
 * Kernow DAT - Organiser / Speaker: September 2018
-* Software Cornwall Tech Connect - Organiser / Speaker: September 2018
+* Tech Cornwall Tech Connect - Organiser / Speaker: September 2018
 * Tech South West - Tech Nation comes to the South West: September 2018
 * Tech Exeter Conference: September 2018
 * Mission to Mars - Workshop Host / Organiser: July 2018

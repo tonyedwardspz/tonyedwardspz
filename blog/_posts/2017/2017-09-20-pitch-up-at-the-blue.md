@@ -3,12 +3,12 @@ title: Pitch Up at the Blue
 image: /assets/images/import/2017/09/pitch-up.jpeg
 tag:
   - Public Speaking
-  - Software Cornwall
+  - Tech Cornwall
   - Event
 ---
-Last week I was invited to give a short talk at the first ever Pitch Up event. With so many amazing organisations in the county, the event was a chance to share ideas amongst the extended Software Cornwall family. Hosted at the Blue Bar in Porthtowan, the rugged coastline offered the perfect back drop to an afternoon of rapid fire presentations.
+Last week I was invited to give a short talk at the first ever Pitch Up event. With so many amazing organisations in the county, the event was a chance to share ideas amongst the extended Tech Cornwall family. Hosted at the Blue Bar in Porthtowan, the rugged coastline offered the perfect back drop to an afternoon of rapid fire presentations.
 
-Working in Education Outreach with Software Cornwall, a large part of the role is helping businesses, education institutions and digital communities connect. Naturally, the talk focused upon this topic, and was an attempt to get the room excited about the programme we are rolling out over the coming years. Part of the talk invited the audience to discuss their interpretation of ‘Innovation in Digital Education’. Whilst I had a few shared with me after the pitches were over, I’m excited to receive more of the audience's ideas in the coming days.
+Working in Education Outreach with Tech Cornwall, a large part of the role is helping businesses, education institutions and digital communities connect. Naturally, the talk focused upon this topic, and was an attempt to get the room excited about the programme we are rolling out over the coming years. Part of the talk invited the audience to discuss their interpretation of ‘Innovation in Digital Education’. Whilst I had a few shared with me after the pitches were over, I’m excited to receive more of the audience's ideas in the coming days.
 
 ![Pitch Up at the Blue](/assets/images/import/2017/09/pitch-up.jpeg){:loading="lazy"}
 

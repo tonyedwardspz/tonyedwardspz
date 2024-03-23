@@ -27,4 +27,4 @@ If the current browser does not support this feature, these tags will simply be 
 
 To find out more about this feature, be sure to check out the [MSDN docs flip ahead page](https://msdn.microsoft.com/en-us/library/jj883726(v=vs.85).aspx "Flip Ahead").
 
-That&#8217;s it for page flipping. If you have any problems or questions about this short tutorial, feel free to get in touch with me on [Twitter](https://twitter.com/tonyedwardspz "Tony Edwards Software Cornwall").
+That&#8217;s it for page flipping. If you have any problems or questions about this short tutorial, feel free to get in touch with me on [Twitter](https://twitter.com/tonyedwardspz "Tony Edwards Cornwall Software Developer").

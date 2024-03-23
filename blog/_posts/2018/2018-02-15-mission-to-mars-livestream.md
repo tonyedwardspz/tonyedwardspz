@@ -2,7 +2,7 @@
 title: Mission to Mars Livestream
 tag:
     - YouTube
-    - Software Cornwall
+    - Tech Cornwall
     - Mission to Mars
 youtube: e1yZGBNeRSM
 ---

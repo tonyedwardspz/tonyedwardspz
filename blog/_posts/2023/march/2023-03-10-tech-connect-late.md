@@ -1,12 +1,12 @@
 ---
 title: Tech Connect Late
 tag:
-    - Software Cornwall
+    - Tech Cornwall
     - Networking
 image: "/assets/images/2023/tech-connect-late.jpg"
 ---
 
-Last night was the first of a new event for Software Cornwall. It was nice to be there and hear from the trio of speakers and chat with some old and new acquaintances from the local tech industry.
+Last night was the first of a new event for Tech Cornwall. It was nice to be there and hear from the trio of speakers and chat with some old and new acquaintances from the local tech industry.
 
 ![Olaf discusses floating wind turbines](/assets/images/2023/olaf.jpg "Olaf"){:loading="lazy"}
 

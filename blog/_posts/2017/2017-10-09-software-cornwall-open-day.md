@@ -1,17 +1,17 @@
 ---
-title: Software Cornwall Open Day
+title: Tech Cornwall Open Day
 image: /assets/images/import/2017/09/open-day-1.jpeg
 tag:
-  - Software Cornwall
+  - Tech Cornwall
   - Plymouth University
 ---
 
-On the 9th October, I was honored to host the Software Cornwall open day, in partnership with Plymouth University’s School of Computing and Pool Innovation Centre. The day aimed to showcase Cornwall as a thriving tech hub and to become graduating students first choice of place to work post studies. With massive growth expected within the sector in the years to come, retaining skilled graduates underpins the long term success of this expansion.
+On the 9th October, I was honored to host the Tech Cornwall open day, in partnership with Plymouth University’s School of Computing and Pool Innovation Centre. The day aimed to showcase Cornwall as a thriving tech hub and to become graduating students first choice of place to work post studies. With massive growth expected within the sector in the years to come, retaining skilled graduates underpins the long term success of this expansion.
 Over the morning, the students were invited into the offices of a variety of software businesses in order to experience life in the industry. Visits included N-Coders, Headforwards, LumiraDX, Everest Media. The delegates were able to chat with developers, learn about the tools and processes that the companies used and to beta test in development software. As an added bonus, Buzz Interactive travelled from Newquay to showcase their amazing work with Virtual Reality (VR). For many of the visitors, it was the first experience of VR and opened their eyes to the potential of the technology.
 
 ![Buzz interactive showcase their VR work](/assets/images/import/2017/09/open-day-2.jpeg){:loading="lazy"}
 
-After the visits, the doors were opened to the wider Software Cornwall family for lunch, lightning talks and networking. The week previous, I had delivered a guest lecture at the University focused upon the benefits of a strong network. Included was an interactive workshop based around introductions and elevator pitches for networking environments. During my recent studies a real enjoyment of meeting new people developed. This, in turn, opened a world of opportunities once it came time to find a job. Highlighting this to students was hoped to help their long term prospects, and give them an extra couple years to build a network. Well….. for those that took action at least.
+After the visits, the doors were opened to the wider Tech Cornwall family for lunch, lightning talks and networking. The week previous, I had delivered a guest lecture at the University focused upon the benefits of a strong network. Included was an interactive workshop based around introductions and elevator pitches for networking environments. During my recent studies a real enjoyment of meeting new people developed. This, in turn, opened a world of opportunities once it came time to find a job. Highlighting this to students was hoped to help their long term prospects, and give them an extra couple years to build a network. Well….. for those that took action at least.
 
 ![Students discover Agile development practices at LumiraDX.](/assets/images/import/2017/09/open-day-2.jpeg){:loading="lazy"}
 

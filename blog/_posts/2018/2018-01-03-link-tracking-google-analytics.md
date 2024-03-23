@@ -7,10 +7,10 @@ tag:
 
 Testing assumptions is key to an effective, iterative cross platform marketing campaign. Understanding how users are navigating their way through the website and interacting with content. The starting point of the journey is often a social media or newsletter campaign, and the numbers of users coming through different platforms and campaigns is a key indicator of the success of both individual posts and the wider campaigns.
 
-As part of the campaign Software Cornwall has planned, being able to distinguish between different social networks for the promotion of one piece of content. Thankfully, the site already uses google analytics, meaning we can plug into the UTM parameters to highlight certain incoming traffic.
+As part of the campaign Tech Cornwall has planned, being able to distinguish between different social networks for the promotion of one piece of content. Thankfully, the site already uses google analytics, meaning we can plug into the UTM parameters to highlight certain incoming traffic.
 
 ```
-https://www.softwarecornwall.org/falmouth-university-games-academy-visit/?utm_source=twitter&utm_medium=social&utm_campaign=digital_gurus
+https://techcornwall.co.uk/falmouth-university-games-academy-visit/?utm_source=twitter&utm_medium=social&utm_campaign=digital_gurus
 ```
 
 The three parameters shown here are:

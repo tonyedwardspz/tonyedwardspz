@@ -8,7 +8,7 @@ tag:
 
 Every time the tumble dryer beeps, I think of a story told at a networking event hosted by EPIC.
 
-It was in a community hall in Liskeard some time in the before days. I was there to broadcast a talk by a Software Cornwall member onto the organisations Facebook account. The network connection let us down on this outing, but the speakers didn't.
+It was in a community hall in Liskeard some time in the before days. I was there to broadcast a talk by a Tech Cornwall member onto the organisations Facebook account. The network connection let us down on this outing, but the speakers didn't.
 
 One story focused around smart plugs. As part of a pilot, an Alexa plus a bunch of smart plugs and lights had been given out to a handful of people. The protagonist from a particularly memorable story managed to substantially changed the quality of their life. All thanks to a single plug.
 
