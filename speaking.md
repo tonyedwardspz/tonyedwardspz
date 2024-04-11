@@ -6,13 +6,19 @@ layout: page
 
 I really enjoy speaking at meetups and conferences for digital folk as well as hosting workshops. 
 
-Meetup talks are typically fast-paced, entertaining (hopefully), and generally a little different from the majority of sessions.
+Talks are typically fast but well-paced, entertaining (hopefully), and generally a little different from the majority of sessions.
 
-A current favorite talk to deliver is MIDI Birds, another adventure in web browser wonderland. Starting with the 400 item bird song data set recorded during the Covid-19 pandemic, I take the audience on a multimedia journey that includes a history of MIDI, two interactive demos, a body-mounted target, and a rainbow wig.
+A current favorite talk to deliver is MIDI Birds, another adventure in web browser wonderland . . . and more recently in MAUI. Starting with the 400 item bird song data set recorded during the Covid-19 pandemic, I take the audience on a multimedia journey that includes a mix of the history of MIDI, a handful of interactive demos, a body-mounted target, plus a rainbow wig.
 
 [Get in touch](https://tonyedwardspz.co.uk/contact/) if you'd like me to speak at your event.
 
 ## Past, present, and future speaking experience.
+
+### 2024
+
+* Southwest Dotnet - Speaker: June 2024
+* CityJS - Speaker: April 2024 [Video](https://www.youtube.com/live/dDUwsJQ_Nu4?si=nxHUXs5eElNFYMif&t=16083)
+* Plymouth Web - Lightning Talk: March 2024
 
 ### 2023
 
@@ -29,7 +35,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 * Truro & Penwith College - Guest Lecture: November 2022
 * Tech Connect - 99 Second Speaker: October 2022
 * Tech Exeter Conference - Speaker: September 2022
-* Agile on the Beach- Speaker: July 2022
+* Agile on the Beach- Speaker: July 2022 [Video](https://www.youtube.com/watch?v=OI5iaQS-7gE)
 * HalfStack Newquay - Speaker: July 2022
 * Plymouth Web - Speaker: May 2022
 * Tech Connect - 99 Second Speaker: May 2022
