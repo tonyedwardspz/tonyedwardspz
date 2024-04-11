@@ -6,7 +6,7 @@ tag:
 youtube: live/dDUwsJQ_Nu4?si=nxHUXs5eElNFYMif&t=16083
 ---
 
-April 5th saw the [CityJS](https://cityjsconf.org/) community descend on London's Royal Geographic Society for 2024's rendition of the community JavaScript conference. It was an awesome day of talks, workshops, and conversation that culminated in my favourite ever take-home message from an event.
+April 5th 2024 saw the [CityJS](https://cityjsconf.org/) community descend on London's Royal Geographic Society for 2024's rendition of the community JavaScript conference. It was an awesome day of talks, workshops, and conversation that culminated in my favourite ever take-home message from an event.
 
 The day started with a gentle stroll to the venue, taking in the sights of Kensington Park. In keeping with the bird theme of the talk being delivered later that day, I managed to record my first ever parakeet. . . a welcome addition to the MIDI Birds dataset.
 
