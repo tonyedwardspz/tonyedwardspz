@@ -3,7 +3,7 @@ title: CityJS Trip
 tag:
     - Conference
     - Public Speaking
-youtube: live/dDUwsJQ_Nu4?si=nxHUXs5eElNFYMif&t=16083
+youtube: dDUwsJQ_Nu4?si=9r0hxlv0VK8_l0fi&amp;start=16147
 ---
 
 April 5th 2024 saw the [CityJS](https://cityjsconf.org/) community descend on London's Royal Geographic Society for 2024's rendition of the community JavaScript conference. It was an awesome day of talks, workshops, and conversation that culminated in my favourite ever take-home message from an event.
@@ -32,7 +32,7 @@ The conference closed with a great sentiment from Jason.
 
 ![Jason speaking at CityJS](/assets/images/2024/city-js-jason.jpg "Have fun. Life is too short"){:loading="lazy"}
 
-My contribution to the day seemed well received by the audience. By the end of the talk, there were healthy chuckles rippling throughout the room, and I can guarantee it contained the loudest moments of the day. As the after lunch slot, the aim is always to energise the crowd a little. I think this quote from [Sara Viera](https://sara.fail/) says it best:
+[My contribution to the day](https://www.youtube.com/live/dDUwsJQ_Nu4?si=nxHUXs5eElNFYMif&t=16083) seemed well received by the audience. By the end of the talk, there were healthy chuckles rippling throughout the room, and I can guarantee it contained the loudest moments of the day. As the after lunch slot, the aim is always to energise the crowd a little. I think this quote from [Sara Viera](https://sara.fail/) says it best:
 
 > Everyone's more excited now. . . or just more awake because of all the screaming!
 
