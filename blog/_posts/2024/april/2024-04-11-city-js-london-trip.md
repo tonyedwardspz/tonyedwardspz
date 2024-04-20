@@ -20,7 +20,7 @@ Of the talks I did see, a few stood out. Roy Derks gave a high level run through
 
 ![Roy Derks at CityJS 2024](/assets/images/2024/city-js-roy-derks.jpg "Roy Derks talking about AI"){:loading="lazy"}
 
-Daniel Row's talk on upcoming features gave some insight in the future of Nuxt, which is soon to appear in my Open Source coding path. 
+Daniel Roe's talk on upcoming features gave some insight in the future of Nuxt, which is soon to appear in my Open Source coding path. 
 
 ![Daniel Roe talking about NUXT 4](/assets/images/2024/city-js-daniel-roe.jpg "Daniel Roe speaking at CityJS 2024"){:loading="lazy"}
 
