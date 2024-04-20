@@ -21,7 +21,6 @@ post-advance-links: [blog]
 
 plugins:
   - jekyll-seo-tag
-  - jemoji
   - jekyll-paginate
   - jekyll-default-layout
 
@@ -31,7 +30,6 @@ plugins_dir:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
