@@ -6,7 +6,11 @@ layout: default
     <header class="header-home">
 
         <a class="link" href="{{ site.url }}/about">
-            <img class="selfie" alt="{{ site.name }}" height="175px" width="175px" src="{{ site.url }}/{{ site.picture }}" />
+            <picture>
+                <source srcset="{{ site.url }}/{{ site.picture-webp }}" type="image/webp" height="175px" width="175px" class="selfie">
+                <source srcset="{{ site.url }}/{{ site.picture }}" type="image/jpeg" height="175px" width="175px" class="selfie"> 
+                <img src="{{ site.url }}/{{ site.picture }}" alt="{{ site.name }} Headshot" height="175px" width="175px" class="selfie">
+            </picture>
         </a>
 
         <h1 class="title">{{ site.name }}</h1>

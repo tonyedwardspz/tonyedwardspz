@@ -1,6 +1,7 @@
 name: Tony Edwards
 bio: Doer of things
 picture: assets/images/headshot.jpg
+picture-webp: assets/images/headshot.webp
 description: A curation of learnings, musings and similarly captured day dreams.
 
 url: https://tonyedwardspz.co.uk
@@ -13,15 +14,13 @@ linkedin: tonyedwardspz
 youtube: UCeUTkW7-_b0vbhV04SRb_2A
 github: tonyedwardspz
 stackoverflow: 3194491/tonyedwardspz
-medium: tonyedwardspz
 
-paginate: 12
+paginate: 18
 paginate_path: "blog/:num/"
 post-advance-links: [blog]
 
 plugins:
   - jekyll-seo-tag
-  #- jekyll-feed
   - jemoji
   - jekyll-paginate
   - jekyll-default-layout
