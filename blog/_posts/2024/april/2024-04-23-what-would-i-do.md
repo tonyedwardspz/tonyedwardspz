@@ -15,7 +15,7 @@ You just haven't met them yet. So start.
 
 To get the most out of your network when you need it, and to be there for the people in yours, you need to build it. 
 
-- Using social media, find the people working at the company you'd like to work with. Engage with them. As in genuinely engage. . . not just a like or two. Make meaningful comments to build up rapport and get a proper feel for the work at the company. It'll make your use of social media more positive if nothing else.
+- Using [social media](https://tonyedwardspz.co.uk/blog/4-social-networks-every-student-developer-should-use/), find the people working at the company you'd like to work with. Engage with them. As in genuinely engage. . . not just a like or two. Make meaningful comments to build up rapport and get a proper feel for the work at the company. It'll make your use of social media more positive if nothing else.
 - Find events to attend, even if they're not specific to your industry. Get comfortable striking up conversations with strangers, swapping details, following up online after events. Don't wait for the perfect event to do this for the first time.
 
 2) Spend the summer building your portfolio / personal website
@@ -47,3 +47,7 @@ In a similar vein, if you aren't comfortable with git yet. . . [get comfortable]
 If you thought year two was tough, year three is tougher. There's good reason why it's weighted more strongly than the second year when final grades are calculated.
 
 Step outside. Get some sun on your skin. Spend time with friends. Catch up with your family. You're going to spend so much time in front of a computer in the year ahead. Make the most of being able to step away from it without having an assignment nagging in the back of your brain.
+
+5) Bonus
+
+A few years ago, [I collated advice I'd been given](https://tonyedwardspz.co.uk/blog/words-of-wisdom/). It all still stands ture.
