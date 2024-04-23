@@ -5,6 +5,7 @@ tag:
   - Tutorial
   - Social Media
   - Student
+affiliate: true
 ---
 <span style="font-weight: 400;">Sharing is one of the greatest abilities that the web affords us. It’s the cornerstone of the internet and the reason that it was created in the first place.</span>
 
