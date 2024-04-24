@@ -1,7 +1,9 @@
 ---
 title: 
 tag:
-    - Hybrid
+    - Work Life
+    - Commuting
+    - Train Journey
 image: /assets/images/2024/the-bay.jpg
 ---
 
