@@ -5,6 +5,7 @@ tag:
     - Commuting
     - Train Journey
 image: /assets/images/2024/the-bay.jpg
+linkedin: https://www.linkedin.com/posts/tonyedwardspz_a-6hr-round-trip-for-a-coffee-you-cant-activity-7188774797235863552-_ffb
 ---
 
 A 6-hour round trip for a coffee. 
