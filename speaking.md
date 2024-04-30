@@ -16,7 +16,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ### 2024
 
-* Southwest Dotnet - Speaker: June 2024
+
 * CityJS - Speaker: April 2024 [Video](https://www.youtube.com/live/dDUwsJQ_Nu4?si=nxHUXs5eElNFYMif&t=16083)
 * Plymouth Web - Lightning Talk: March 2024
 
