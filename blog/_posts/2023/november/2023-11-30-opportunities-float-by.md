@@ -1,7 +1,7 @@
 ---
 title: Opportunities floating by
 tag:
-    - Work life
+    - Work Life
 ---
 
 Today is the closing date for an opportunity which is mine for the taking. It's a fun opportunity, one that comes with both tangible and intrinsic rewards.
