@@ -6,7 +6,7 @@ tag:
 
  It felt like a strange question. 
 
-The morning had been spent writing software. Whilst Heading to a web developer meet-up that evening, a tech startup was helped to solve a burning issue en-route.. After the meet-up, another contribution to open source software was made. 
+The morning had been spent writing software. Whilst heading to a web developer meet-up that evening, a tech startup was helped to solve a burning issue en-route. After the meet-up, another contribution to open source software was made. 
 
 The following day was to be spent planning the academic offer for hundreds of software engineering students, whilst supporting a different startup in the breaks. Any downtime over those travelling days was spent upping my c++ skills or tinkering on a client project. The entertainment for the voyage was served from a self hosted server. Spare moments filled with reading up on latest developments within deeply technical topics.
 
