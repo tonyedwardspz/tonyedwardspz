@@ -15,4 +15,4 @@ In the rush to get my ideas outta my head, my hands have to move far quicker is 
 
 As a result, as soon as I had control over the choice of paper, I removed the lines and never looked back . . . apart from the occasional flick through 20+ years worth of notebooks.
 
-It's always a pleasure to read through ideas, project notes, and plans freed from the tyranny of lines.
+It's always a pleasure to read through ideas, project notes, and plans freed from the constrains of two lines.

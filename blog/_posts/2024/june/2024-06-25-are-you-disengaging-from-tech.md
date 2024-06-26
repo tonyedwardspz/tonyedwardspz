@@ -14,7 +14,7 @@ I certainly don't feel disengaged from the industry. In fact I'm swimming in the
 
 So why did it come up?
 
-The conversation in question was about delivering remote training to a small group of new entrants into the industry. In this instance the work was politely turned down, with fairly noncommittal responses to connected opportunities.
+The conversation in question was about a potential project. In this instance, the work was politely turned down. In the following conversation, our original question was posed.
 
 That doesn't mean I'd disengaged from Tech.
 
