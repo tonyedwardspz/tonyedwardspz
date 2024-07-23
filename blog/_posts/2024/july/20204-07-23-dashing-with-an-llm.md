@@ -23,4 +23,4 @@ Over two days I managed to rebuild the entire dashboard from the ground up, impr
 
 Suitably impressed!
 
-It was also nice to make another contribution to the open source(ish) eco-system, and to help keep the Tech Cornwall Mission to Mars education program ticking over.
+It was also nice to make [another contribution to the open source(ish) eco-system](https://tonyedwardspz.co.uk/blog/implementing-good-advice/), and to help keep the Tech Cornwall Mission to Mars education program ticking over.
