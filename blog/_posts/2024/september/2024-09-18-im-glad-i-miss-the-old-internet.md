@@ -3,6 +3,7 @@ title: I'm glad I miss the '90s-00s internet
 tag:
     - Internet Garden
 reply: https://rohan.ga/blog/early-internet/
+hackerNews: https://news.ycombinator.com/item?id=41576887
 ---
 
 A reply to [I Wish I Didn't Miss the '90s-00s Internet](https://rohan.ga/blog/early-internet/).
@@ -67,7 +68,7 @@ Just remember. [Geocities went away](https://medium.com/@thegeocitiesarchive/geo
 
 The 90's-00's generation remembers when Google, Twitter, Facebook, Reddit, Instagram et.al. were the altruistic output of a generation that grew up with the prototypal internet. Today, these platforms are seemingly collapsing under the weight of greed and shareholder expectations.
 
-It's easy to feel that it all went wrong somewhere. To be fair, it has by some measures. You might not yet realise the [source of the fire](https://notes.kateva.org/2013/04/the-net-is-forest-it-has-fires.html?m=1) of our platform based woes. But as soon as you begin to ignore social media, you'll find things have never been better. The whole isn't worse, it's just that the platforms you grew up alongside have morphed out of recognition and no longer serve your interests.
+It's easy to feel that it all went wrong somewhere. To be fair, it has by some measures. You might not yet realise the [source of the fire](https://notes.kateva.org/2013/04/the-net-is-forest-it-has-fires.html?m=1) of our platform based woes. You may be to entrenched to [spot the wider problem](https://whatleydude.com/2012/12/11/the-pressure-of-immediacy/). But as soon as you begin to ignore social media, and consider online privacy, you'll find things have never been better. The whole isn't worse, it's just that the platforms you grew up alongside have morphed out of recognition and no longer serve your interests.
 
 Thankfully, you've spotted this at a young age. 
 
