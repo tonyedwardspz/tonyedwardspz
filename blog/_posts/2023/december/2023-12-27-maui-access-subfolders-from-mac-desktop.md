@@ -1,7 +1,7 @@
 ---
 title: Maui MacCatalyst app - Access folders and sub folders on desktop
 tag:
-    - dotnet Maui
+    - dotnet MAUI
 ---
 
 For the .NET Maui application I'm currently building, I need to cycle through folders and list out the contents on windows and Mac. Windows was straight forward to get working, however Mac needed a little more work.
