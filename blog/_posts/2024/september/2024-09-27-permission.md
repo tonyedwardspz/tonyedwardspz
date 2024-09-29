@@ -7,13 +7,20 @@ youtube: JmVsfQF4m6Y
 
 [Verse 1]  
 I learned at a real young age if I sat down and pouted, I'd be there for days  
-Smile big when they hold that shit against you, sad people can't imagine what I've been through  
-I won't apologize for being positive, I'll no longer explain myself to novices  
-So pardon me if I wanna crack a joke, rather than sit around and point at holes in boat  
-Put it on my grave that I went out laughing, dancing, only way to celebrate the madness  
-My whole life's been a ball of shit, at dinner eating popcorn like this is all I get?  
-I'm a one of a kind bright mind, I am beautiful, complex, shine let me shine  
-When I'm not laughing I'm crying, like when I'm not living I'm dying, mother fucker I'm trying  
+Smile big when they hold that shit against you,  
+Sad people can't imagine what I've been through  
+I won't apologize for being positive,  
+I'll no longer explain myself to novices  
+So pardon me if I wanna crack a joke,  
+Rather than sit around and point at holes in my boat  
+Put it on my grave that I went out laughing,  
+Dancing, only way to celebrate the madness  
+My whole life's been a ball of shit,  
+At dinner eating popcorn like this is all I get?   
+I'm a one of a kind bright mind,  
+I am beautiful, complex, shine let me shine  
+When I'm not laughing I'm crying,  
+Like when I'm not living I'm dying, mother fucker I'm trying  
 
 
 [Chorus 2x]  
@@ -42,8 +49,10 @@ I'm me till death do us part, don't tell me what's right
 
 
 (2X)  
-This is what I do best, ain't gunna apologize or watch my steps  
-They say I got pride, it's on my breath, well pardon me for thinking there's not much left  
+This is what I do best,  
+ain't gunna apologize or watch my steps  
+They say I got pride, it's on my breath,  
+well pardon me for thinking there's not much left  
 
 
 Don't tell me how to breathe  

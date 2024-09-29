@@ -44,9 +44,9 @@ If this is your first time cooking porridge, note that this is a volume-based di
 
 ## Cooking instructions
 
-1) Put the oats, bran, germ, ground almonds, milk and water into the dish. Microwave for 60 seconds, stir and leave to stand for a few minutes. Stroke a cat.
-2) Blend the seeds and nuts into a coarse powder. Add the result, the sultanas and the spoonful of honey to the dish and stir well. Return to the microwave and cook for 30 seconds.
-3) Give it a good stir and enjoy.
+1) Put the oats, bran, germ, ground almonds, milk and water into the dish. Microwave for 60 seconds, stir and leave to stand for a few minutes. Stroke a cat.  
+2) Blend the seeds and nuts into a coarse powder. Add the result, the sultanas and the spoonful of honey to the dish and stir well. Return to the microwave and cook for 30 seconds.  
+3) Give it a good stir and enjoy.  
 
 Quite often, this process gets completed over a 15-minute timeframe. Leaving the ingredients to soak is a good thing to do for nutritional availability. You might need another 30 seconds in the microwave if you don't leave it to stand.
 

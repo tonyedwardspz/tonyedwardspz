@@ -1,7 +1,7 @@
 ---
 title: Ludicrous
 tag:
-    - 
+    - Observation
 ---
 
 Last night I took an impromptu trip to see "[Murder on the Orient Express](https://www.murderontheorientexpressplay.com)" for it's last show in the local theatre.

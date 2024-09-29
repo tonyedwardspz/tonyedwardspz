@@ -1,7 +1,7 @@
 ---
 title: Forgive me for my synapses
 tag:
-    - Hip-Hop
+    - Hip Hop
 ---
 
 

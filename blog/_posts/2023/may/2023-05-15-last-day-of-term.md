@@ -4,11 +4,11 @@ tag:
   - Teaching
 ---
 
-Today marks the tail end of my first year of teaching in an academic. My first 26 weeks of lectures and workshops will have been delivered at the end of today. It's been a fun experience that will continue to be a part of my professional mix long into the future.
+Today marks the tail end of my first year of teaching in an academic context. My first 26 weeks of lectures and workshops will have been delivered at the end of today. It's been a fun experience that will continue to be a part of my professional mix long into the future.
 
 ## Teaching is rewarding
 
-When a topic clicks, the spark in someone's eyes is one of my favourites in the world. I don't think that will 
+When a topic clicks, the spark in someone's eyes is one of my favourites in the world. I don't think that will every get old.
 
 ## There's more to good teaching than it looks
 

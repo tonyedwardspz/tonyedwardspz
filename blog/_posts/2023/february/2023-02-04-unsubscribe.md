@@ -8,10 +8,10 @@ Email is a thing to process. A key tool of modern communication that acts as a t
 
 Here's a rhyme to convince you to develop a dearth in your inbox.
 
-I urge you to reclaim your attention. To unsubscribe from everything. 
-Siting watching messages pass, fleeting thoughts become their offspring. 
-If it doesn't make you smile. If it ever gets you riled, hit unsubscribe. 
-If it doesn't add value or doubles down to sell you, hit unsubscribe. 
+I urge you to reclaim your attention. To unsubscribe from everything.  
+Siting watching messages pass, fleeting thoughts become their offspring.  
+If it doesn't make you smile. If it ever gets you riled, hit unsubscribe.  
+If it doesn't add value or doubles down to sell you, hit unsubscribe.  
 
 It's terrible. Both the rhyme and the amount of focus we loose to our inboxes are modern day travesties. It's not about how many messages are in our inbox, but how much of our head exists within it.
 

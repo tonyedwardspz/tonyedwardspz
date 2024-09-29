@@ -1,7 +1,7 @@
 ---
 title: Trust the Process
 tag:
-    - Hip-Hop
+    - Hip Hop
 ---
 
 Really diggin' [this song by Snak The Ripper](https://www.youtube.com/watch?v=JdR7RjdK7sE) at the moment:
