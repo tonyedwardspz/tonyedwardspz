@@ -13,7 +13,7 @@ This built up trust over the years. When the company behind WordPress bought oth
 
 The recent shenanigans between [Matt](https://arstechnica.com/tech-policy/2024/10/automattic-demanded-web-host-pay-32m-annually-for-using-wordpress-trademark/), [Automattic](https://automattic.com/2024/10/03/meritless/), and [WP Engine](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) broke that trust. Not to the extent that I won't be using the products any more, or even looking to move away from them, but being an Automattic product isn't a mental shortcut anymore. 
 
-Reading the legal documents flying around is entertaining from the outside, but the situation doesn't sit right with me. An free and open source product shouldn't be putting the eco-system around it through this. In fact, it should be doing the opposite. This isnt about the battle between the two organisations, it's much bigger than than.
+Reading the legal documents flying around is entertaining from the outside, but the situation doesn't sit right with me. An free and open source product shouldn't be putting the eco-system around it through this. In fact, it should be doing the opposite. This isnt about the battle between the two organisations, it's much bigger than that.
 
 Today, WordPress is a hammer. 
 
