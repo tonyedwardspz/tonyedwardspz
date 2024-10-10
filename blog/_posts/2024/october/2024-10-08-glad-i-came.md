@@ -16,6 +16,8 @@ Given the hotel is ~100 metres from the train station, and only the obvious land
 
 Of course, it was nice to catch up with a few folks from conferences in years gone by. It's interesting to hear how the conference scene has changed on the continent post covid. It feels like Europe's tech scene hasn't taken quite the hit the UK's has. . . or at least the South West of it. Which is unsurprising. I'd never realised how easy it is to move around the mainland.
 
-Unfortunatly, Paris is on my partners bucket list, so I probably will be back.
+Unfortunately, Paris is on my partners bucket list, so I probably will be back. 
+
+With a little more planning, and a prior knowledge of what to expect, hopefully I'll enjoy it more.
 
 Favourite part, besides the catch-ups. . . being sat in a cafe people watching, writing this while waiting to leave.
