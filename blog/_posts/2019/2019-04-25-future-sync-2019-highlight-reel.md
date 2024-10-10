@@ -4,5 +4,6 @@ tag:
     - YouTube
     - Future Sync
     - Conference
+    - Event
 youtube: Sy4Fv4U32e8
 ---

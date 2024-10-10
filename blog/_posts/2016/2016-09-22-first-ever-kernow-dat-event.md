@@ -5,6 +5,7 @@ tag:
   - Event
   - Kernow DAT
   - Meetup
+  - Event
 ---
 <span style="font-weight: 400;">Last week, with a little help from my friends, I held an event in Penzance called ‘An evening for the digitally curious’ under the <a href="https://kernowdat.co.uk">Kernow DAT</a> banner. The meetup celebrated&nbsp;all things digital in the world of development, technology and art in Cornwall. It saw over 60 people descend on&nbsp;<a href="http://theworkbox.com/">The Workbox</a> in Penzance from as far as Exeter for an evening enjoying the finest Cornish beers, homemade pasties and plenty of conversation.</span>
 

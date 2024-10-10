@@ -1,11 +1,11 @@
 ---
 title: A Distributed Future Sync Conference Story
 tag:
-- Future Sync
-- Conference
-- Happy Memories
-- Hybrid Work Life
-
+    - Future Sync
+    - Conference
+    - Happy Memories
+    - Hybrid Work Life
+    - Event
 ---
 
 4 hours have passed.
