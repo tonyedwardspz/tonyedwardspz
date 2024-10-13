@@ -14,7 +14,7 @@ Half a decade later, I'm still suffering the consequence of speaking (and rappin
 
 Of course, they didn't know and I carried on.
 
-The result is nothing debilitating. Nothing that can't be worked around. And nothing so serious that it prevents public speaking today. But it is something that needs to be addressing regularly by avoiding projecting as much as possible in the run up to any kind of talk or lecture. If the day prior involved a lot of talking, particularly in loud environments, I need a vocal warm up early the next day. . . just to be able to speak in more than a soft voice.
+The result is nothing debilitating. Nothing that can't be worked around. And nothing so serious that it prevents public speaking today. But it is something that needs to be addressing regularly by avoiding projecting as much as possible in the run up to any kind of talk or lecture. If the day prior involved a lot of talking, particularly in loud environments, I need a vocal warm up early the next day. . . just to be able to speak in more than a soft voice. Thankfully, this isn't a show stoppper.
 
 Much to the delight of my partner, the cure ultimately involves shutting up for extended periods of time. First time around, over a stretch of a few months!
 
