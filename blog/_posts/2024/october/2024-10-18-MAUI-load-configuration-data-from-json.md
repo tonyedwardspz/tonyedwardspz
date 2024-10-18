@@ -10,13 +10,13 @@ Secrets shouldn't make it into your codebase, particularly if the code for your 
 
 But sometimes these approaches aren't quite right, or overkill for the situation.
 
-In this post, I'll walk you through an alternative way to load a config file into your dotnet MAUI application. By omitting the config file itself from git, your secrets are kept only on your device. This is perfect for situations where you need to load up a licence key, are only building the app on your device, and want to get something up and running quickly. In this instance, it's the key for the [SyncFusion MAUI Controls library](https://www.syncfusion.com/maui-controls).
+In this post, I'll walk you through an alternative way to load a config file into your dotnet MAUI application. By omitting the config file itself from git, your secrets are kept only on your device. This is perfect for situations where you need to load up a licence key, are only building the app on your device, and want to get something up and running quickly. In this instance, it's the key for the [Syncfusion MAUI Controls library](https://www.syncfusion.com/maui-controls).
 
 Firstly, add a `config.json` file into `/Resources/Raw/` to hold any configuration data needing within your MAUI application.
 
 ``` json
 {
-  "SyncFusionLicence": "a-licence-key"
+  "SyncfusionLicence": "a-licence-key"
 }
 ```
 
@@ -45,7 +45,7 @@ public static class ConfigHelper
 
 public class Config
 {
-    public string? SyncFusionLicence { get; set; }
+    public string? SyncfusionLicence { get; set; }
 }
 ```
 
@@ -73,7 +73,7 @@ public static class ConfigHelper
 
 Here we're loading the json file which matches the passed string, before parsing it as a Config object and returning it. This object now contains anything in our `config.json`. All that's left to do is to use it.
 
-In the context of the SyncFusuion MAUI controls library, the following is within the `app.xaml.cs` class, but the same principle applies from anywhere in your app.
+In the context of the Syncfusuion MAUI controls library, the following is within the `app.xaml.cs` class, but the same principle applies from anywhere in your app.
 
 ```c#
 using My_Project.Helpers;
@@ -87,7 +87,7 @@ public partial class App : Application
     public App()
 	{
         Config = ConfigHelper.LoadConfig("appsettings.json").Result;
-        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense(Config.SyncFusionLicence);
+        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense(Config.SyncfusionLicence);
 
         // other code
 	}
@@ -99,9 +99,9 @@ In this code, we have:
 - Included the helper class created earlier
 - Created a variable of type Config to hold our configuration data in
 - Called our helper method to load the data
-- Passed this into the `SyncFusionLicenceProvider` to register our licence
+- Passed this into the `SyncfusionLicenceProvider` to register our licence
 
-If you're using this to allow you to work with the SyncFusion Controls Library, be sure to include the licensing package in your `.csproj` file.
+If you're using this to allow you to work with the Syncfusion Controls Library, be sure to include the licensing package in your `.csproj` file.
 
 ```xaml
 <PackageReference Include="Syncfusion.Licensing" Version="27.1.53" />
