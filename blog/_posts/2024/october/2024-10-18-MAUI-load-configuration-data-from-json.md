@@ -107,6 +107,6 @@ If you're using this to allow you to work with the Syncfusion Controls Library, 
 <PackageReference Include="Syncfusion.Licensing" Version="27.1.53" />
 ```
 
-There you have it. You've now loaded in some semi-secret configuration data into your app. If you're using the SyncFusion control library for dotnet MAUI, you're ready to begin build your user interface.
+There you have it. You've now loaded in some semi-secret configuration data into your app. If you're using the Syncfusion control library for dotnet MAUI, you're ready to begin build your user interface.
 
 Happy coding.
