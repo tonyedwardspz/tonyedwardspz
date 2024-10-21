@@ -3,6 +3,7 @@ title: Your MAUI schedule for .NET conf 2024
 tag:
     - dotnet MAUI
     - Conference
+image: /assets/images/2024/dotnet-conf-2024-maui-schedule.png
 ---
 
 The [.NET Conference](https://www.dotnetconf.net/) is just around the corner! 
