@@ -10,8 +10,8 @@ The image control that comes with MAUI is bundled with plenty of goodness, with 
 ```xaml
 <Image
 	x:Name="MyImage"
-	HorizontalOptions="FillAndExpand" 
-	VerticalOptions="FillAndExpand"
+	HorizontalOptions="Fill" 
+	VerticalOptions="Fill"
 	HeightRequest="200"
 	Aspect="AspectFill">
 	
