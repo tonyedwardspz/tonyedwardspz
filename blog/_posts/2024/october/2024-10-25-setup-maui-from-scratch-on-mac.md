@@ -1,6 +1,6 @@
 ---
 title: "Setup Maui from Scratch on Mac"
-tags:
+tag:
     - dotnet MAUI
 ---
 
