@@ -18,7 +18,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 * .NET Yorkshire - Speaker: June 2025
 * .NET Sheffield - Speaker: June 2025
-* CityJS Athens - Speaker: April 2025
+* CityJS Athens - Speaker: May 2025
 * .NET Birmingham - Speaker: March 2025
 * Tech Cornwall Showcase - Speaker: February 2025
 
