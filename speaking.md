@@ -8,7 +8,7 @@ I really enjoy speaking at meetups and conferences for digital folk as well as h
 
 Talks are typically fast but well-paced, entertaining (hopefully), and generally a little different from the majority of sessions.
 
-A current favorite talk to deliver is MIDI Birds, another adventure in web browser wonderland . . . and more recently in MAUI. Starting with the 400 item bird song data set recorded during the Covid-19 pandemic, I take the audience on a multimedia journey that includes a mix of the history of MIDI, a handful of interactive demos, a body-mounted target, plus a rainbow wig.
+A current favorite talk to deliver is MIDI Birds, another adventure in web browser wonderland . . . and more recently in .NET MAUI. Starting with the 500 item bird song data set recorded during the Covid-19 pandemic, I take the audience on a multimedia journey that includes a mix of the history of MIDI, a handful of interactive demos, a body-mounted target, plus a rainbow wig.
 
 [Get in touch](https://tonyedwardspz.co.uk/contact/) if you'd like me to speak at your event.
 
@@ -16,13 +16,16 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ### 2025
 
+* .NET Yorkshire - Speaker: June 2025
+* .NET Sheffield - Speaker: June 2025
 * CityJS Athens - Speaker: April 2025
-* .NET Birmingham - Speaker: TBC
+* .NET Birmingham - Speaker: March 2025
+* Tech Cornwall Showcase - Speaker: February 2025
 
 ### 2024
 
 * .NET Bristol - Lightning Talk: December 2024
-* CityJS - Speaker: April 2024 [Video](https://www.youtube.com/live/dDUwsJQ_Nu4?si=nxHUXs5eElNFYMif&t=16083)
+* CityJS London - Speaker: April 2024 [Video](https://www.youtube.com/live/dDUwsJQ_Nu4?si=nxHUXs5eElNFYMif&t=16083)
 * Plymouth Web - Lightning Talk: March 2024
 
 ### 2023
