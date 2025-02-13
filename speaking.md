@@ -21,7 +21,6 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 * CityJS Athens - Speaker: May 2025
 * Techorama - Speaker: May 2025
 * Leeds Sharp - Speaker: May 2024
-* Leeds JS - Speaker: May 2024
 * .NET North - Speaker: May 2024
 * MAUI Day UK - Organiser: March 2025
 * .NET Birmingham - Speaker: March 2025
@@ -30,7 +29,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ### 2024
 
-* .NET Bristol - Lightning Talk: December 2024
+* .NET South West - Lightning Talk: December 2024
 * CityJS London - Speaker: April 2024 [Video](https://www.youtube.com/live/dDUwsJQ_Nu4?si=nxHUXs5eElNFYMif&t=16083)
 * Plymouth Web - Lightning Talk: March 2024
 
