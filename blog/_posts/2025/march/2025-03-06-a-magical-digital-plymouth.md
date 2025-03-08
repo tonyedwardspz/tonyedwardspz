@@ -25,7 +25,7 @@ As a seasoned speaker, its not often I get to feel uncomfortable on stage. This 
 
 And trust me. . . a nylon Wizard outfit in a hot room is certainly uncomfortable!
 
-The jokes were cringeworthy judging by the groans. . . but you have Rendle's advice to blame for that. Not me. Whilst it fell short of being stand up, incorporating properly structured jokes was a challenge to write and deliver, allowing me to stretch my speaking skills in a new direction.
+The jokes were cringeworthy judging by the groans. . . but you have [Rendle's advice](https://tonyedwardspz.co.uk/blog/bristol-and-birmingham-dotnet-fun/) to blame for that. Not me. Whilst it fell short of being stand up, incorporating properly structured jokes was a challenge to write and deliver, allowing me to stretch my speaking skills in a new direction.
 
 Thankfully, after the recent Tech Cornwall Event and this Digital Plymouth gathering, the magical hat has had its last outing. 
 
