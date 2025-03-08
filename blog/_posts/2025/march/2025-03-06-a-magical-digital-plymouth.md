@@ -1,5 +1,5 @@
 title: A Magical Digital Plymouth
-tags:
+tag:
   - dotnet MAUI
   - event
   - public speaking
