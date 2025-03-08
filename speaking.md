@@ -25,7 +25,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 * MAUI Day UK - Organiser: March 2025
 * .NET Birmingham - Speaker: March 2025
 * Digital Plymouth - Speaker: March 2025
-* Tech Cornwall Showcase - Speaker: February 2025
+* The Big Cornwall Tech Showcase - Speaker: February 2025
 
 ### 2024
 
