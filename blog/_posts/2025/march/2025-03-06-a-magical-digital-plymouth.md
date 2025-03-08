@@ -1,3 +1,4 @@
+---
 title: A Magical Digital Plymouth
 tag:
   - dotnet MAUI
