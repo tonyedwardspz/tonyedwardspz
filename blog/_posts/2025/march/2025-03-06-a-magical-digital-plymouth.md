@@ -2,7 +2,7 @@
 title: A Magical Digital Plymouth
 tag:
   - dotnet MAUI
-  - event
+  - meetup
   - public speaking
   - digital plymouth
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7303777749180035072/
