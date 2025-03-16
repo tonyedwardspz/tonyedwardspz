@@ -14,7 +14,7 @@ It was your typical .NET Birmingham meetup. . . right?
   
 Huge thank you to everyone who came out last night and joined in the fun. You achieved that fabled state of awesomness, just like I knew you would. . . even though you seemed unsure at the outset 🤣 You made me feel super welcome, and the conversations that followed the meet were interesting, inspiring, and full of things to check out afterwards. Fab!  
   
-Massive thank you to Ryan for being our sacrificial Bruce for the night, with the group intermittently throw things at him during the talk. Evan (my surprise co-writer) particularly relished the opportunity. I've not seen eyes light up like that for quite some time! Well. . . until Pete had his turn 🎯  
+Massive thank you to Ryan for being our sacrificial Bruce for the night, with the group intermittently throwing things at him during the talk. Evan (my surprise co-writer) particularly relished the opportunity. I've not seen eyes light up like that for quite some time! Well. . . until Pete had his turn 🎯  
   
 David, Dave, Sam, and Adam were the perfect contestants. Sam had the best run ever for "Play your birds right" across all outings so far, which meant the audience didn't have to shout out that much at all!  
   

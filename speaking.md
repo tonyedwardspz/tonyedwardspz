@@ -16,6 +16,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ### 2025
 
+* London .NET User Group - Speaker: June 2025
 * .NET York - Speaker: June 2025
 * .NET Sheffield - Speaker: June 2025
 * CityJS Athens - Speaker: May 2025
@@ -84,7 +85,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 * Guest Lecture at Plymouth University: Feb 2020
 * Frontend Developer Love: Feb 2020 [Video](https://www.youtube.com/watch?v=x_L1eQT6TyA)
 * Digital Plymouth - Blockbusters Game host: Feb 2020
-* Book Penzance - Social Media Basics: Jan 2020
+* Book Penzance - Social Media 101: Jan 2020
 
 ### 2019
 
