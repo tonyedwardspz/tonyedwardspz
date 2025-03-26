@@ -5,7 +5,7 @@ tag:
     - dotnet MAUI
 ---
 
-The [vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) hysteria is sweeping the software development work. Proponents posit that anyone can throw together quality software and ship it. Whilst partially true, you don't have to skim socials for too long before you see examples of it going wrong. It's just too easy to screw something serious up, landing a huge cloud bill your lap as a result.
+The [vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) hysteria is sweeping the software development world. Proponents posit that anyone can throw together quality software and ship it. Whilst partially true, you don't have to skim socials for too long before you see examples of it going wrong. It's just too easy to screw something serious up, landing a huge cloud bill your lap as a result.
 
 Whilst hesitant to be absorbed by the hype, I am fond of my co-pilot buddy and the upwards nudge in productivity that comes along with it. It's not always enabled, partially due to the framework I work with day to day, but it is most of the time. There's also a bunch of people who I've met on the speaking circuit whose opinions I take seriously and talk very positively about this way of approaching development.
 
