@@ -20,7 +20,7 @@ paginate_path: "blog/:num/"
 post-advance-links: [blog]
 
 # SEO-Tag Overrides
-# locale: en_GB
+locale: en_GB
 
 
 plugins:
