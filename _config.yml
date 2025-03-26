@@ -19,6 +19,10 @@ paginate: 18
 paginate_path: "blog/:num/"
 post-advance-links: [blog]
 
+# SEO-Tag Overrides
+# locale: en_GB
+
+
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
