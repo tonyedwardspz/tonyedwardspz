@@ -4,6 +4,7 @@ tag:
     - Event
     - Conference
 image: /assets/images/2025/city-js-2025.jpg
+linkedin: https://www.linkedin.com/posts/tonyedwardspz_javascript-activity-7322187455221161985-PkRl
 ---
 
 Once. Twice. Three times a community. . . event.
