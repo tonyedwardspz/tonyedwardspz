@@ -1,5 +1,5 @@
 ---
-title: Once, Twice, Three times a commuuniity (event)
+title: Once, Twice, Three times a community (event)
 tag:
     - Event
     - Conference
