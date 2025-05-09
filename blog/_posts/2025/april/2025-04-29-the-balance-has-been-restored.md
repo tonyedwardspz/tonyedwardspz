@@ -17,7 +17,7 @@ They've been the perfect counter weight to the three years of education the inst
 
 To say this place changes lives is an understatement.
 
-To think I've been a part of that for others is slightly overwhelming.
+To think I've been a part of that for others is ever so slightly overwhelming.
 
 I'll always be grateful to Shirley for the initial opportunity to return, and to JJ for the mentoring and support ever since. And massive apologies to Rory for all the last minute marking moderation. . . just one left 🤣
 
