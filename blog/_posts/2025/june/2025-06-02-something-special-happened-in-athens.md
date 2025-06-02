@@ -4,6 +4,8 @@ tag:
     - event
     - conference
     - public speaking
+image: /assets/images/2025/beats-cityjs-athens.jpg
+linkedin: https://www.linkedin.com/posts/tonyedwardspz_cityjsathens-cityjs-javascript-activity-7335289056001482753-Bzs4
 ---
 
 Something special happened last week at [CityJS Athens](https://cityjsconf.org/).
@@ -22,11 +24,11 @@ There are too many great talks to mention them all, however the three that stuck
 
 ![Carmen discussing our node modules folder](/assets/images/2025/carmen-cityjs.jpg "Carmen discussing our node modules folder"){:loading="lazy"}
 
-- [Evyatar](https://bsky.app/profile/ealush.bsky.social) speed ran the creation of a unit testing library for form validation. This talk really made me question the approach I take to testing web front ends, and also inspired the room to follow our ideas  through to completion. Naturally, I'll just reach for his framework, [VestJS](https://vestjs.dev/), to do this task.
+[Evyatar](https://bsky.app/profile/ealush.bsky.social) speed ran the creation of a unit testing library for form validation. This talk really made me question the approach I take to testing web front ends, and also inspired the room to follow our ideas  through to completion. Naturally, I'll just reach for his framework, [VestJS](https://vestjs.dev/), to do this task.
 
 ![Evyatar Alush building an MVP of Vest](/assets/images/2025/evyatar-cityjs.jpg "Evyatar Alush building an MVP of Vest"){:loading="lazy"}
 
-- [Soumaya](https://bsky.app/profile/sumyerradi.bsky.social) continued the testing vibes, and gave a high level comparison of three popular frameworks for testing web applications. Which one won the battle I hear you cry! Well. . . it depends. . . as it does with most things in the world of development.
+[Soumaya](https://bsky.app/profile/sumyerradi.bsky.social) continued the testing vibes, and gave a high level comparison of three popular frameworks for testing web applications. Which one won the battle I hear you cry! Well. . . it depends. . . as it does with most things in the world of development.
 
 ![Soumaya Erradi disecting testing frameworks](/assets/images/2025/soumaya-cityjs.jpg "Soumaya Radi disecting testing frameworks"){:loading="lazy"}
 
