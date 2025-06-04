@@ -46,15 +46,15 @@ Beats, Rhymes, And Neural Nets, my session exploring the intersection of hip-hop
 
 I do have a bone to pick tho.
 
-The quiz team I was on won the JS quiz with a decisive lead. Regardless of what clips of [Faris](https://www.linkedin.com/in/farisaziz12/) and myself that [Muhammed](https://bsky.app/profile/salihgueler.dev) might show you. . . we won fair and square. 
+The quiz team I was on won the JS quiz with a decisive lead. [Regardless of what clips](https://bsky.app/profile/salihgueler.dev/post/3lqprpfo5o22x) of [Faris](https://www.linkedin.com/in/farisaziz12/) and myself that [Muhammed](https://bsky.app/profile/salihgueler.dev) might show you. . . we won fair and square. 
 
 Honest 😬
 
 It's amazing how real AI generated videos are nowadays 🤣
 
-![The City JS Athens winning quiz team](/assets/images/2025/cityjs-quiz-team.jpg "The CityJS Athens winning Quiz team"){:loading="lazy"}
+![The City JS Athens winning quiz team](/assets/images/2025/city-js-quiz-team.jpg "The CityJS Athens winning Quiz team"){:loading="lazy"}
 
-Despite having victory ripped from our hands at the last moment, this is sure to be the conf highlight of the year. I've made friends, fallen in love with a new city, and added another country to the list of those I've rapped in.
+Despite having victory ripped from our hands at the last moment, the event is sure to be the conf highlight of the year. I've made friends, fallen in love with a new city, and added another country to the list of those I've rapped in.
 
 The only thing missing was a conf branded himation. Perhaps a chiton too. It's alway good for event teams to have targets to aim for tho 🎯
 
@@ -62,10 +62,10 @@ The day after the conference, the speakers and a select group of attendees were 
 
 ![The Temple of Posiden, near athens](/assets/images/2025/cityjs-temple.jpg "The Temple of Posiden, near athens"){:loading="lazy"}
 
-We took in an ancient theatre plus the temple of Poseiden en-route to a beach front restaurant that felt like a little hideawy. This is where the locals come when the Athens beaches are flooded with tourists in the summer months.
+We took in an ancient theatre plus the temple of Poseiden en-route to a beach front restaurant that felt like a little hideaway. This is where the locals come when the Athens beaches are flooded with tourists in the summer months.
 
 ![The goodbye dinner view](/assets/images/2025/cityjs-beach-view.jpg "The goodbye dinner view"){:loading="lazy"}
 
-It was on this trip that the aquaintances we made amongst the group turned into friends. Whislt many of us had fuzzy heads from the night before, it was the PERFECT end to the conference trip. Laid back, relaxed, and leasurly.
+It was on this trip that the aquaintances we made amongst the group turned into friends. Whilst many of us had fuzzy heads from the night before, it was the PERFECT end to the conference trip. Laid back, relaxed, and leasurly.
 
 Can't wait to head back to Athens for either a visit, or the conference.
