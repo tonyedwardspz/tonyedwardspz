@@ -35,6 +35,10 @@ layout: page
 
 <section class="after-post">
 
+    {% if page.image-credit %}
+        <p style="font-style: italic;">Header photo by <a href="{{ page.image-credit-link }}" class="also-on" target="_blank" rel="noopener noreferrer">{{ page.image-credit }}</a>.</p>
+    {% endif %}
+    
     {% if page.reply %}
         <p style="font-style: italic;">A reply post to <a href="{{ page.reply }}" title="Reply to URL" target="_blank" rel="noopener noreferrer" >{{ page.reply }}</a></p>
     {% endif %}
