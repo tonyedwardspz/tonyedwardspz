@@ -10,17 +10,23 @@ tag:
 
 ---
 
-MIDI birds is a fast paced multimedia talk aimed at developer communities, but suitable for anyone who uses computers for work. It’s been great fun unleashing it on unsuspecting audiences. 
+MIDI birds is a fast paced multimedia talk aimed at developer communities, but suitable for anyone who uses computers for work. It’s been great fun unleashing it on unsuspecting audiences. The curent version is focused on .NET MAUI, although previous versions focused on Web Midi.
 
 During the talk, I walk the audience through the curation of a dataset comprising of 400 birdsong recordings and the creation of a handful of interactive browser based games. This is delivered through the lens of my [500 days of lockdown](https://tonyedwardspz.co.uk/blog/500-days-of-lockdown) during the 2020 - 2022 Covid-19 pandemic.
 
 This post fills the references gap in the live talk due to the pace of the session. It should provide a jumping off point for exploring the topics contained within it.
 
+[MIDI Birds Codebase (MAUI)](https://github.com/tonyedwardspz/Maui-Birds)
+
+[MIDI Birds Codebase (Web)](https://github.com/tonyedwardspz/midi-birds) - Demo codebase hosted on GitHub.
+
+[MIDI Native Interop](https://github.com/tonyedwardspz/MAUI-MIDI-Native-library-interop)
+
+[Managed MIDI Package](https://github.com/atsushieno/managed-midi) Used for early versions of the app. Output does not work in anything framework built ontop the Macios .NET project.
+
 [Personal Photos & Videos](https://www.instagram.com/tonyedwardspz/) - Many of the shots used during the talk have appeared on Instagram previously. Follow me for more of the same.
 
 [Photos of Dexter](https://www.instagram.com/explore/tags/dexpz/)
-
-[MIDI Birds](https://github.com/tonyedwardspz/midi-birds) - Demo codebase hosted on GitHub.
 
 [AKAI Professional MPK Mini 25](https://amzn.to/3DA0ojj) - Updated version of the controller used during the talk.
 
@@ -49,5 +55,3 @@ The MIDI Association - [The History of MIDI](https://www.midi.org/midi-articles/
 [Bird Song Extravenganza](https://www.youtube.com/watch?v=pYmlkBSQHkw) - Second extended sample used. By [Paul Dinning](https://www.youtube.com/c/PaulDinningWildlifeinCornwall).
 
 [At Least It Was Here by The 88](https://www.youtube.com/watch?v=nHbiHcrA18w) (Community Theme Song).
-
-Image courtesy of [Tech Exeter](https://twitter.com/TechExeter/status/1570431280847753216).
