@@ -16,11 +16,13 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ### 2025
 
+* Techorama (Netherlands) - Speaker: October 2025
+* We Are Developers World Congress - Moderator: July 2025
 * London .NET User Group - Speaker: June 2025
 * .NET York - Speaker: June 2025
 * .NET Sheffield - Speaker: June 2025
 * CityJS Athens - Speaker: May 2025
-* Techorama - Speaker: May 2025
+* Techorama (Belgium) - Speaker: May 2025
 * Leeds Sharp - Speaker: May 2024
 * .NET North - Speaker: May 2024
 * MAUI Day UK - Organiser: March 2025
