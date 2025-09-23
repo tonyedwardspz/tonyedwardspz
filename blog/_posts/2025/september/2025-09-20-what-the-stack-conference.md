@@ -33,7 +33,7 @@ Not at What the Stack.
 
 The community were keen to talk. Very keen in fact. And this is a great sign of a thriving, safe, and engaged community that you don't get at many events, and one of the things a community conferences should be. Rough around the edges, but polished in the places that matter. Informal, but without becoming a collection of cliques. Honest to what it is, whilst trying to grow into something greater.
 
-This is a direct reflection of the team behind the event, and the communities in the city. To say the speakers were given a personal touch is an understatement. It was more of a concierge service. Want a table at a restaurant booked? Sure. Need a taxi? No problem. Want a day trip to Kosovo? Be ready at 9am. EVERY single tech event organiser, regardless of the scale of the gathering, could learn a think or two from the team here.
+This is a direct reflection of the team behind the event, and the communities in the city. To say the speakers were given a personal touch is an understatement. It was more of a concierge service. Want a table at a restaurant booked? Sure. Need a taxi? No problem. Want a day trip to Kosovo? Be ready at 9am. EVERY single tech event organiser, regardless of the scale of the gathering, could learn a thing or two from the team here.
 
 Overall, this has been my favorite conference in a very long time, with Skopje rocketing to the top three of my favorite cities. If you are a speaker in the web world, follow the conf page and keep an eye out for next years CFP. You won't regret it.
 
