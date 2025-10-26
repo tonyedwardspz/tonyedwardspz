@@ -3,6 +3,40 @@ title: Midi Bird Species List
 layout: page
 ---
 
+<style>
+.bird-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 10px;
+}
+
+.bird-table th {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 2px solid #ddd;
+}
+
+.bird-table td {
+  padding: 8px;
+  vertical-align: top;
+}
+
+.bird-table img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.bird-table .image-credit {
+  font-style: italic;
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 4px;
+}
+</style>
+
 # Bird Species List
 
 This list contains all the bird species currently featured in the MIDI Birds project, extracted from our bird database.
