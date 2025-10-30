@@ -4,11 +4,11 @@ layout: page
 
 ---
 
-I really enjoy speaking at meetups and conferences for digital folk as well as hosting workshops. 
+I really enjoy speaking at meetups and conferences for digital folk, as well as hosting workshops. 
 
 Talks are typically fast but well-paced, entertaining (hopefully), and generally a little different from the majority of sessions.
 
-A current favorite talk to deliver is MIDI Birds, another adventure in web browser wonderland . . . and more recently in .NET MAUI. Starting with the 500 item bird song data set recorded during the Covid-19 pandemic, I take the audience on a multimedia journey that includes a mix of the history of MIDI, a handful of interactive demos, a body-mounted target, plus a rainbow wig.
+A current favorite talk to deliver is MIDI Birds, another adventure in web browser wonderland . . . and more recently in .NET MAUI. Starting with the 500 item bird song data set recorded during the Covid-19 pandemic, I take the audience on a multimedia journey that includes a mix of the history of MIDI, a handful of interactive demos, a body-mounted target, and a rainbow wig.
 
 [Get in touch](https://tonyedwardspz.co.uk/contact/) if you'd like me to speak at your event.
 
@@ -16,15 +16,18 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ### 2025
 
+* Tech Mids - Speaker: November 2025
+* Plymouth Web - Co-speaker: November 2025
 * Techorama (Netherlands) - Speaker: October 2025
+* [What the Stack (Skopje)](https://wts.sh/) - Speaker: September 2025
 * We Are Developers World Congress - Moderator: July 2025
 * London .NET User Group - Speaker: June 2025
 * .NET York - Speaker: June 2025
 * .NET Sheffield - Speaker: June 2025
 * CityJS Athens - Speaker: May 2025
 * Techorama (Belgium) - Speaker: May 2025
-* Leeds Sharp - Speaker: May 2024
-* .NET North - Speaker: May 2024
+* Leeds Sharp - Speaker: May 2025
+* .NET North - Speaker: May 2025
 * MAUI Day UK - Organiser: March 2025
 * .NET Birmingham - Speaker: March 2025
 * Digital Plymouth - Speaker: March 2025
