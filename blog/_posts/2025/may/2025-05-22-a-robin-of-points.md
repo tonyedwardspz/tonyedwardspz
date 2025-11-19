@@ -13,7 +13,7 @@ The first leg of the 2025 business bumble is complete. After reaching escape vel
 
 Nor was the Dot Net North meetup. The folks there were welcoming and played their part in the talk. Amongst all the people that have donned the protective equipment, some how Aiden seemed the most comfortable. Is it time for him to pack up the keyboard, give up the meetup life, and start a new career as a children's entertainer?
 
-![Foling around at Dotnet North](/assets/images/2025/dotnetnorth.jpg "Fooling around at Dotnet North"){:loading="lazy"}
+![Fooling around at Dotnet North](/assets/images/2025/dotnetnorth.jpg "Fooling around at Dotnet North"){:loading="lazy"}
 
 The amazing folks at Leeds JS wasn't my issue either. In fact they were the pick me up between problems. Together we pitted the browser SpeechRecognitionAPI against Whisper to find the true transcription champion. I'm not sure we came to a decisive conclusion, but one edged the other in this battle of the ages. The group seemed happy about it judging by the photo!
 
