@@ -16,6 +16,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 ### 2025
 
 * Tech Mids - Speaker: November 2025
+* HalfStack London - Rapper: Novemeber 2025
 * Plymouth Web - Co-speaker: November 2025
 * Techorama (Netherlands) - Speaker: October 2025
 * [What the Stack (Skopje)](https://wts.sh/) - Speaker: September 2025
