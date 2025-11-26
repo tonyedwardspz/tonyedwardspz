@@ -16,11 +16,11 @@ layout: page
 </p>
 
 <div id="about-human" class="show-about">
-  <p>I'm taking a little bit of time off work at the moment, recharging the batteries ready for my next professional adventure. That said, I head up <a href="https://thatseagullbob.co.uk">That Seagull Bob</a>. Bob specialises in making online audio and video super simple for it's clients, alongside a smattering of web development and event organising.</p>
+  <p>Professionally, I'm a Mobile App Developer at Sapphire Holidays. I specialise in building cross platform apps using the .NET MAUi framework, whether that's a to help guests get the most out of their accommodation, gardeners track their projects, or rappers writing their next song. Alongside development work, I support local and international communities to grow and thrive through the organisation of events and curation of online groups.</p>
 
-  <p>In recent years, I've done a few different things. I was part of the education outreach team for <a href="https://techcornwall.org">Tech Cornwall</a>, a members network in the South West of England. The project I headed up, helping disadvantaged young adults into fulfilling tech careers, won multiple awards including one for being the most inspirational offering in the South West digital industry. A few years on, I'm seeing the people the team and I inspired and coached through this role entering the software industry. It makes me immensely proud!</p>
+  <p>Over the past decade I've done a few different things. I've taught Computer Science courses at Plymouth University, helping to inspire the next generation into software engineers roles with support fo individuals continuing long beyond the life of the role. I headed up the That Seagull Bob team, specialising in making online audio and video super simple for our clients, alongside a smattering of web development and event organising. I was part of the education outreach team for <a href="https://techcornwall.org">Tech Cornwall</a>, a members network in the South West of England. The project I headed up, helping disadvantaged young adults into fulfilling tech careers, won multiple awards including one for being the most inspirational offering in the South West digital industry. A few years on, I'm seeing the people the team and I inspired and coached through this role entering the software industry. It makes me immensely proud!</p>
 
-  <p> Whilst at University, I co-founded the <a href="https://futuresync.co.uk">Future Sync Conference</a>, a multi track event based at Plymouth University with an online offering during the pandemic in 2020 (we were one of the first events in the world to pivot to an online format). Through this event, we brought internationally acclaimed speakers to the South West, standing on the stage alongside established and first time local speakers alike. This event ran for the last time in 2020, but not before offering a springboard for local speakers to step onto bigger stages around the virtual (and one day physical) world.</p>
+  <p>Whilst at University, I co-founded the Future Sync Conference, a multi track event based at Plymouth University with an online offering during the pandemic in 2020 (we were one of the first events in the world to pivot to an online format). Through this event, we brought internationally acclaimed speakers to the South West, standing on the stage alongside established and first time local speakers alike. This event ran for the last time in 2020, but not before offering a springboard for local speakers to step onto bigger stages around the virtual (and one day physical) world.</p>
 
   <h2>The Back Story</h2>
 
@@ -59,8 +59,8 @@ layout: page
     "vitalStatistics": {
         "name": "Tony Edwards",
         "description": "Doer of things with tech",
-        "dayJob": "Web Developer, Marketer and Event Organiser",
-        "sideHustle": "South West Communities"
+        "dayJob": "Web Developer, Speaker and Event Organiser",
+        "sideHustle": "MAUI Day UK"
     },
     "education": {
         "degree": "BSc Hons Web Application Development",
@@ -70,9 +70,9 @@ layout: page
         "allOfThem": "tonyedwardspz"
     },
     "softwareDevelopment":{
-        "programmingPreference": "Full Stack JavaScript (ES6)",
-        "programmingExperience": "JavaScript, Ruby, Swift, Java (Android), HTML, CSS",
-        "currentlyExploring": "Speech Recognition, Conversational Interfaces",
+        "programmingPreference": ".NET / Full Stack JavaScript (ES6)",
+        "programmingExperience": ".NET, JavaScript, Ruby, Swift, Java (Android), HTML, CSS",
+        "exploringOnTheSide": "Speech Recognition, Machine Learning, Orchestration",
         "gitHub": "https://github.com/tonyedwardspz"
     },
     "dependencies": {
@@ -93,17 +93,17 @@ layout: page
 vitalStatistics:
     name: 'Tony Edwards'
     description: 'Doer of things with tech'
-    dayJob: 'Web Developer, Marketer and Event Organiser'
-    sideHustle: 'South West Communities'
+    dayJob: 'Web Developer, Speaker and Event Organiser'
+    "sideHustle": "MAUI Day UK"
 education:
     degree: 'BSc Hons Web Application Development'
     institution: 'Plymouth University'
 socialNetworkHandle:
     allOfThem: tonyedwardspz
 softwareDevelopment:
-    programmingPreference: 'Full Stack JavaScript (ES6)'
-    programmingExperience: 'JavaScript, Ruby, Swift, Java (Android), HTML, CSS'
-    currentlyExploring: 'Speech Recognition, Conversational Interfaces'
+    programmingPreference: '.NET / Full Stack JavaScript (ES6)'
+    programmingExperience: '.NET, JavaScript, Ruby, Swift, Java (Android), HTML, CSS'
+    exploringOnTheSide: 'Speech Recognition, Machine Learning, Orchestration'
     gitHub: 'https://github.com/tonyedwardspz'
 dependencies:
     drinks: 'Green Tea'
