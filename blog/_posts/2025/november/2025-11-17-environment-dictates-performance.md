@@ -1,10 +1,10 @@
 ---
 title: Environment dictates performance
 tag:
-    - Life
+    - life
 ---
 
-A recent conversation with a mentee reminded me of this well known phrase. It's one that makes logical sense. 
+A recent conversation with a mentee who is stepping out of education into the world reminded me of this well known phrase. It's one that makes logical sense. 
 
 If you're in a high performing environment, your much more likely to perform to a high level.
 
