@@ -1,0 +1,2 @@
+# Ignore year/month folders under blog/_posts
+blog/_posts/*/
