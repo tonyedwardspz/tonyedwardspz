@@ -14,7 +14,7 @@ Whilst we're well past the prototyping phase, the [Designing UX: Prototyping](ht
 
 ![Designing UX: Prototyping book](/assets/images/2025/testing-book.jpg "Designing UX: Prototyping"){:loading="lazy"}
 
-On the day, test users were provided with four groups of related tasks, the kind of things that guest will over the lifecycle of their stay. Feedback was gathered via both a form and conversation, plus observational notes to pair with screen and audio recordings. The perspective afforded by looking over a shoulder instead of testing yourself allows different elements of the product to jump out. E.g, 
+On the day, test users were provided with four groups of related tasks, the kind of things that guests will over the lifecycle of their stay. Feedback was gathered via both a form and conversation, plus observational notes to pair with screen and audio recordings. The perspective afforded by looking over a shoulder instead of testing yourself allows different elements of the product to jump out. E.g, 
 
 - I never miss the hit box to open the account edit screen, but every single tester did.
 - Users consistently look for X as part of the search interface.
