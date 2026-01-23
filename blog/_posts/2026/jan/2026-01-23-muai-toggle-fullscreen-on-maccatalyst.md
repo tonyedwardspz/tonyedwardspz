@@ -7,7 +7,7 @@ tag:
 
 .NET MAUI Mac Catalyst apps run on macOS, but use UIKit (iOS frameworks) rather than AppKit (native macOS frameworks). To toggle full screen, the same behavior as clicking the green "zoom" button in the window chrome, we need to bridge into AppKit's NSApplication and NSWindow using the Objective-C runtime.
 
-```c#
+```
 #if MACCATALYST
 
     var nsAppClass = ObjCRuntime.Class.GetHandle("NSApplication");
@@ -18,6 +18,8 @@ tag:
 
 #endif
 ```
+
+If you want to see it in action, check out [this demo project](https://github.com/tonyedwardspz/MAUI-full-screen-mac-demo-project) containing a Mac App.
 
 Here's how it works.
 
