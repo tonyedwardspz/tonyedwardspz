@@ -1,5 +1,5 @@
 ---
-title: You consume entertainment. You make fun.
+title: Entertainment is consumed. Fun is made.
 tag:
     - six word story
 ---
