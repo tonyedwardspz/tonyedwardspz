@@ -13,6 +13,15 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ## Past, present, and future speaking experience.
 
+* MAUI Day Cologne - Co-Organiser: October 2027
+* MAUI Day Skopje - Host / Co-Corganiser: September 2027 
+* Zurich JS - Host: September 2027
+* Re:connect Conference - Speaker: July 2027
+* MAUI Day Krakow - Host: May 2026
+* City JS London - Host: April 2026
+* Interceltic Forum (Isle of Man) - Speaker: April 2026
+* MAUI Day London - Host: February 2026
+
 ### 2025
 
 * Tech Mids - Speaker: November 2025
