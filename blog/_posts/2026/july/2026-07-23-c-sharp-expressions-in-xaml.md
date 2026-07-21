@@ -27,7 +27,7 @@ C# expressions let you use C# syntax inside XAML attributes. That includes prope
 
 The feature is being introduced as part of .NET MAUI in .NET 11 and is still experimental at the time of writing. Some of the syntax, behaviour and limitations may change before the final release, so this probably isn’t the moment to enthusiastically rewrite half a production application on a Friday afternoon.
 
-The interesting part is that these expressions aren’t simply strings being interpreted at runtime. They’re understood by the .NET MAUI XAML source generator, which can inspect an expression, work out which types and properties it uses, and generate the required C# or binding code at build time.
+The interesting part is that these expressions aren’t simply strings being interpreted at runtime. They’re understood by the .NET MAUI XAML source generator, which can inspect an expression, work out which types and properties it uses, and generate the required C# or binding code at build time. That means that they're SourceGen only, and not available if using XamlC or Runtime inflation.
 
 That makes this more than shorter syntax. It gives the compiler a much better understanding of what the XAML is trying to do. It gives you less code to grep.
 
