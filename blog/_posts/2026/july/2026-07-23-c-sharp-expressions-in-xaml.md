@@ -1,9 +1,11 @@
 ---
 title: A quick guide to c# expressions in .net MAUI.
-tags:
+tag:
     - dotnet maui
     - programming
 ---
+
+*This post is part of the [MAUI UI July](https://goforgoldman.com/posts/mauiuijuly-26/) community series of blog posts and videos, hosted by Matt Goldman. Take a look the other posts in this series!*
 
 I’ve written more Boolean converters than I’d care to admit. Not complicated ones, either. They work, but a convertor is a lot of ceremony for something so small.
 
