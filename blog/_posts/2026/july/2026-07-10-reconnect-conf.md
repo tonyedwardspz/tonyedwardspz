@@ -35,4 +35,4 @@ Thanks to everyone who came along to listen to me wax lyrical about #dotnetMAUI 
 
 Can't wait for my next visit!
 
-![Ice Cream on Bournemouth peir](/assets/images/bournemouth-ice-cream.png)
+![Ice Cream on Bournemouth peir](/assets/images/bournemouth-ice-cream.jpg)
