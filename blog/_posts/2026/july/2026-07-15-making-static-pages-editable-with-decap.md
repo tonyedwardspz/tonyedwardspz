@@ -1,5 +1,5 @@
 ---
-title: Making atatic pages editable with decap
+title: Making static Astro pages editable with Decap
 tag:
     - programming
 ---
