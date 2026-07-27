@@ -13,14 +13,18 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 
 ## Past, present, and future speaking experience.
 
+### 2026
+
 * MAUI Day Cologne - Co-Organiser: October 2027
-* MAUI Day Skopje - Host / Co-Corganiser: September 2027 
+* ReactJS Barcelona - Speaker: September 2027
+* WhatTheStack Conf - Host: September 2027
+* MAUI Day Skopje - Host / Co-organiser: September 2027 
 * Zurich JS - Host: September 2027
 * Re:connect Conference - Speaker: July 2027
 * MAUI Day Krakow - Host: May 2026
 * City JS London - Host: April 2026
 * Interceltic Forum (Isle of Man) - Speaker: April 2026
-* MAUI Day London - Host: February 2026
+* MAUI Day London - Host / Co-organiser: February 2026
 
 ### 2025
 
@@ -28,7 +32,7 @@ A current favorite talk to deliver is MIDI Birds, another adventure in web brows
 * HalfStack London - Rapper: Novemeber 2025
 * Plymouth Web - Co-speaker: November 2025
 * Techorama (Netherlands) - Speaker: October 2025
-* [What the Stack (Skopje)](https://wts.sh/) - Speaker: September 2025
+* [What the Stack (Skopje)](https://wts.sh/) - Speaker: September 2025 [Video](https://www.youtube.com/watch?v=87_5dkW7TeM)
 * We Are Developers World Congress - Moderator: July 2025
 * London .NET User Group - Speaker: June 2025
 * .NET York - Speaker: June 2025
