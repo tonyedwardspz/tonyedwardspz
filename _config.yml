@@ -22,6 +22,12 @@ post-advance-links: [blog]
 # SEO-Tag Overrides
 locale: en_GB
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      omit: false
 
 plugins:
   - jekyll-seo-tag
