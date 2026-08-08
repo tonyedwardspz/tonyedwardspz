@@ -2,6 +2,7 @@
 title: Making static Astro pages editable with Decap
 tag:
     - programming
+omit: true
 ---
 
 I recently added Decap CMS to an Astro site that already had an ordinary collection of articles. That bit was straightforward enough: articles all share roughly the same shape, so they fit neatly into a folder-based content collection.
