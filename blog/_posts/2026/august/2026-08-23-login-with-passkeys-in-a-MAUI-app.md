@@ -1,5 +1,5 @@
 ---
-title: Login with Passkeys in a .NET MAUI 3App
+title: Login with Passkeys in a .NET MAUI App
 tag:
     - dotnet maui
     - programming
