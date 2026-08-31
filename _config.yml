@@ -33,6 +33,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-default-layout
+  - jekyll-sitemap
 
 plugins_dir:
   - jekyll-paginate
