@@ -36,7 +36,7 @@ layout: compress
 
     <div class="wrapper-large">
         {% if page.tag %}
-            <div class="post">
+            <main class="post" role="main">
         {% else %}
             {% if showHeader != true %}
                 <div class="page {{ page.title | downcase }}">
@@ -46,7 +46,7 @@ layout: compress
         {% endif %}
 
             {{ content }}
-        </div>
+            </main>
     </div>
 
     <svg display="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">

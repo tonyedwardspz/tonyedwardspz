@@ -48,27 +48,27 @@ layout: default
         </div>
     </header>
 {% else %}
-    <header class="header-not-home">
-        <a href="{{ site.url }}/">{{ site.name }}</a>
+    <header class="header-not-home" role="banner">
+        <a href="{{ site.url }}/" title="Back to the Homepage">{{ site.name }}</a>
     </header>
 {% endif %}
 
 
-<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}" role="navigation">
     <ul class="list">
         {% if page.title == "Home" %}
             <li class="item">
-                <a class="link" href="{{ site.url }}/about">About Me</a>
+                <a class="link" href="{{ site.url }}/about" title="About Tony Edwards">About Me</a>
             </li>
         {% endif %}
         <li class="item {% if page.title == 'Blog' or page.title == 'Tags' or page.collection == 'posts' %}active{% endif %}">
-            <a class="link" href="{{ site.url }}/blog">Blog Posts</a>
+            <a class="link" href="{{ site.url }}/blog" title="Blog post feed">Blog Posts</a>
         </li>
         <li class="item {% if page.title == "Speaking" %}active{% endif %}">
-            <a class="link" href="{{ site.url }}/speaking">Speaking</a>
+            <a class="link" href="{{ site.url }}/speaking" title="My speaking history">Speaking</a>
         </li>
         <li class="item {% if page.title == "Contact Me" %}active{% endif %}">
-            <a class="link" href="{{ site.url }}/contact">Contact Me</a>
+            <a class="link" href="{{ site.url }}/contact" title="Contact Tony Edwards">Contact Me</a>
         </li>
     </ul>
 </nav>
@@ -76,16 +76,16 @@ layout: default
 {{content}}
 
 {% if page.title != "Home" %}
-    <footer class="footer-main">
-        © <a href="{{site.url}}" class="link">{{ site.name }}</a></br> 
-        <a class="link" href="{{ site.url }}/about">About</a> -
-        <a class="link" href="{{ site.url }}/blog">Blog</a>  -  
-        <a class="link" href="{{ site.url }}/speaking">Speaking</a> - 
-        <a class="link" href="{{ site.url }}/contact">Contact</a>
+    <footer class="footer-main" role="contentinfo">
+        © <a href="{{site.url}}" class="link" title="Tony Edwards Homepage">{{ site.name }}</a></br> 
+        <a class="link" href="{{ site.url }}/about" title="About Tony Edwards">About</a> -
+        <a class="link" href="{{ site.url }}/blog" title="Blog post feed">Blog</a>  -  
+        <a class="link" href="{{ site.url }}/speaking" title="My speaking history">Speaking</a> - 
+        <a class="link" href="{{ site.url }}/contact" title="Contact Tony Edwards">Contact</a>
 
         <p class="extra">
-            View on <a class="link" href="https://github.com/tonyedwardspz/tonyedwardspz">Github</a> - 
-            <a class="link" href="{{ site.url }}/feed.xml" target="_blank">Subscribe via RSS</a>
+            View on <a class="link" href="https://github.com/tonyedwardspz/tonyedwardspz" title="View website GitHub repository">Github</a> - 
+            <a class="link" href="{{ site.url }}/feed.xml" target="_blank" title="Subscribe to blog via RSS">Subscribe via RSS</a>
         </p>
     </footer>
 {% endif %}
