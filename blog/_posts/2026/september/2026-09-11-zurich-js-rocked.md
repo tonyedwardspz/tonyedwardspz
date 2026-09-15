@@ -61,3 +61,5 @@ Sorry to the audience if you walked away from the event with sore hands and thro
 Awesome work Züri 🙌
 
 ![The Zurich JS organising team](/assets/images/2026/zurichjs-organising-team.jpg)
+
+*Host photo by [Alexander Brandt](https://www.linkedin.com/in/brandtcodes/) and noise warning photo by [Tejas Kumar](https://www.linkedin.com/in/tejasq/)*
