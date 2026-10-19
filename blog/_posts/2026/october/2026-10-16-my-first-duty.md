@@ -32,7 +32,7 @@ Not always the easiest thing in the world for a comp sci student.
 
 For me, delivering my first session where I can say I am a Microsoft MVP was pretty special. 
 
-It was a goal I started working towards whilst lecturing at the uni, set as part of a term long project in taking steps incremental steps towards achieving something. The classes goal was to build a game. Mine was to become an MVP. We all went through the exercises together.
+It was a goal I started working towards whilst lecturing at the uni, set as part of a term long project in taking incremental steps towards achieving something. The classes goal was to build a game. Mine was to become an MVP. We all went through the exercises together.
 
 It turns out the methods I taught in those workshops really do work.
 
