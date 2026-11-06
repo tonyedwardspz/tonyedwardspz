@@ -1,8 +1,9 @@
 ---
 title: Your MAUI schedule for .NET Conf 2026
+tag:
+    - dotnet maui
+    - conference
 ---
-
-# Your MAUI schedule for .NET Conf 2026
 
 [.NET Conf](https://www.dotnetconf.net/) is just around the corner!
 
