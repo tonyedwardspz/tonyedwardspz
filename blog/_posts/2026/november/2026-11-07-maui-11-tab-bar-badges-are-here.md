@@ -3,6 +3,7 @@ title: Native badges for Shell tabs in .NET 11
 tag:
     - dotnet maui
     - programming
+omit: true
 ---
 
 Badges are a small but useful part of many mobile applications. Whether you're displaying unread messages, pending notifications, or simply indicating that something needs attention, they're a familiar way to communicate information without requiring the user to navigate away from their current page.
