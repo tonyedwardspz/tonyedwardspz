@@ -6,11 +6,9 @@ tag:
     - programming
 ---
 
-# The Calendar Wasn't Slow. My Template Was Expensive.
-
 I've been working on a set of custom controls for .NET MAUI, including a date picker built around the `SfCalendar` control from the [Syncfusion .NET MAUI Toolkit](https://github.com/syncfusion/maui-toolkit).
 
-Syncfusion gave me pretty much everything I needed from a calendar. It's flexible, supports custom day templates, and performs well out of the box. The problem was that I needed to do quite a bit more with individual dates than the default presentation allowed. Afterall, Calendars are pretty central to booking a holiday.
+Syncfusion gave me pretty much everything I needed from a calendar. It's flexible, supports custom day templates, and performs well out of the box. The problem was that I needed to do quite a bit more with individual dates than the default presentation allowed. Afterall, calendars are pretty central to booking a holiday.
 
 For my application, a date isn't simply available or unavailable. I need to distinguish between available nights, valid arrival and departure dates, selected ranges, and dates that fall within a stay. There are different background colours, endpoint indicators, theme overrides, and accessibility descriptions to consider.
 
